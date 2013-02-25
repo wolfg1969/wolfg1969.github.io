@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: git | wolfg's Weblog]]></title>
+  <link href="http://blog.guoyong.me/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://blog.guoyong.me/"/>
+  <updated>2013-02-25T16:01:52+00:00</updated>
+  <id>http://blog.guoyong.me/</id>
+  <author>
+    <name><![CDATA[wolfg]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[今天用到的两个命令]]></title>
+    <link href="http://blog.guoyong.me/blog/2012/11/12/push-tags-and-delete-remote-branch/"/>
+    <updated>2012-11-12T17:39:00+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2012/11/12/push-tags-and-delete-remote-branch</id>
+    <content type="html"><![CDATA[<p>今天用到了两个git命令：</p>
+
+<h2>把本地打的标签推到远程仓库</h2>
+
+<p><code>
+$ git push --tags
+</code></p>
+
+<p>这个用在git flow release finish之后，把新建的版本tag推到中心库里。</p>
+
+<h2>删除远程仓库里的废弃分支</h2>
+
+<p><code>
+$ git branch -D depreated_branch
+$ git push origin :depreated_branch
+</code></p>
+]]></content>
+  </entry>
+  
+</feed>

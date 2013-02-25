@@ -1,99 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>wolfg's Weblog</title>
-  <meta name="author" content="wolfg">
-
-  
-  <meta name="description" content="树莓派的串口接口是P1接口上面一排（靠近板子边缘的一排）左数第4针（TX）和第五针（RX） 系统中对应的串口设备是/dev/ttyAMAO，但默认用于内核输出日志的。若想连接串口设备，比如GPS模块，需要改动系统这个默认配置。 配置方法如下（修改2个文件，记得先备份好原始文件）： 修改 /boot &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://blog.guoyong.me/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="wolfg's Weblog" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">wolfg's Weblog</a></h1>
-  
-    <h2>wolfg's journey with open source, linux, programming, sysadm …</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:blog.guoyong.me" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[wolfg's Weblog]]></title>
+  <link href="http://blog.guoyong.me/atom.xml" rel="self"/>
+  <link href="http://blog.guoyong.me/"/>
+  <updated>2013-02-25T16:01:52+00:00</updated>
+  <id>http://blog.guoyong.me/</id>
+  <author>
+    <name><![CDATA[wolfg]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2013/02/15/raspberry-pi-serial-port-setup/">树莓派串口配置</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-02-15T17:23:40+00:00" pubdate data-updated="true">Feb 15<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>树莓派的串口接口是P1接口上面一排（靠近板子边缘的一排）左数第4针（TX）和第五针（RX）</p>
+  <entry>
+    <title type="html"><![CDATA[树莓派串口配置]]></title>
+    <link href="http://blog.guoyong.me/blog/2013/02/15/raspberry-pi-serial-port-setup/"/>
+    <updated>2013-02-15T17:23:40+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2013/02/15/raspberry-pi-serial-port-setup</id>
+    <content type="html"><![CDATA[<p>树莓派的串口接口是P1接口上面一排（靠近板子边缘的一排）左数第4针（TX）和第五针（RX）</p>
 
 <p><a href="http://guoyong.me/blog/wp-content/uploads/2013/02/RPI-serial_UART.png"><img src="http://guoyong.me/blog/wp-content/uploads/2013/02/RPI-serial_UART-224x300.png" alt="" /></a></p>
 
@@ -156,42 +81,15 @@
 <p>串口设置好了，下一篇介绍gpsd的配置。最后，欢迎订阅微信公众帐号“树莓派玩家”，搜索raspberry_pi或者扫描下面的二维码。</p>
 
 <p><a href="http://guoyong.me/blog/wp-content/uploads/2013/02/qrcode_for_gh_f5648ddbdaf3_258.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/02/qrcode_for_gh_f5648ddbdaf3_258.jpg" alt="" /></a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/01/12/play-raspberry-pi-day5/">Raspberry Pi 跨年之旅 – 第五天</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-01-12T17:27:18+00:00" pubdate data-updated="true">Jan 12<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>受国外玩家的启发，用乐高积木搭了个“机箱”。</p>
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 – 第五天]]></title>
+    <link href="http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day5/"/>
+    <updated>2013-01-12T17:27:18+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day5</id>
+    <content type="html"><![CDATA[<p>受国外玩家的启发，用乐高积木搭了个“机箱”。</p>
 
 <p><a href="http://guoyong.me/blog/wp-content/uploads/2013/01/lego-case.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/01/lego-case-150x150.jpg" alt="" /></a></p>
 
@@ -200,84 +98,30 @@
 <p>下一步的计划是制作一台车载电脑。</p>
 
 <p>敬请期待。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/01/12/play-raspberry-pi-day4/">Raspberry Pi 跨年之旅 – 第四天</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-01-12T17:23:34+00:00" pubdate data-updated="true">Jan 12<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>今天先安装了一些自己常用的工具和软件：oh-my-zsh, gitflow, geany, vim, gimp 什么的。</p>
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 – 第四天]]></title>
+    <link href="http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day4/"/>
+    <updated>2013-01-12T17:23:34+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day4</id>
+    <content type="html"><![CDATA[<p>今天先安装了一些自己常用的工具和软件：oh-my-zsh, gitflow, geany, vim, gimp 什么的。</p>
 
 <p>试了下另一个桌面环境OpenBox，很简洁很强大，但不太熟悉。想起可以用之前在笔记本上玩Gentoo时用过的Fluxbox桌面，刚好配置还搁在github上。</p>
 
 <p><a href="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4228.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4228-e1357982513145-150x150.jpg" alt="" /></a></p>
 
 <p>安装Fcitx输入法，注意要把它需要的环境变量设置在/etc/profile.d/下的脚本中。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/01/12/play-raspberry-pi-day3/">Raspberry Pi 跨年之旅 – 第三天</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-01-12T16:38:00+00:00" pubdate data-updated="true">Jan 12<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>树莓派装好后，系统默认设置的源地址是http://mirrordirector.raspbian.org/raspbian/ 这个会自动寻找离你最“近”的源镜像服务器，但不幸的是我这里找到的在教育网内，太慢了。修改/etc/apt/source.list，用了一个韩国的镜像，快了很多。</p>
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 – 第三天]]></title>
+    <link href="http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day3/"/>
+    <updated>2013-01-12T16:38:00+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day3</id>
+    <content type="html"><![CDATA[<p>树莓派装好后，系统默认设置的源地址是http://mirrordirector.raspbian.org/raspbian/ 这个会自动寻找离你最“近”的源镜像服务器，但不幸的是我这里找到的在教育网内，太慢了。修改/etc/apt/source.list，用了一个韩国的镜像，快了很多。</p>
 
 <p>安装Arduino开发环境</p>
 
@@ -299,42 +143,15 @@
 <li><p><a href="http://guoyong.me/linux/play-raspberry-pi-day3/">Day 3</a></p></li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/01/04/play-raspberry-pi-day2/">Raspberry Pi 跨年之旅 - 第二天</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-01-04T22:20:00+00:00" pubdate data-updated="true">Jan 4<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>2012年12月30日 傍晚，京东上订购的转接线到货了，接上显示器，一切正常。</p>
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 - 第二天]]></title>
+    <link href="http://blog.guoyong.me/blog/2013/01/04/play-raspberry-pi-day2/"/>
+    <updated>2013-01-04T22:20:00+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2013/01/04/play-raspberry-pi-day2</id>
+    <content type="html"><![CDATA[<p>2012年12月30日 傍晚，京东上订购的转接线到货了，接上显示器，一切正常。</p>
 
 <p><a href="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4174.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4174-e1357308299192-150x150.jpg" alt="" /></a></p>
 
@@ -358,42 +175,15 @@
 <li><p><a href="http://guoyong.me/linux/play-raspberry-pi-day3/">Day 3</a></p></li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/01/03/play-raspberry-pi-day1/">Raspberry Pi 跨年之旅 - 第一天</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-01-03T21:02:27+00:00" pubdate data-updated="true">Jan 3<span>rd</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>2012年12月30日，元旦5天假期开始。公司是文艺公司，所以连放五天假。天气寒冷，不想到户外活动。想起了买来后一直没动过的树莓派，决定趁着有时间赶紧玩一玩。</p>
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 - 第一天]]></title>
+    <link href="http://blog.guoyong.me/blog/2013/01/03/play-raspberry-pi-day1/"/>
+    <updated>2013-01-03T21:02:27+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2013/01/03/play-raspberry-pi-day1</id>
+    <content type="html"><![CDATA[<p>2012年12月30日，元旦5天假期开始。公司是文艺公司，所以连放五天假。天气寒冷，不想到户外活动。想起了买来后一直没动过的树莓派，决定趁着有时间赶紧玩一玩。</p>
 
 <p>先去到官网，读了下Quick Start文档，下载Raspbian “wheezy”映像文件。</p>
 
@@ -444,42 +234,15 @@ hdmi_force_hotplug=1
 <p><a href="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4170.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4170-e1357225409692-150x150.jpg" alt="" /></a></p>
 
 <p>待续。。。 （图像显示自动旋转了90度，将就下吧）</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/11/12/push-tags-and-delete-remote-branch/">今天用到的两个命令</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-11-12T17:39:00+00:00" pubdate data-updated="true">Nov 12<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>今天用到了两个git命令：</p>
+  <entry>
+    <title type="html"><![CDATA[今天用到的两个命令]]></title>
+    <link href="http://blog.guoyong.me/blog/2012/11/12/push-tags-and-delete-remote-branch/"/>
+    <updated>2012-11-12T17:39:00+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2012/11/12/push-tags-and-delete-remote-branch</id>
+    <content type="html"><![CDATA[<p>今天用到了两个git命令：</p>
 
 <h2>把本地打的标签推到远程仓库</h2>
 
@@ -498,42 +261,15 @@ hdmi_force_hotplug=1
 
 
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/11/11/re-setup-octopress/">重建Octopress环境</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-11-11T20:36:00+00:00" pubdate data-updated="true">Nov 11<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>在另一台机器上重新设置Octopress环境的步骤如下：</p>
+  <entry>
+    <title type="html"><![CDATA[重建Octopress环境]]></title>
+    <link href="http://blog.guoyong.me/blog/2012/11/11/re-setup-octopress/"/>
+    <updated>2012-11-11T20:36:00+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2012/11/11/re-setup-octopress</id>
+    <content type="html"><![CDATA[<p>在另一台机器上重新设置Octopress环境的步骤如下：</p>
 
 <h2>安装octopress</h2>
 
@@ -580,42 +316,15 @@ hdmi_force_hotplug=1
 </span><span class='line'>$ rake generate
 </span><span class='line'>$ rake deploy</span></code></pre></td></tr></table></div></figure>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/11/07/undo-last-git-commit/">撤销最近一次提交</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-11-07T16:50:00+00:00" pubdate data-updated="true">Nov 7<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>团队里的一位兄弟忘了切换分支就commit了，而且还push到了中心库。这就需要把这次commit给回退，操作如下：</p>
+  <entry>
+    <title type="html"><![CDATA[撤销最近一次提交]]></title>
+    <link href="http://blog.guoyong.me/blog/2012/11/07/undo-last-git-commit/"/>
+    <updated>2012-11-07T16:50:00+00:00</updated>
+    <id>http://blog.guoyong.me/blog/2012/11/07/undo-last-git-commit</id>
+    <content type="html"><![CDATA[<p>团队里的一位兄弟忘了切换分支就commit了，而且还push到了中心库。这就需要把这次commit给回退，操作如下：</p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -668,119 +377,7 @@ hdmi_force_hotplug=1
 <li><a href="http://stackoverflow.com/questions/927358/undo-last-git-commit">Undo last Git commit</a></li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/02/15/raspberry-pi-serial-port-setup/">树莓派串口配置</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/01/12/play-raspberry-pi-day5/">Raspberry Pi 跨年之旅 – 第五天</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/01/12/play-raspberry-pi-day4/">Raspberry Pi 跨年之旅 – 第四天</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/01/12/play-raspberry-pi-day3/">Raspberry Pi 跨年之旅 – 第三天</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/01/04/play-raspberry-pi-day2/">Raspberry Pi 跨年之旅 - 第二天</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/wolfg1969">@wolfg1969</a> on GitHub
-  
-  <script type="text/javascript">
-    $.domReady(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'wolfg1969',
-            count: 5,
-            skip_forks: false,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - wolfg -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>

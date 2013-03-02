@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Raspeberry Pi | 树莓派玩家 Raspberry Pi Hobbyist]]></title>
+  <link href="http://raspberrypi.guoyong.me//categories/raspeberry-pi/atom.xml" rel="self"/>
+  <link href="http://raspberrypi.guoyong.me/"/>
+  <updated>2013-03-02T08:50:28+00:00</updated>
+  <id>http://raspberrypi.guoyong.me/</id>
+  <author>
+    <name><![CDATA[wolfg]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 – 第四天]]></title>
+    <link href="http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day4/"/>
+    <updated>2013-01-12T17:23:34+00:00</updated>
+    <id>http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day4</id>
+    <content type="html"><![CDATA[<p>今天先安装了一些自己常用的工具和软件：oh-my-zsh, gitflow, geany, vim, gimp 什么的。</p>
+
+<p>试了下另一个桌面环境OpenBox，很简洁很强大，但不太熟悉。想起可以用之前在笔记本上玩Gentoo时用过的Fluxbox桌面，刚好配置还搁在github上。</p>
+
+<p><a href="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4228.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4228-e1357982513145-150x150.jpg" alt="" /></a></p>
+
+<p>安装Fcitx输入法，注意要把它需要的环境变量设置在/etc/profile.d/下的脚本中。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi 跨年之旅 – 第三天]]></title>
+    <link href="http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day3/"/>
+    <updated>2013-01-12T16:38:00+00:00</updated>
+    <id>http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day3</id>
+    <content type="html"><![CDATA[<p>树莓派装好后，系统默认设置的源地址是http://mirrordirector.raspbian.org/raspbian/ 这个会自动寻找离你最“近”的源镜像服务器，但不幸的是我这里找到的在教育网内，太慢了。修改/etc/apt/source.list，用了一个韩国的镜像，快了很多。</p>
+
+<p>安装Arduino开发环境</p>
+
+<pre><code>&lt;code&gt;$ wajig install arduino
+&lt;/code&gt;
+</code></pre>
+
+<p>安装好后，启动连接Arduino开发板，启动开发环境主程序。编译上传Blink示例程序，没有任何问题。</p>
+
+<p><a href="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4202.jpg"><img src="http://guoyong.me/blog/wp-content/uploads/2013/01/IMG_4202-150x150.jpg" alt="" /></a></p>
+
+<p>待续。。。</p>
+
+<p>Raspberry Pi 跨年之旅：</p>
+
+<ul>
+<li><p><a href="http://guoyong.me/linux/play-raspberry-pi-day1/">Day 1</a></p></li>
+<li><p><a href="http://guoyong.me/linux/play-raspberry-pi-day2/">Day 2</a></p></li>
+<li><p><a href="http://guoyong.me/linux/play-raspberry-pi-day3/">Day 3</a></p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

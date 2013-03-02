@@ -1,47 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.guoyong.me/blog/2012/11/07/undo-last-git-commit/</loc>
-        <lastmod>2013-02-17T09:47:59+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/2013/01/03/play-raspberry-pi-day1/</loc>
+        <lastmod>2013-02-26T16:26:16+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2012/11/11/re-setup-octopress/</loc>
-        <lastmod>2013-02-17T09:47:59+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/2013/01/04/play-raspberry-pi-day2/</loc>
+        <lastmod>2013-02-26T16:26:36+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2012/11/12/push-tags-and-delete-remote-branch/</loc>
-        <lastmod>2013-02-17T09:47:59+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day3/</loc>
+        <lastmod>2013-02-26T16:26:53+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2013/01/03/play-raspberry-pi-day1/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day4/</loc>
+        <lastmod>2013-02-26T16:27:06+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2013/01/04/play-raspberry-pi-day2/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/2013/01/12/play-raspberry-pi-day5/</loc>
+        <lastmod>2013-02-26T16:27:19+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day3/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/2013/02/15/raspberry-pi-serial-port-setup/</loc>
+        <lastmod>2013-02-26T16:25:54+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day4/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/</loc>
+        <lastmod>2013-02-26T16:27:19+00:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.guoyong.me/blog/2013/01/12/play-raspberry-pi-day5/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.guoyong.me/blog/2013/02/15/raspberry-pi-serial-port-setup/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.guoyong.me/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.guoyong.me/blog/archives/</loc>
-        <lastmod>2013-02-17T10:00:12+00:00</lastmod>
+        <loc>http://raspberrypi.guoyong.me/blog/archives/</loc>
+        <lastmod>2013-02-26T16:27:19+00:00</lastmod>
     </url>
 </urlset>

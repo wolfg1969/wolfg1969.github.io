@@ -55,8 +55,8 @@
 </form>
   
 <ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/">首页</a></li>
+  <li><a href="/archives">文章归档</a></li>
 </ul>
 
 </nav>
@@ -116,12 +116,18 @@
 </code></pre>
 
 <ul>
-<li><p>修改/etc/inittab 注释掉下面这一行，一般是文件的最后一行。注释掉就是在行首添加一个英文井号。</p>
-
-<p>$ sudo vi /etc/inittab</p>
-
-<h1>T0:23:respawn:/sbin/getty -L ttyAMA0 115200 vt100</h1></li>
+<li>修改/etc/inittab 注释掉下面这一行，一般是文件的最后一行。注释掉就是在行首添加一个英文井号。</li>
 </ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo vi /etc/inittab </span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>#T0:23:respawn:/sbin/getty -L ttyAMA0 115200 vt100</span></code></pre></td></tr></table></div></figure>
 
 
 <p>顺便说下命令行下用什么编辑器，我比较习惯用vi。对命令行不太熟悉的同学就用nano吧，用之前google下教程，非常简单。</p>

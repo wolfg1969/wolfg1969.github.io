@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 不上班的程序员</title>
-    <link>http://wah.guoyong.me/post/</link>
+    <link>http://blog.guoyong.me/post/</link>
     <description>Recent content in Posts on 不上班的程序员</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 17 Mar 2016 15:04:19 +0800</lastBuildDate>
-    <atom:link href="http://wah.guoyong.me/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.guoyong.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>dance of plant</title>
-      <link>http://wah.guoyong.me/post/dance-of-plant/</link>
+      <link>http://blog.guoyong.me/post/dance-of-plant/</link>
       <pubDate>Thu, 17 Mar 2016 15:04:19 +0800</pubDate>
       
-      <guid>http://wah.guoyong.me/post/dance-of-plant/</guid>
+      <guid>http://blog.guoyong.me/post/dance-of-plant/</guid>
       <description></description>
     </item>
     

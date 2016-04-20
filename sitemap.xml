@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://blog.guoyong.me/</loc>
-    <lastmod>2016-03-19T19:53:28+08:00</lastmod>
+    <lastmod>2016-04-20T17:06:03+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/post/2016/04/20/django-rest-framework-custom-exception-handling/</loc>
+    <lastmod>2016-04-20T17:06:03+08:00</lastmod>
   </url>
   
   <url>

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://blog.guoyong.me/</loc>
-    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://blog.guoyong.me/post/2016/04/23/django-logging-filter-in-action/</loc>
@@ -20,6 +15,65 @@
   <url>
     <loc>http://blog.guoyong.me/post/2016/03/19/how-did-i-start-working-remotely/</loc>
     <lastmod>2016-03-19T19:53:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/django/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/django-rest-framework/</loc>
+    <lastmod>2016-04-20T17:06:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/logging/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/post/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/python/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2016-04-23T10:36:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyong.me/tags/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2016-03-19T19:53:28+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

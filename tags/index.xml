@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GUOYONG.ME</title>
+    <link>http://blog.guoyong.me/tags/</link>
+    <description>Recent content in Tags on GUOYONG.ME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>wolfg1969 All rights reserved.</copyright>
+    <lastBuildDate>Sat, 23 Apr 2016 10:36:22 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.guoyong.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Django</title>
+      <link>http://blog.guoyong.me/tags/django/</link>
+      <pubDate>Sat, 23 Apr 2016 10:36:22 +0800</pubDate>
+      
+      <guid>http://blog.guoyong.me/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django Rest Framework</title>
+      <link>http://blog.guoyong.me/tags/django-rest-framework/</link>
+      <pubDate>Wed, 20 Apr 2016 17:06:03 +0800</pubDate>
+      
+      <guid>http://blog.guoyong.me/tags/django-rest-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logging</title>
+      <link>http://blog.guoyong.me/tags/logging/</link>
+      <pubDate>Sat, 23 Apr 2016 10:36:22 +0800</pubDate>
+      
+      <guid>http://blog.guoyong.me/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://blog.guoyong.me/tags/python/</link>
+      <pubDate>Sat, 23 Apr 2016 10:36:22 +0800</pubDate>
+      
+      <guid>http://blog.guoyong.me/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技术</title>
+      <link>http://blog.guoyong.me/tags/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 23 Apr 2016 10:36:22 +0800</pubDate>
+      
+      <guid>http://blog.guoyong.me/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>远程工作</title>
+      <link>http://blog.guoyong.me/tags/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C/</link>
+      <pubDate>Sat, 19 Mar 2016 19:53:28 +0800</pubDate>
+      
+      <guid>http://blog.guoyong.me/tags/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

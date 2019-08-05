@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《我在Windows XP下用的一些OSS/FS》的评论</title>
+	<atom:link href="/oss/%E6%88%91%E5%9C%A8windows-xp%E4%B8%8B%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9Bossfs/feed/" rel="self" type="application/rss+xml" />
+	<link>/oss/%e6%88%91%e5%9c%a8windows-xp%e4%b8%8b%e7%94%a8%e7%9a%84%e4%b8%80%e4%ba%9bossfs/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/oss/%e6%88%91%e5%9c%a8windows-xp%e4%b8%8b%e7%94%a8%e7%9a%84%e4%b8%80%e4%ba%9bossfs/#comment-112</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 01 Nov 2006 14:29:14 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2005/10/11/200#comment-112</guid>
+		<description><![CDATA[不只是“免费”，重要的是“自由”]]></description>
+		<content:encoded><![CDATA[<p>不只是“免费”，重要的是“自由”</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hyry</title>
+		<link>/oss/%e6%88%91%e5%9c%a8windows-xp%e4%b8%8b%e7%94%a8%e7%9a%84%e4%b8%80%e4%ba%9bossfs/#comment-111</link>
+		<dc:creator><![CDATA[hyry]]></dc:creator>
+		<pubDate>Wed, 01 Nov 2006 14:10:16 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2005/10/11/200#comment-111</guid>
+		<description><![CDATA[我也喜欢不要钱的东西，以下几样我也在用，不知道其它的你整理了没有？    
+    * 7-Zip
+    * Mozilla Firefox
+    * WinMerge
+    * eMule
+    * Picasa]]></description>
+		<content:encoded><![CDATA[<p>我也喜欢不要钱的东西，以下几样我也在用，不知道其它的你整理了没有？<br />
+    * 7-Zip<br />
+    * Mozilla Firefox<br />
+    * WinMerge<br />
+    * eMule<br />
+    * Picasa</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.072 seconds -->

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>编程 &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/programing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Domoticz + NodeMCU 监控 家庭电能消耗</title>
+		<link>/programing/domoticz-nodemcu-power-meter-for-home/</link>
+		<pubDate>Sat, 31 Mar 2018 12:28:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[domoticz]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[esp8266]]></category>
+		<category><![CDATA[home automation]]></category>
+		<category><![CDATA[iot]]></category>
+		<category><![CDATA[lua]]></category>
+		<category><![CDATA[nodemcu]]></category>
+		<category><![CDATA[power]]></category>
+
+		<guid isPermaLink="false">/?p=1499</guid>
+		<description><![CDATA[最近用 NodeMCU 实现了家庭电能消耗的监控，数据上报到 Domoticz 服务器，可直观地查看当前的家庭 &#8230; <p class="link-more"><a href="/programing/domoticz-nodemcu-power-meter-for-home/" class="more-link">继续阅读<span class="screen-reader-text">“Domoticz + NodeMCU 监控 家庭电能消耗”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1499</post-id>	</item>
+		<item>
+		<title>Sifteo 折腾之编译 SDK</title>
+		<link>/programing/compile-sifteo-sdk/</link>
+		<pubDate>Wed, 10 Jan 2018 02:17:57 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[sdk]]></category>
+		<category><![CDATA[sifteo]]></category>
+
+		<guid isPermaLink="false">/?p=1492</guid>
+		<description><![CDATA[Solidot 上看到这条消息 昔日的 sifteo 重现中国 sifteo 智能积木源自 2009年，来自  &#8230; <p class="link-more"><a href="/programing/compile-sifteo-sdk/" class="more-link">继续阅读<span class="screen-reader-text">“Sifteo 折腾之编译 SDK”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1492</post-id>	</item>
+		<item>
+		<title>《 Python 计算机视觉编程》学习笔记（一）</title>
+		<link>/python/programming-computer-vision-with-python-note-1/</link>
+		<pubDate>Wed, 27 Dec 2017 12:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Histogram]]></category>
+
+		<guid isPermaLink="false">/?p=1480</guid>
+		<description><![CDATA[练习代码仓库 https://github.com/wolfg1969/Programming-Compute &#8230; <p class="link-more"><a href="/python/programming-computer-vision-with-python-note-1/" class="more-link">继续阅读<span class="screen-reader-text">“《 Python 计算机视觉编程》学习笔记（一）”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1480</post-id>	</item>
+		<item>
+		<title>Django 日志过滤器实战</title>
+		<link>/programing/django-logging-filter-in-action/</link>
+		<pubDate>Sat, 23 Apr 2016 12:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Logging]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1417</guid>
+		<description><![CDATA[Django 的日志配置采用标准的 Python 日志配置方式，默认采用 dictConfig 的格式。Pyt &#8230; <p class="link-more"><a href="/programing/django-logging-filter-in-action/" class="more-link">继续阅读<span class="screen-reader-text">“Django 日志过滤器实战”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1417</post-id>	</item>
+		<item>
+		<title>定制 Django REST Framework 的异常处理</title>
+		<link>/programing/django-rest-framework-custom-exception-handling/</link>
+		<pubDate>Wed, 20 Apr 2016 12:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Django REST Framework]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1415</guid>
+		<description><![CDATA[今天借助修复其它 Bug 的机会，对项目中 REST API 的异常处理机制进行了优化。 项目的 REST A &#8230; <p class="link-more"><a href="/programing/django-rest-framework-custom-exception-handling/" class="more-link">继续阅读<span class="screen-reader-text">“定制 Django REST Framework 的异常处理”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1415</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.086 seconds -->

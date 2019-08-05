@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Carbide.c++ Express中如何编译多语言资源文件》的评论</title>
+	<atom:link href="/dev/carbidec-express%E4%B8%AD%E5%A6%82%E4%BD%95%E7%BC%96%E8%AF%91%E5%A4%9A%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev/carbidec-express%e4%b8%ad%e5%a6%82%e4%bd%95%e7%bc%96%e8%af%91%e5%a4%9a%e8%af%ad%e8%a8%80%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/dev/carbidec-express%e4%b8%ad%e5%a6%82%e4%bd%95%e7%bc%96%e8%af%91%e5%a4%9a%e8%af%ad%e8%a8%80%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/#comment-16624</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 04 Aug 2007 12:04:26 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/06/148#comment-16624</guid>
+		<description><![CDATA[当然可以了:)]]></description>
+		<content:encoded><![CDATA[<p>当然可以了:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Sylvia</title>
+		<link>/dev/carbidec-express%e4%b8%ad%e5%a6%82%e4%bd%95%e7%bc%96%e8%af%91%e5%a4%9a%e8%af%ad%e8%a8%80%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/#comment-15994</link>
+		<dc:creator><![CDATA[Sylvia]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2007 07:04:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/06/148#comment-15994</guid>
+		<description><![CDATA[謝謝你的分享！
+
+剛好解決我目前的問題，
+請允許我將內容轉載至網誌內，感謝！]]></description>
+		<content:encoded><![CDATA[<p>謝謝你的分享！</p>
+<p>剛好解決我目前的問題，<br />
+請允許我將內容轉載至網誌內，感謝！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Sylvia</title>
+		<link>/dev/carbidec-express%e4%b8%ad%e5%a6%82%e4%bd%95%e7%bc%96%e8%af%91%e5%a4%9a%e8%af%ad%e8%a8%80%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/#comment-15993</link>
+		<dc:creator><![CDATA[Sylvia]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2007 07:00:27 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/06/148#comment-15993</guid>
+		<description><![CDATA[好棒的資料！
+正好最近有碰到這個問題，謝謝你的分享，
+也請允許我轉載這篇，謝謝！]]></description>
+		<content:encoded><![CDATA[<p>好棒的資料！<br />
+正好最近有碰到這個問題，謝謝你的分享，<br />
+也請允許我轉載這篇，謝謝！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/dev/carbidec-express%e4%b8%ad%e5%a6%82%e4%bd%95%e7%bc%96%e8%af%91%e5%a4%9a%e8%af%ad%e8%a8%80%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/#comment-1721</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2007 07:41:03 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/06/148#comment-1721</guid>
+		<description><![CDATA[不能用于Carbide.c   Express 1.1了，新的版本可以在这里找到
+http://code.google.com/p/tictactoe-s60/source]]></description>
+		<content:encoded><![CDATA[<p>不能用于Carbide.c   Express 1.1了，新的版本可以在这里找到<br />
+<a href="http://code.google.com/p/tictactoe-s60/source" rel="nofollow">http://code.google.com/p/tictactoe-s60/source</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

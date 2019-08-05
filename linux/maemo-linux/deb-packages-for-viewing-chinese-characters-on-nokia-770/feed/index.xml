@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Deb packages for viewing Chinese characters on Nokia 770》的评论</title>
+	<atom:link href="/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：fred</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-43184</link>
+		<dc:creator><![CDATA[fred]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2008 23:47:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-43184</guid>
+		<description><![CDATA[Do anyone know if this works in nokia 5310??]]></description>
+		<content:encoded><![CDATA[<p>Do anyone know if this works in nokia 5310??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Leo</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-38392</link>
+		<dc:creator><![CDATA[Leo]]></dc:creator>
+		<pubDate>Sun, 08 Jun 2008 23:57:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-38392</guid>
+		<description><![CDATA[I tried it on Nokia N800 running OS2008. It also works!
+Thanks a lot.]]></description>
+		<content:encoded><![CDATA[<p>I tried it on Nokia N800 running OS2008. It also works!<br />
+Thanks a lot.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Matthias</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-33479</link>
+		<dc:creator><![CDATA[Matthias]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2008 17:25:32 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-33479</guid>
+		<description><![CDATA[Thank you, now I can display Chinese fonts on my Nokia 770]]></description>
+		<content:encoded><![CDATA[<p>Thank you, now I can display Chinese fonts on my Nokia 770</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-30705</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 08 Feb 2008 14:44:23 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-30705</guid>
+		<description><![CDATA[To duan: 
+安装becomeroot]]></description>
+		<content:encoded><![CDATA[<p>To duan:<br />
+安装becomeroot</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：duan</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-29734</link>
+		<dc:creator><![CDATA[duan]]></dc:creator>
+		<pubDate>Thu, 31 Jan 2008 20:12:10 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-29734</guid>
+		<description><![CDATA[老大 我刚把770升级到了 OS 2007 HE 最新版本 但是无法成为ROOT 去 安装中文字体  是不是一定要去网上安装中文字体啊??]]></description>
+		<content:encoded><![CDATA[<p>老大 我刚把770升级到了 OS 2007 HE 最新版本 但是无法成为ROOT 去 安装中文字体  是不是一定要去网上安装中文字体啊??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Mike</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-28183</link>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2008 10:39:13 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-28183</guid>
+		<description><![CDATA[谢谢。
+
+我刚装上，纯文本文件只支持 UTF-8 的编码，网页则都支持。]]></description>
+		<content:encoded><![CDATA[<p>谢谢。</p>
+<p>我刚装上，纯文本文件只支持 UTF-8 的编码，网页则都支持。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-25615</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 09 Dec 2007 04:40:14 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-25615</guid>
+		<description><![CDATA[Sorry, I have no time to test it with OS2008, even I haven&#039;t upgraded my N800 to OS2008.]]></description>
+		<content:encoded><![CDATA[<p>Sorry, I have no time to test it with OS2008, even I haven't upgraded my N800 to OS2008.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：simon</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-25222</link>
+		<dc:creator><![CDATA[simon]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2007 19:51:44 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-25222</guid>
+		<description><![CDATA[Hi Wolfg :
+
+Do you have any solution to read Chinese (Traditonal) in Nokia Internet Tablet N800 with OS2008, (2008SE_1.2007-44)This is the latest version OS.  please give me a reply soonest possible, thanks]]></description>
+		<content:encoded><![CDATA[<p>Hi Wolfg :</p>
+<p>Do you have any solution to read Chinese (Traditonal) in Nokia Internet Tablet N800 with OS2008, (2008SE_1.2007-44)This is the latest version OS.  please give me a reply soonest possible, thanks</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：zzhang</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18681</link>
+		<dc:creator><![CDATA[zzhang]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 13:58:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18681</guid>
+		<description><![CDATA[Sorry什么意思？怎么运行阿？]]></description>
+		<content:encoded><![CDATA[<p>Sorry什么意思？怎么运行阿？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18510</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Thu, 13 Sep 2007 03:26:44 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18510</guid>
+		<description><![CDATA[终端下用fc-list命令，有什么信息？]]></description>
+		<content:encoded><![CDATA[<p>终端下用fc-list命令，有什么信息？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：zzhang</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18509</link>
+		<dc:creator><![CDATA[zzhang]]></dc:creator>
+		<pubDate>Thu, 13 Sep 2007 02:19:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18509</guid>
+		<description><![CDATA[重启了，还是不能显示．都是些框框，里面是数字和字母．偶而有一两个繁体字．]]></description>
+		<content:encoded><![CDATA[<p>重启了，还是不能显示．都是些框框，里面是数字和字母．偶而有一两个繁体字．</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：maplelxf</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18247</link>
+		<dc:creator><![CDATA[maplelxf]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2007 03:00:02 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18247</guid>
+		<description><![CDATA[我新入手的机器，能否告诉一下都需要做哪些工作，谢谢！]]></description>
+		<content:encoded><![CDATA[<p>我新入手的机器，能否告诉一下都需要做哪些工作，谢谢！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：maplelxf</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18245</link>
+		<dc:creator><![CDATA[maplelxf]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2007 02:56:50 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18245</guid>
+		<description><![CDATA[看中文网还是乱码啊！]]></description>
+		<content:encoded><![CDATA[<p>看中文网还是乱码啊！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18204</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 08 Sep 2007 15:34:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18204</guid>
+		<description><![CDATA[请问是什么程序不能查看中文？]]></description>
+		<content:encoded><![CDATA[<p>请问是什么程序不能查看中文？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：maplelxf</title>
+		<link>/linux/maemo-linux/deb-packages-for-viewing-chinese-characters-on-nokia-770/#comment-18195</link>
+		<dc:creator><![CDATA[maplelxf]]></dc:creator>
+		<pubDate>Sat, 08 Sep 2007 13:36:15 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/08/286#comment-18195</guid>
+		<description><![CDATA[我刚刚入手一台770，我已经安装了你给的软件，可还是不能显示中文，请帮助。我的qq184151571,多些！！！]]></description>
+		<content:encoded><![CDATA[<p>我刚刚入手一台770，我已经安装了你给的软件，可还是不能显示中文，请帮助。我的qq184151571,多些！！！</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.159 seconds -->

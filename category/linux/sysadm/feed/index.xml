@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SysAdmin &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/linux/sysadm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>MongoDB日志回滚</title>
+		<link>/linux/sysadm/mongodb%e6%97%a5%e5%bf%97%e5%9b%9e%e6%bb%9a/</link>
+		<pubDate>Thu, 02 Jun 2011 00:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=641</guid>
+		<description><![CDATA[# kill -SIGUSR1 `cat /var/run/mongodb.pid` 用在shell脚本里时， &#8230; <p class="link-more"><a href="/linux/sysadm/mongodb%e6%97%a5%e5%bf%97%e5%9b%9e%e6%bb%9a/" class="more-link">继续阅读<span class="screen-reader-text">“MongoDB日志回滚”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">641</post-id>	</item>
+		<item>
+		<title>RHEL5下编译MongoDB</title>
+		<link>/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/</link>
+		<pubDate>Wed, 01 Jun 2011 06:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=630</guid>
+		<description><![CDATA[很多人都说自己编译的稳定好用，我也来试试： 1. 参考官方文档，手工编译Spider Monkey # cur &#8230; <p class="link-more"><a href="/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/" class="more-link">继续阅读<span class="screen-reader-text">“RHEL5下编译MongoDB”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">630</post-id>	</item>
+		<item>
+		<title>Using Postgresql</title>
+		<link>/linux/sysadm/using-postgresql/</link>
+		<pubDate>Tue, 24 Aug 2010 05:56:45 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[centos]]></category>
+		<category><![CDATA[postgis]]></category>
+		<category><![CDATA[postgresql]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=595</guid>
+		<description><![CDATA[1. create tablespace $ mkdir -p /home/postgresql/data $ &#8230; <p class="link-more"><a href="/linux/sysadm/using-postgresql/" class="more-link">继续阅读<span class="screen-reader-text">“Using Postgresql”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">595</post-id>	</item>
+		<item>
+		<title>SSH:不用密码登录</title>
+		<link>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/</link>
+		<comments>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/#comments</comments>
+		<pubDate>Sat, 30 Jan 2010 08:31:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=569</guid>
+		<description><![CDATA[用SSH登录远程主机，每次都输入密码挺麻烦的，其实可以用密钥文件来登录： 1. 用ssh-keygen命令生成 &#8230; <p class="link-more"><a href="/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/" class="more-link">继续阅读<span class="screen-reader-text">“SSH:不用密码登录”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">569</post-id>	</item>
+		<item>
+		<title>nrpe使用一例</title>
+		<link>/linux/sysadm/nrpe%e4%bd%bf%e7%94%a8%e4%b8%80%e4%be%8b/</link>
+		<pubDate>Thu, 28 Jan 2010 07:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[监控]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[nagios]]></category>
+		<category><![CDATA[nrpe]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=548</guid>
+		<description><![CDATA[NRPE的作用是在远程主机上运行Nagios插件，以便监控远程主机。 Ubuntu Server下安装NRPE &#8230; <p class="link-more"><a href="/linux/sysadm/nrpe%e4%bd%bf%e7%94%a8%e4%b8%80%e4%be%8b/" class="more-link">继续阅读<span class="screen-reader-text">“nrpe使用一例”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">548</post-id>	</item>
+		<item>
+		<title>使用Cacti监控JVM</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/</link>
+		<comments>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comments</comments>
+		<pubDate>Wed, 27 Jan 2010 08:55:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[cacti]]></category>
+		<category><![CDATA[监控]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[jvm]]></category>
+		<category><![CDATA[snmp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=512</guid>
+		<description><![CDATA[Cacti官方论坛里有几个监控JVM的模板： http://forums.cacti.net/about197 &#8230; <p class="link-more"><a href="/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/" class="more-link">继续阅读<span class="screen-reader-text">“使用Cacti监控JVM”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">512</post-id>	</item>
+		<item>
+		<title>再次遭遇大量CLOSE_WAIT</title>
+		<link>/linux/sysadm/%e5%86%8d%e6%ac%a1%e9%81%ad%e9%81%87%e5%a4%a7%e9%87%8fclose_wait/</link>
+		<pubDate>Fri, 22 Jan 2010 12:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[CLOSE_WAIT]]></category>
+		<category><![CDATA[HttpClient]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[tcp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=543</guid>
+		<description><![CDATA[今天下午线上的Jetty服务又停止响应了。不过与上次不同的是，日志里没有Too many open files &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%86%8d%e6%ac%a1%e9%81%ad%e9%81%87%e5%a4%a7%e9%87%8fclose_wait/" class="more-link">继续阅读<span class="screen-reader-text">“再次遭遇大量CLOSE_WAIT”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+		<item>
+		<title>遭遇&#8221;java.io.IOException: Too many open files&#8221;</title>
+		<link>/linux/sysadm/%e9%81%ad%e9%81%87java-io-ioexception-too-many-open-files/</link>
+		<pubDate>Wed, 20 Jan 2010 08:47:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lsof]]></category>
+		<category><![CDATA[ulimit]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=520</guid>
+		<description><![CDATA[今天下午，线上的Jetty服务宕机了，日志里大量的"java.io.IOException: Too many &#8230; <p class="link-more"><a href="/linux/sysadm/%e9%81%ad%e9%81%87java-io-ioexception-too-many-open-files/" class="more-link">继续阅读<span class="screen-reader-text">“遭遇&#8221;java.io.IOException: Too many open files&#8221;”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">520</post-id>	</item>
+		<item>
+		<title>npc安装问题解决一例</title>
+		<link>/linux/sysadm/npc%e5%ae%89%e8%a3%85%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3%e4%b8%80%e4%be%8b/</link>
+		<pubDate>Sun, 17 Jan 2010 12:27:34 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[cacti]]></category>
+		<category><![CDATA[监控]]></category>
+		<category><![CDATA[Doctrine]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[nagios]]></category>
+		<category><![CDATA[npc]]></category>
+		<category><![CDATA[php]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=504</guid>
+		<description><![CDATA[Cacti和Nagios都是好用的运维监控软件，NPC(Nagios Plugin for Cacti)是一个 &#8230; <p class="link-more"><a href="/linux/sysadm/npc%e5%ae%89%e8%a3%85%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3%e4%b8%80%e4%be%8b/" class="more-link">继续阅读<span class="screen-reader-text">“npc安装问题解决一例”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">504</post-id>	</item>
+		<item>
+		<title>How to install Nginx from source with &#8216;Debian&#8217; layout</title>
+		<link>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/</link>
+		<comments>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/#comments</comments>
+		<pubDate>Fri, 15 Jan 2010 08:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[debian]]></category>
+		<category><![CDATA[nginx]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=371</guid>
+		<description><![CDATA[1. 创建相关目录 $ sudo mkdir /etc/nginx $ sudo mkdir /etc/ngi &#8230; <p class="link-more"><a href="/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/" class="more-link">继续阅读<span class="screen-reader-text">“How to install Nginx from source with &#8216;Debian&#8217; layout”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+		<item>
+		<title>在Ubuntu下安装OpenIPMP服务器</title>
+		<link>/linux/sysadm/ubuntu-installed-in-the-next-openipmp/</link>
+		<comments>/linux/sysadm/ubuntu-installed-in-the-next-openipmp/#comments</comments>
+		<pubDate>Thu, 06 Nov 2008 08:47:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[oma]]></category>
+		<category><![CDATA[openipmp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=363</guid>
+		<description><![CDATA[1. 如果你用JDK 1.5以上的版本，编译osms过程中会出错，问题在${openipmp_server_s &#8230; <p class="link-more"><a href="/linux/sysadm/ubuntu-installed-in-the-next-openipmp/" class="more-link">继续阅读<span class="screen-reader-text">“在Ubuntu下安装OpenIPMP服务器”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/ubuntu-installed-in-the-next-openipmp/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">363</post-id>	</item>
+		<item>
+		<title>一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证</title>
+		<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/</link>
+		<comments>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/#comments</comments>
+		<pubDate>Wed, 14 May 2008 13:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[md5crypt]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[openvpn]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=359</guid>
+		<description><![CDATA[这几天配置OpenVPN，使用了用户名密码的身份认证方式，借助已有的postfix邮箱帐号，省去了再为每个人设 &#8230; <p class="link-more"><a href="/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/" class="more-link">继续阅读<span class="screen-reader-text">“一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">359</post-id>	</item>
+		<item>
+		<title>postfix和postgrey问题</title>
+		<link>/linux/sysadm/postfix-and-postgrey-problem/</link>
+		<pubDate>Tue, 13 May 2008 14:58:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[postgrey]]></category>
+		<category><![CDATA[smtp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=358</guid>
+		<description><![CDATA[公司的邮件服务器收不到外来邮件了，日志里有这样的错误： 554 Service unavailable; Cl &#8230; <p class="link-more"><a href="/linux/sysadm/postfix-and-postgrey-problem/" class="more-link">继续阅读<span class="screen-reader-text">“postfix和postgrey问题”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">358</post-id>	</item>
+		<item>
+		<title>升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）</title>
+		<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/</link>
+		<comments>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/#comments</comments>
+		<pubDate>Mon, 28 Jan 2008 16:38:37 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[smtp]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2008/01/29/351</guid>
+		<description><![CDATA[日志里这样的错误信息： warning: SASL authentication problem: unabl &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/" class="more-link">继续阅读<span class="screen-reader-text">“升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">351</post-id>	</item>
+		<item>
+		<title>同时运行两个mysql实例</title>
+		<link>/linux/sysadm/%e5%90%8c%e6%97%b6%e8%bf%90%e8%a1%8c%e4%b8%a4%e4%b8%aamysql%e5%ae%9e%e4%be%8b/</link>
+		<pubDate>Sat, 08 Dec 2007 16:17:05 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[phpmyadmin]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/12/09/349</guid>
+		<description><![CDATA[运行环境： Ubuntu 6.06 server 1. 修改/etc/mysql/my.cnf 加入 [mys &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%90%8c%e6%97%b6%e8%bf%90%e8%a1%8c%e4%b8%a4%e4%b8%aamysql%e5%ae%9e%e4%be%8b/" class="more-link">继续阅读<span class="screen-reader-text">“同时运行两个mysql实例”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">349</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.106 seconds -->

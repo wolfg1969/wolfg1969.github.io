@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《在Windows XP下安装MoinMoin Wiki》的评论</title>
+	<atom:link href="/oss/%E5%9C%A8windows-xp%E4%B8%8B%E5%AE%89%E8%A3%85moinmoin-wiki/feed/" rel="self" type="application/rss+xml" />
+	<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：杨涛</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-55635</link>
+		<dc:creator><![CDATA[杨涛]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 11:10:05 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-55635</guid>
+		<description><![CDATA[博主，你好，我按照你的配置，访问http://127.0.0.1/mywiki的时候（用ie访问），出现以下的提示
+：Forbidden
+You don&#039;t have permission to access /mywiki on this server.
+请问知道怎么解决吗？
+yft809@163.com  不胜感激]]></description>
+		<content:encoded><![CDATA[<p>博主，你好，我按照你的配置，访问http://127.0.0.1/mywiki的时候（用ie访问），出现以下的提示<br />
+：Forbidden<br />
+You don't have permission to access /mywiki on this server.<br />
+请问知道怎么解决吗？<br />
+<a href="mailto:yft809@163.com">yft809@163.com</a>  不胜感激</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：笨笨</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-54484</link>
+		<dc:creator><![CDATA[笨笨]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2009 07:38:17 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-54484</guid>
+		<description><![CDATA[看了没成功 机械模仿
+然后看了这个 说了下原理
+http://fockez.spaces.live.com/blog/cns!AE53FBC9E316EDAC!322.entry
+智商差不多的就能装上了
+不会调试apache 里面有个log 日志  不正常的可以看里面对的error.log调试。
+win下用UE修改会在文件后面加上/r  修改cgi文件时候还是用vim好。]]></description>
+		<content:encoded><![CDATA[<p>看了没成功 机械模仿<br />
+然后看了这个 说了下原理<br />
+<a href="http://fockez.spaces.live.com/blog/cns!AE53FBC9E316EDAC!322.entry" rel="nofollow">http://fockez.spaces.live.com/blog/cns!AE53FBC9E316EDAC!322.entry</a><br />
+智商差不多的就能装上了<br />
+不会调试apache 里面有个log 日志  不正常的可以看里面对的error.log调试。<br />
+win下用UE修改会在文件后面加上/r  修改cgi文件时候还是用vim好。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：netz</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-54391</link>
+		<dc:creator><![CDATA[netz]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2009 13:08:18 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-54391</guid>
+		<description><![CDATA[按楼主的方法搞掂了。不过要注意，apache2以后的目录权限要设置。]]></description>
+		<content:encoded><![CDATA[<p>按楼主的方法搞掂了。不过要注意，apache2以后的目录权限要设置。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：HiSuth</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-51850</link>
+		<dc:creator><![CDATA[HiSuth]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2009 23:30:53 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-51850</guid>
+		<description><![CDATA[博主，请问你的域名http://guoyong.org是怎么获取的，花生壳的专业用户？谢谢：）]]>/</description>
+		<content:encoded><![CDATA[<p>博主，请问你的域名http://guoyong.org是怎么获取的，花生壳的专业用户？谢谢：）/</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-36526</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 13:40:59 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-36526</guid>
+		<description><![CDATA[zgw, 你看看这个是不是能解决你遇到的问题。
+http://moinmoin.wikiwikiweb.de/MoinMoinQuestions/Installing#head-4419b0c329726497a7eb668cadb6a38073923c24]]></description>
+		<content:encoded><![CDATA[<p>zgw, 你看看这个是不是能解决你遇到的问题。<br />
+<a href="http://moinmoin.wikiwikiweb.de/MoinMoinQuestions/Installing#head-4419b0c329726497a7eb668cadb6a38073923c24" rel="nofollow">http://moinmoin.wikiwikiweb.de/MoinMoinQuestions/Installing#head-4419b0c329726497a7eb668cadb6a38073923c24</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：zgw</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-36498</link>
+		<dc:creator><![CDATA[zgw]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 07:06:18 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-36498</guid>
+		<description><![CDATA[我的ScriptAlias配置如下：
+ScriptAlias /mywiki          &quot;C:/Moin/mywiki/moin.cgi&quot;
+始终有如下错误：
+client denied by server configuration: C:/Moin/mywiki/moin.cgi
+不知是什么原因？]]></description>
+		<content:encoded><![CDATA[<p>我的ScriptAlias配置如下：<br />
+ScriptAlias /mywiki          "C:/Moin/mywiki/moin.cgi"<br />
+始终有如下错误：<br />
+client denied by server configuration: C:/Moin/mywiki/moin.cgi<br />
+不知是什么原因？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17282</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 21 Aug 2007 15:22:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-17282</guid>
+		<description><![CDATA[检查一下你的python版本和下载的mod_python模块的版本是否对应。]]></description>
+		<content:encoded><![CDATA[<p>检查一下你的python版本和下载的mod_python模块的版本是否对应。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：iTiger</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17245</link>
+		<dc:creator><![CDATA[iTiger]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 09:48:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-17245</guid>
+		<description><![CDATA[modules目录里百分百有mod_python.so]]></description>
+		<content:encoded><![CDATA[<p>modules目录里百分百有mod_python.so</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：iTiger</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17244</link>
+		<dc:creator><![CDATA[iTiger]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 09:47:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-17244</guid>
+		<description><![CDATA[我在apache的HTTPD.CONF中加的：
+LoadModule python_module modules/mod_python.so
+
+Alias /wiki &quot;d:/php/Python/share/moin/htdocs/&quot;
+#ScriptAlias /mywiki &quot;d:/php/wwwroot/Moinwiki/mywiki/moin.cgi&quot;
+
+
+
+ SetHandler python-program
+ PythonPath &quot;[r&#039;d:/php/wwwroot/Moinwiki/mywiki&#039;]   sys.path&quot;
+ PythonHandler MoinMoin.request::RequestModPy.run
+
+
+
+但仍然出错：httpd.exe: Syntax error on line 495 of D:/php/Apache2.2/conf/httpd.conf: Cannot load D:/php/Apache2.2/modules/mod_python.so into server: \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3 
+
+
+十分不解，是版本问题么？请帮助]]></description>
+		<content:encoded><![CDATA[<p>我在apache的HTTPD.CONF中加的：<br />
+LoadModule python_module modules/mod_python.so</p>
+<p>Alias /wiki "d:/php/Python/share/moin/htdocs/"<br />
+#ScriptAlias /mywiki "d:/php/wwwroot/Moinwiki/mywiki/moin.cgi"</p>
+<p> SetHandler python-program<br />
+ PythonPath "[r'd:/php/wwwroot/Moinwiki/mywiki']   sys.path"<br />
+ PythonHandler MoinMoin.request::RequestModPy.run</p>
+<p>但仍然出错：httpd.exe: Syntax error on line 495 of D:/php/Apache2.2/conf/httpd.conf: Cannot load D:/php/Apache2.2/modules/mod_python.so into server: \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3 </p>
+<p>十分不解，是版本问题么？请帮助</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-10911</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 26 May 2007 18:34:48 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-10911</guid>
+		<description><![CDATA[改成data_underlay_dir = r’H:/Moin/mywiki/underlay’ 或 data_underlay_dir = r’H:\\Moin\\mywiki\\underlay’ 试试]]></description>
+		<content:encoded><![CDATA[<p>改成data_underlay_dir = r’H:/Moin/mywiki/underlay’ 或 data_underlay_dir = r’H:\\Moin\\mywiki\\underlay’ 试试</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：glory</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-10764</link>
+		<dc:creator><![CDATA[glory]]></dc:creator>
+		<pubDate>Wed, 23 May 2007 12:11:36 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-10764</guid>
+		<description><![CDATA[Traceback (most recent call last):
+  File &quot;g:\python\Lib\site-packages\MoinMoin\request.py&quot;, line 1875, in __init__
+    RequestBase.__init__(self)
+  File &quot;g:\python\Lib\site-packages\MoinMoin\request.py&quot;, line 156, in __init__
+    self._load_multi_cfg()
+  File &quot;g:\python\Lib\site-packages\MoinMoin\request.py&quot;, line 313, in _load_multi_cfg
+    self.cfg = multiconfig.getConfig(self.url)
+  File &quot;g:\python\Lib\site-packages\MoinMoin\multiconfig.py&quot;, line 162, in getConfig
+    config = _makeConfig(configName)
+  File &quot;g:\python\Lib\site-packages\MoinMoin\multiconfig.py&quot;, line 97, in _makeConfig
+    module, mtime = _importConfigModule(name)
+  File &quot;g:\python\Lib\site-packages\MoinMoin\multiconfig.py&quot;, line 47, in _importConfigModule
+    raise error.ConfigurationError(msg)
+ConfigurationError: SyntaxError: invalid syntax (wikiconfig.py, line 77)
+Traceback (most recent call last):
+  File &quot;g:\python\Lib\site-packages\MoinMoin\multiconfig.py&quot;, line 31, in _importConfigModule
+    module = __import__(name, globals(), {})
+  File &quot;H:/Moin/mywiki\wikiconfig.py&quot;, line 77
+    data_underlay_dir = r&#039;H:\Moin\mywiki\underlay&#039;
+    ^
+SyntaxError: invalid syntax
+
+Additionally cgitb raised this exception:
+Traceback (most recent call last):
+  File &quot;g:\python\Lib\site-packages\MoinMoin\failure.py&quot;, line 143, in handle
+    display=request.cfg.traceback_show,
+AttributeError: &#039;RequestModPy&#039; object has no attribute &#039;cfg&#039;
+
+
+
+恳请高手指点.这是怎么回事.我已经被装moinmoin搞了一个多星期了,还望高手帮我解决这个问题.
+   谢谢!]]></description>
+		<content:encoded><![CDATA[<p>Traceback (most recent call last):<br />
+  File "g:\python\Lib\site-packages\MoinMoin\request.py", line 1875, in __init__<br />
+    RequestBase.__init__(self)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\request.py", line 156, in __init__<br />
+    self._load_multi_cfg()<br />
+  File "g:\python\Lib\site-packages\MoinMoin\request.py", line 313, in _load_multi_cfg<br />
+    self.cfg = multiconfig.getConfig(self.url)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 162, in getConfig<br />
+    config = _makeConfig(configName)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 97, in _makeConfig<br />
+    module, mtime = _importConfigModule(name)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 47, in _importConfigModule<br />
+    raise error.ConfigurationError(msg)<br />
+ConfigurationError: SyntaxError: invalid syntax (wikiconfig.py, line 77)<br />
+Traceback (most recent call last):<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 31, in _importConfigModule<br />
+    module = __import__(name, globals(), {})<br />
+  File "H:/Moin/mywiki\wikiconfig.py", line 77<br />
+    data_underlay_dir = r'H:\Moin\mywiki\underlay'<br />
+    ^<br />
+SyntaxError: invalid syntax</p>
+<p>Additionally cgitb raised this exception:<br />
+Traceback (most recent call last):<br />
+  File "g:\python\Lib\site-packages\MoinMoin\failure.py", line 143, in handle<br />
+    display=request.cfg.traceback_show,<br />
+AttributeError: 'RequestModPy' object has no attribute 'cfg'</p>
+<p>恳请高手指点.这是怎么回事.我已经被装moinmoin搞了一个多星期了,还望高手帮我解决这个问题.<br />
+   谢谢!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：anonymous</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-7694</link>
+		<dc:creator><![CDATA[anonymous]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2007 08:24:22 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-7694</guid>
+		<description><![CDATA[我安装成为standalone的moinmoin，和原来的desktop版本一样，我遇到这样一个问题，当你编辑内容的时候，如果输入的内容很少，你保存，就不会出现问题。如果内容特别多，比如100多行存文字，你点击保存就会出现，The page cannot be displayed 。但是我添加的信息并没有丢失，也保存到网页里面了，如何避免出现这样一种情况，要是每次编辑和保存都有这中现象，太郁闷了。]]></description>
+		<content:encoded><![CDATA[<p>我安装成为standalone的moinmoin，和原来的desktop版本一样，我遇到这样一个问题，当你编辑内容的时候，如果输入的内容很少，你保存，就不会出现问题。如果内容特别多，比如100多行存文字，你点击保存就会出现，The page cannot be displayed 。但是我添加的信息并没有丢失，也保存到网页里面了，如何避免出现这样一种情况，要是每次编辑和保存都有这中现象，太郁闷了。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wikinewman</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-6905</link>
+		<dc:creator><![CDATA[wikinewman]]></dc:creator>
+		<pubDate>Wed, 04 Apr 2007 08:45:16 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-6905</guid>
+		<description><![CDATA[[Wed Apr 04 15:17:35 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki
+[Wed Apr 04 15:25:07 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki
+[Wed Apr 04 15:25:10 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki
+上面是我照wolfg的教程做完，error.log里的内容。
+老大，怎么回事阿？这个目录下会有什么？]]></description>
+		<content:encoded><![CDATA[<p>[Wed Apr 04 15:17:35 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki<br />
+[Wed Apr 04 15:25:07 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki<br />
+[Wed Apr 04 15:25:10 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki<br />
+上面是我照wolfg的教程做完，error.log里的内容。<br />
+老大，怎么回事阿？这个目录下会有什么？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-3739</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 05 Mar 2007 05:17:35 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-3739</guid>
+		<description><![CDATA[to mrlong:
+如果用CGI方式，moin.cgi里要有这句
+&lt;coolcode linenum=&quot;off&quot;&gt;
+sys.path.insert(0, r&#039;C:/www/Moin/mywiki&#039;)
+&lt;/coolcode&gt;
+指定wikiconfig.py的位置
+
+如果用mod_python方式，需要在httpd.conf里指定
+&lt;coolcode linenum=&quot;off&quot;&gt;
+PythonPath &quot;[r&#039;C:/www/Moin/mywiki&#039;]   sys.path&quot;
+&lt;/coolcode&gt;]]></description>
+		<content:encoded><![CDATA[<p>to mrlong:<br />
+如果用CGI方式，moin.cgi里要有这句<br />
+<coolcode linenum="off"><br />
+sys.path.insert(0, r'C:/www/Moin/mywiki')<br />
+</coolcode><br />
+指定wikiconfig.py的位置</p>
+<p>如果用mod_python方式，需要在httpd.conf里指定<br />
+<coolcode linenum="off"><br />
+PythonPath "[r'C:/www/Moin/mywiki']   sys.path"<br />
+</coolcode></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：mrlong</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-3604</link>
+		<dc:creator><![CDATA[mrlong]]></dc:creator>
+		<pubDate>Sat, 03 Mar 2007 07:43:01 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-3604</guid>
+		<description><![CDATA[ImportError: No module named wikiconfig
+
+Check that the file is in the same directory as the server script. If it is not, you must add the path of the directory where the file is located to the python path in the server script. See the comments at the top of the server script.
+
+Check that the configuration file name is either &quot;wikiconfig.py&quot; or the module name specified in the wikis list in farmconfig.py. Note that the module name does not include the &quot;.py&quot; suffix.
+
+If you want to report a bug, please save this page and attach it to your bug report.
+
+
+这是什么意思
+
+我采用CGI方式 与mod_python 都出现同样的问题, 是不是路径出错. 还是apache无法处理py文件]]></description>
+		<content:encoded><![CDATA[<p>ImportError: No module named wikiconfig</p>
+<p>Check that the file is in the same directory as the server script. If it is not, you must add the path of the directory where the file is located to the python path in the server script. See the comments at the top of the server script.</p>
+<p>Check that the configuration file name is either "wikiconfig.py" or the module name specified in the wikis list in farmconfig.py. Note that the module name does not include the ".py" suffix.</p>
+<p>If you want to report a bug, please save this page and attach it to your bug report.</p>
+<p>这是什么意思</p>
+<p>我采用CGI方式 与mod_python 都出现同样的问题, 是不是路径出错. 还是apache无法处理py文件</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.100 seconds -->

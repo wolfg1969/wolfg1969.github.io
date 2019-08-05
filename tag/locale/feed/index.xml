@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>locale &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/locale/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>How to add a new language to 770/N800</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/</link>
+		<comments>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comments</comments>
+		<pubDate>Fri, 27 Apr 2007 16:29:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[locale]]></category>
+		<category><![CDATA[n800]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318</guid>
+		<description><![CDATA[Adding a new language to 770/N800 is very simple. Once  &#8230; <p class="link-more"><a href="/linux/maemo-linux/how-to-add-a-new-language-to-770n800/" class="more-link">继续阅读<span class="screen-reader-text">“How to add a new language to 770/N800”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/feed/</wfw:commentRss>
+		<slash:comments>31</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">318</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.082 seconds -->

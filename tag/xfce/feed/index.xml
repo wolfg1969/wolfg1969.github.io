@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xfce &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/xfce/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>登录窗口有多个Xfce会话供选择，怎么回事？</title>
+		<link>/linux/using-ubuntu-desktop/%e7%99%bb%e5%bd%95%e7%aa%97%e5%8f%a3%e6%9c%89%e5%a4%9a%e4%b8%aaxfce%e4%bc%9a%e8%af%9d%e4%be%9b%e9%80%89%e6%8b%a9%ef%bc%8c%e6%80%8e%e4%b9%88%e5%9b%9e%e4%ba%8b%ef%bc%9f/</link>
+		<pubDate>Tue, 26 Jan 2010 12:44:40 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[gdm]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[xfce]]></category>
+		<category><![CDATA[xsessions]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=558</guid>
+		<description><![CDATA[登录窗口里选择会话的地方，一直有两个Xfce Session，登录后似乎略有不同。其实是在/usr/share &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e7%99%bb%e5%bd%95%e7%aa%97%e5%8f%a3%e6%9c%89%e5%a4%9a%e4%b8%aaxfce%e4%bc%9a%e8%af%9d%e4%be%9b%e9%80%89%e6%8b%a9%ef%bc%8c%e6%80%8e%e4%b9%88%e5%9b%9e%e4%ba%8b%ef%bc%9f/" class="more-link">继续阅读<span class="screen-reader-text">“登录窗口有多个Xfce会话供选择，怎么回事？”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">558</post-id>	</item>
+		<item>
+		<title>找回消失的Notification Area(Xubuntu)</title>
+		<link>/linux/using-ubuntu-desktop/%e6%89%be%e5%9b%9e%e7%9c%8b%e4%b8%8d%e8%a7%81%e7%9a%84notification-areaxubuntu/</link>
+		<pubDate>Tue, 26 Jan 2010 11:48:43 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[notification area]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[xfce]]></category>
+		<category><![CDATA[xfce-panel]]></category>
+		<category><![CDATA[xubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=556</guid>
+		<description><![CDATA[美化桌面的时候会遇到通知区域(Notification Area)Applet不见了的情况，试图再加一个到面板 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e6%89%be%e5%9b%9e%e7%9c%8b%e4%b8%8d%e8%a7%81%e7%9a%84notification-areaxubuntu/" class="more-link">继续阅读<span class="screen-reader-text">“找回消失的Notification Area(Xubuntu)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">556</post-id>	</item>
+		<item>
+		<title>Xfce 字体问题</title>
+		<link>/linux/using-ubuntu-desktop/xfce-font-problems/</link>
+		<comments>/linux/using-ubuntu-desktop/xfce-font-problems/#comments</comments>
+		<pubDate>Sun, 11 May 2008 06:51:06 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[font]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[xfce]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=357</guid>
+		<description><![CDATA[昨天为了使用笔记本（T43, ATI Mobility Radeon X300显卡）的VGA OUT功能，改用 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/xfce-font-problems/" class="more-link">继续阅读<span class="screen-reader-text">“Xfce 字体问题”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/using-ubuntu-desktop/xfce-font-problems/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">357</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.083 seconds -->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T43 &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/t43/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>升级到Ubuntu 8.10</title>
+		<link>/linux/using-ubuntu-desktop/upgrade-to-ubuntu-810/</link>
+		<pubDate>Wed, 05 Nov 2008 22:40:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[ipw2200]]></category>
+		<category><![CDATA[nm-applet]]></category>
+		<category><![CDATA[T43]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=362</guid>
+		<description><![CDATA[花了一天多的时间将笔记本（IBM Thinkpad T43）升级到了Ubuntu新发布的8.10版本。 升级过 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/upgrade-to-ubuntu-810/" class="more-link">继续阅读<span class="screen-reader-text">“升级到Ubuntu 8.10”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
+		<item>
+		<title>今晚搞定了T43的bluetooth和infrared连接</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bb%8a%e6%99%9a%e6%90%9e%e5%ae%9a%e4%ba%86t43%e7%9a%84bluetooth%e5%92%8cinfrared%e8%bf%9e%e6%8e%a5/</link>
+		<comments>/linux/using-ubuntu-desktop/%e4%bb%8a%e6%99%9a%e6%90%9e%e5%ae%9a%e4%ba%86t43%e7%9a%84bluetooth%e5%92%8cinfrared%e8%bf%9e%e6%8e%a5/#comments</comments>
+		<pubDate>Thu, 24 Aug 2006 15:34:19 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[bluetooth]]></category>
+		<category><![CDATA[infrared]]></category>
+		<category><![CDATA[T43]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/08/24/262</guid>
+		<description><![CDATA[蓝牙： 我用的是USB的蓝牙设备。执行完下列命令 $ sudo mknod /dev/rcomm0 c 216 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e4%bb%8a%e6%99%9a%e6%90%9e%e5%ae%9a%e4%ba%86t43%e7%9a%84bluetooth%e5%92%8cinfrared%e8%bf%9e%e6%8e%a5/" class="more-link">继续阅读<span class="screen-reader-text">“今晚搞定了T43的bluetooth和infrared连接”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/using-ubuntu-desktop/%e4%bb%8a%e6%99%9a%e6%90%9e%e5%ae%9a%e4%ba%86t43%e7%9a%84bluetooth%e5%92%8cinfrared%e8%bf%9e%e6%8e%a5/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">262</post-id>	</item>
+		<item>
+		<title>ubuntu下使用T43的指纹识别设备</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/</link>
+		<comments>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/#comments</comments>
+		<pubDate>Mon, 21 Aug 2006 07:50:27 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fingerprint]]></category>
+		<category><![CDATA[T43]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/08/21/257</guid>
+		<description><![CDATA[我参照这个Howto设置了T43上的指纹识别设备，在登录GDM时可以刷指纹了。 1. 安装bioapi fra &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/" class="more-link">继续阅读<span class="screen-reader-text">“ubuntu下使用T43的指纹识别设备”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">257</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.087 seconds -->

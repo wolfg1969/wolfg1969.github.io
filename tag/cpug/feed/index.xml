@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cpug &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/cpug/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Google Developer Day 2007 in Beijing</title>
+		<link>/oss/google-developer-day-2007-beijing/</link>
+		<pubDate>Thu, 31 May 2007 14:12:33 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[cpug]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/31/328</guid>
+		<description><![CDATA[挺着牙痛去参加了Google Developer Day，有机会跟CPUG的老朋友见面，结识新朋友，有幸和Py &#8230; <p class="link-more"><a href="/oss/google-developer-day-2007-beijing/" class="more-link">继续阅读<span class="screen-reader-text">“Google Developer Day 2007 in Beijing”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">328</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

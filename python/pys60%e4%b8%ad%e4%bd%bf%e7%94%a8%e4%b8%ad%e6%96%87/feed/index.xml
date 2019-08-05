@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《PyS60中使用中文》的评论</title>
+	<atom:link href="/python/pys60%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87/feed/" rel="self" type="application/rss+xml" />
+	<link>/python/pys60%e4%b8%ad%e4%bd%bf%e7%94%a8%e4%b8%ad%e6%96%87/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Symbian Blogger</title>
+		<link>/python/pys60%e4%b8%ad%e4%bd%bf%e7%94%a8%e4%b8%ad%e6%96%87/#comment-49253</link>
+		<dc:creator><![CDATA[Symbian Blogger]]></dc:creator>
+		<pubDate>Sat, 16 May 2009 20:26:18 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/04/24/153#comment-49253</guid>
+		<description><![CDATA[I found your blog on google and read a few of your other posts. I just added you to my Google News Reader. Keep up the good work. Look forward to reading more from you in the future.]]></description>
+		<content:encoded><![CDATA[<p>I found your blog on google and read a few of your other posts. I just added you to my Google News Reader. Keep up the good work. Look forward to reading more from you in the future.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

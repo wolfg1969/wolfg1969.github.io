@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser》的评论</title>
+	<atom:link href="/oss/%E4%BD%BF%E7%94%A8moinmoin-wiki%E8%BF%9B%E8%A1%8C%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86-%EF%BC%8D-%E5%AE%89%E8%A3%85bibtex-parser/feed/" rel="self" type="application/rss+xml" />
+	<link>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Aaron</title>
+		<link>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/#comment-48419</link>
+		<dc:creator><![CDATA[Aaron]]></dc:creator>
+		<pubDate>Mon, 04 May 2009 06:40:14 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/06/29/220#comment-48419</guid>
+		<description><![CDATA[这样需要服务器安装有bibtex和bibtex2html。有没有办法在一般的服务器上处理科技文献的parser呢？]]></description>
+		<content:encoded><![CDATA[<p>这样需要服务器安装有bibtex和bibtex2html。有没有办法在一般的服务器上处理科技文献的parser呢？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：links for 2007-12-24 at 水蘸李子 - V12N</title>
+		<link>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/#comment-26884</link>
+		<dc:creator><![CDATA[links for 2007-12-24 at 水蘸李子 - V12N]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2007 00:29:00 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/06/29/220#comment-26884</guid>
+		<description><![CDATA[[...] 使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser at wolfg’s Weblog (tags: bibtex pim moin) [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] 使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser at wolfg’s Weblog (tags: bibtex pim moin) [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

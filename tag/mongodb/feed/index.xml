@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mongodb &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/mongodb/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>MongoDB日志回滚</title>
+		<link>/linux/sysadm/mongodb%e6%97%a5%e5%bf%97%e5%9b%9e%e6%bb%9a/</link>
+		<pubDate>Thu, 02 Jun 2011 00:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=641</guid>
+		<description><![CDATA[# kill -SIGUSR1 `cat /var/run/mongodb.pid` 用在shell脚本里时， &#8230; <p class="link-more"><a href="/linux/sysadm/mongodb%e6%97%a5%e5%bf%97%e5%9b%9e%e6%bb%9a/" class="more-link">继续阅读<span class="screen-reader-text">“MongoDB日志回滚”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">641</post-id>	</item>
+		<item>
+		<title>RHEL5下编译MongoDB</title>
+		<link>/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/</link>
+		<pubDate>Wed, 01 Jun 2011 06:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=630</guid>
+		<description><![CDATA[很多人都说自己编译的稳定好用，我也来试试： 1. 参考官方文档，手工编译Spider Monkey # cur &#8230; <p class="link-more"><a href="/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/" class="more-link">继续阅读<span class="screen-reader-text">“RHEL5下编译MongoDB”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">630</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.083 seconds -->

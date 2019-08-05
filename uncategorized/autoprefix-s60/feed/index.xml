@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《autoprefix-s60》的评论</title>
+	<atom:link href="/uncategorized/autoprefix-s60/feed/" rel="self" type="application/rss+xml" />
+	<link>/uncategorized/autoprefix-s60/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：V M JOHN</title>
+		<link>/uncategorized/autoprefix-s60/#comment-54767</link>
+		<dc:creator><![CDATA[V M JOHN]]></dc:creator>
+		<pubDate>Sat, 24 Oct 2009 12:50:03 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/02/04/301#comment-54767</guid>
+		<description><![CDATA[Hi 
+Is autoprefix capable to remove country and city codes before dialing?
+do you have a version for new symbian S60 5th edition? There is a lot of demand for a software with this functionality.
+Regards,]]></description>
+		<content:encoded><![CDATA[<p>Hi<br />
+Is autoprefix capable to remove country and city codes before dialing?<br />
+do you have a version for new symbian S60 5th edition? There is a lot of demand for a software with this functionality.<br />
+Regards,</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.073 seconds -->

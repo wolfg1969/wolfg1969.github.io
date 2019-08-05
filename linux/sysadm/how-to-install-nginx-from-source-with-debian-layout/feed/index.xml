@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《How to install Nginx from source with &#8216;Debian&#8217; layout》的评论</title>
+	<atom:link href="/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/#comment-55543</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 17 Jan 2010 11:24:02 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=371#comment-55543</guid>
+		<description><![CDATA[Cool. Thanks.]]></description>
+		<content:encoded><![CDATA[<p>Cool. Thanks.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Scott Barr</title>
+		<link>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/#comment-55532</link>
+		<dc:creator><![CDATA[Scott Barr]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2010 15:00:58 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=371#comment-55532</guid>
+		<description><![CDATA[I have a simple installation (3 lines) using gists that you can view on my Blog at http://scottbarr.blogspot.com/2010/01/install-nginx-from-source-on-debian.html.]]></description>
+		<content:encoded><![CDATA[<p>I have a simple installation (3 lines) using gists that you can view on my Blog at <a href="http://scottbarr.blogspot.com/2010/01/install-nginx-from-source-on-debian.html" rel="nofollow">http://scottbarr.blogspot.com/2010/01/install-nginx-from-source-on-debian.html</a>.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Repository for Nokia 770 to install Chinese fonts and themes》的评论</title>
+	<atom:link href="/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Nigel</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-18656</link>
+		<dc:creator><![CDATA[Nigel]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 01:46:49 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-18656</guid>
+		<description><![CDATA[Hello, I&#039;m really sorry, but could someone post step-by-step instructions on how to get the firefly deb package and how to install it on the N800? 
+
+I&#039;m really computer inept.  Many thanks in advance for your help.]]></description>
+		<content:encoded><![CDATA[<p>Hello, I'm really sorry, but could someone post step-by-step instructions on how to get the firefly deb package and how to install it on the N800? </p>
+<p>I'm really computer inept.  Many thanks in advance for your help.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Arangel</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-8068</link>
+		<dc:creator><![CDATA[Arangel]]></dc:creator>
+		<pubDate>Sat, 21 Apr 2007 02:35:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-8068</guid>
+		<description><![CDATA[Wolfg, 
+
+Thank you very much for the links mate. :)]]></description>
+		<content:encoded><![CDATA[<p>Wolfg, </p>
+<p>Thank you very much for the links mate. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-5154</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 18 Mar 2007 01:56:20 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-5154</guid>
+		<description><![CDATA[The address of my repository has changed. Please see http://guoyong.org/2007/03/18/303 for details.]]></description>
+		<content:encoded><![CDATA[<p>The address of my repository has changed. Please see <a href="http://guoyong.org/2007/03/18/303" rel="nofollow">http://guoyong.org/2007/03/18/303</a> for details.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-3741</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 05 Mar 2007 05:26:56 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-3741</guid>
+		<description><![CDATA[to arangel:
+https://garage.maemo.org/frs/?group_id=126
+http://gentoo-wiki.com/HOWTO_localedef
+http://www.tin.org/bin/man.cgi?section=1&amp;topic=localedef]]></description>
+		<content:encoded><![CDATA[<p>to arangel:<br />
+<a href="https://garage.maemo.org/frs/?group_id=126" rel="nofollow">https://garage.maemo.org/frs/?group_id=126</a><br />
+<a href="http://gentoo-wiki.com/HOWTO_localedef" rel="nofollow">http://gentoo-wiki.com/HOWTO_localedef</a><br />
+<a href="http://www.tin.org/bin/man.cgi?section=1&#038;topic=localedef" rel="nofollow">http://www.tin.org/bin/man.cgi?section=1&#038;topic=localedef</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：arangel</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-3186</link>
+		<dc:creator><![CDATA[arangel]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2007 13:20:10 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-3186</guid>
+		<description><![CDATA[Hi, is there a place where I can find more info about creating new locales? I want to create one for Macedonian and so far I didn&#039;t found anything much on google.. Thanks..]]></description>
+		<content:encoded><![CDATA[<p>Hi, is there a place where I can find more info about creating new locales? I want to create one for Macedonian and so far I didn't found anything much on google.. Thanks..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：romeo</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-3099</link>
+		<dc:creator><![CDATA[romeo]]></dc:creator>
+		<pubDate>Fri, 23 Feb 2007 08:22:17 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-3099</guid>
+		<description><![CDATA[also tried successfully with N800.  thanks a million for your genuine instruction.]]></description>
+		<content:encoded><![CDATA[<p>also tried successfully with N800.  thanks a million for your genuine instruction.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-1630</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2007 02:35:34 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-1630</guid>
+		<description><![CDATA[Thanks!]]></description>
+		<content:encoded><![CDATA[<p>Thanks!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：chichi</title>
+		<link>/linux/maemo-linux/repository-for-nokia-770-to-install-chinese-fonts-and-themes/#comment-1606</link>
+		<dc:creator><![CDATA[chichi]]></dc:creator>
+		<pubDate>Sun, 28 Jan 2007 11:33:29 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/01/21/299#comment-1606</guid>
+		<description><![CDATA[Just tried on N800. Steps to show all chinese except in title bar.
+
+1) install the firefly deb package
+2) open xterm
+3) sudo gainroot
+4) fc-cache -f
+
+This way all applications will support chinese include opera]]></description>
+		<content:encoded><![CDATA[<p>Just tried on N800. Steps to show all chinese except in title bar.</p>
+<p>1) install the firefly deb package<br />
+2) open xterm<br />
+3) sudo gainroot<br />
+4) fc-cache -f</p>
+<p>This way all applications will support chinese include opera</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.075 seconds -->

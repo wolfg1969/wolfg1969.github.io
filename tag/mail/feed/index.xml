@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mail &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/mail/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Ubuntu 6.06 下SquirrelMail的中文界面问题</title>
+		<link>/linux/sysadm/ubuntu-606-%e4%b8%8bsquirrelmail%e7%9a%84%e4%b8%ad%e6%96%87%e7%95%8c%e9%9d%a2%e9%97%ae%e9%a2%98/</link>
+		<pubDate>Wed, 29 Nov 2006 15:11:06 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[mail]]></category>
+		<category><![CDATA[squirrelmail]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/11/29/292</guid>
+		<description><![CDATA[SquirrelMail的系统配置为中文，用户设置也是中文，可以正常查看中文邮件，但界面还是英文。 系统已经安 &#8230; <p class="link-more"><a href="/linux/sysadm/ubuntu-606-%e4%b8%8bsquirrelmail%e7%9a%84%e4%b8%ad%e6%96%87%e7%95%8c%e9%9d%a2%e9%97%ae%e9%a2%98/" class="more-link">继续阅读<span class="screen-reader-text">“Ubuntu 6.06 下SquirrelMail的中文界面问题”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">292</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

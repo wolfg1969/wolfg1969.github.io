@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>google &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能</title>
+		<link>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/</link>
+		<comments>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/#comments</comments>
+		<pubDate>Tue, 05 Jun 2007 06:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/06/05/329</guid>
+		<description><![CDATA[终于找到这个合影了。 收到Makoto的邮件，MaemoCJK新增了两个功能： 1. IM switch at &#8230; <p class="link-more"><a href="/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/" class="more-link">继续阅读<span class="screen-reader-text">“补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">329</post-id>	</item>
+		<item>
+		<title>Google Developer Day 2007 in Beijing</title>
+		<link>/oss/google-developer-day-2007-beijing/</link>
+		<pubDate>Thu, 31 May 2007 14:12:33 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[cpug]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/31/328</guid>
+		<description><![CDATA[挺着牙痛去参加了Google Developer Day，有机会跟CPUG的老朋友见面，结识新朋友，有幸和Py &#8230; <p class="link-more"><a href="/oss/google-developer-day-2007-beijing/" class="more-link">继续阅读<span class="screen-reader-text">“Google Developer Day 2007 in Beijing”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">328</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.081 seconds -->

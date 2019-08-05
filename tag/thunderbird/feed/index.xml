@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>thunderbird &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/thunderbird/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>ubuntu下使用Mozilla Thunderbird和Acrobat Reader的两个技巧</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8mozilla-thunderbird%e5%92%8cacrobat-reader%e7%9a%84%e4%b8%a4%e4%b8%aa%e6%8a%80%e5%b7%a7/</link>
+		<pubDate>Sat, 19 Aug 2006 14:42:26 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[acrobat]]></category>
+		<category><![CDATA[thunderbird]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/08/19/256</guid>
+		<description><![CDATA[现在我的笔记本和办公电脑都在使用ubuntu，几年来完全使用Linux的“愿望”终于实现了。 安装了Thund &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8mozilla-thunderbird%e5%92%8cacrobat-reader%e7%9a%84%e4%b8%a4%e4%b8%aa%e6%8a%80%e5%b7%a7/" class="more-link">继续阅读<span class="screen-reader-text">“ubuntu下使用Mozilla Thunderbird和Acrobat Reader的两个技巧”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">256</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

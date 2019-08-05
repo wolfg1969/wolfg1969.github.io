@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mat &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/mat/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障</title>
+		<link>/dev/solve-jvm-oom-problem-with-mat/</link>
+		<pubDate>Sun, 11 Mar 2012 14:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[heap dump]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jvm]]></category>
+		<category><![CDATA[mat]]></category>
+
+		<guid isPermaLink="false">/?p=928</guid>
+		<description><![CDATA[这周一我负责维护的一个系统突然出现故障，用户反映系统很慢，浏览器加载半天最后进了错误页面。登录到系统查看，发现 &#8230; <p class="link-more"><a href="/dev/solve-jvm-oom-problem-with-mat/" class="more-link">继续阅读<span class="screen-reader-text">“使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">928</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

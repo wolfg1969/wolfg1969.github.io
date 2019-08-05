@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hildon &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/hildon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>诺基亚开源Hildon Input Method Framework</title>
+		<link>/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/</link>
+		<comments>/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/#comments</comments>
+		<pubDate>Sat, 08 Sep 2007 15:40:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[hildon]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[nokia]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/09/08/342</guid>
+		<description><![CDATA[今天刚看到的消息，诺基亚将Hildon Input Method Framework开源，包括三部分： The &#8230; <p class="link-more"><a href="/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/" class="more-link">继续阅读<span class="screen-reader-text">“诺基亚开源Hildon Input Method Framework”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">342</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

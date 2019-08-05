@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《移植StarDict到maemo平台 (2) &#8211; 几张N800上的截图》的评论</title>
+	<atom:link href="/linux/maemo-linux/%E7%A7%BB%E6%A4%8Dstardict%E5%88%B0maemo%E5%B9%B3%E5%8F%B0-2-%E5%87%A0%E5%BC%A0n800%E4%B8%8A%E7%9A%84%E6%88%AA%E5%9B%BE/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：fong</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/#comment-14863</link>
+		<dc:creator><![CDATA[fong]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2007 03:28:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/22/324#comment-14863</guid>
+		<description><![CDATA[do you know how to flash nokia 770? mine was 1.2 2006 version. I tried to flash it into 3.2. The result came out white screen. I can not do anything beside the bright white screen with couple of lines on it. I dont really follow maemo.org steps. seems like they use linux system. Can you teach me how to flash it?]]></description>
+		<content:encoded><![CDATA[<p>do you know how to flash nokia 770? mine was 1.2 2006 version. I tried to flash it into 3.2. The result came out white screen. I can not do anything beside the bright white screen with couple of lines on it. I dont really follow maemo.org steps. seems like they use linux system. Can you teach me how to flash it?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/#comment-10714</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 22 May 2007 16:18:36 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/22/324#comment-10714</guid>
+		<description><![CDATA[还没有试过单词朗读]]></description>
+		<content:encoded><![CDATA[<p>还没有试过单词朗读</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：kissingwolf</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/#comment-10712</link>
+		<dc:creator><![CDATA[kissingwolf]]></dc:creator>
+		<pubDate>Tue, 22 May 2007 13:40:46 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/22/324#comment-10712</guid>
+		<description><![CDATA[庆祝！
+另： 以符号链接的方式可以安装单词朗读吗？]]></description>
+		<content:encoded><![CDATA[<p>庆祝！<br />
+另： 以符号链接的方式可以安装单词朗读吗？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：pawaca</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/#comment-10683</link>
+		<dc:creator><![CDATA[pawaca]]></dc:creator>
+		<pubDate>Mon, 21 May 2007 23:20:23 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/22/324#comment-10683</guid>
+		<description><![CDATA[酷！太牛了！]]></description>
+		<content:encoded><![CDATA[<p>酷！太牛了！</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

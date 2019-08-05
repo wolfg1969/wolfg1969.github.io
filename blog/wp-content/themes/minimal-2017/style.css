@@ -1,0 +1,282 @@
+/*
+Theme Name: Minimal 20/17
+Theme URI: https://www.websitehelper.co.uk/minimal-20-17-child-theme/
+Author: Website Helper
+Author URI: https://www.websitehelper.co.uk
+Template: twentyseventeen
+Template Version: 1.4
+Description: The Minimal 20/17 theme is a Twenty Seventeen WordPress child theme. It removes the excessive padding from its parent and introduces a wider layout and better spacing. It also supports page builders and has two new page templates.
+Version: 1.0.5
+License: GNU General Public License v2 or laterno
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog
+Text Domain: minimal-2017
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+/*Header*/
+
+.site-header {
+    background-color: #f9f9f9;
+}
+
+.site-branding {
+    text-align: center;
+}
+
+.twentyseventeen-front-page.has-header-image .site-branding, 
+.twentyseventeen-front-page.has-header-video .site-branding, 
+.home.blog.has-header-image .site-branding, 
+.home.blog.has-header-video .site-branding {
+    margin-bottom: 100px!important;
+}
+
+.wrap-the-logo {
+    
+}
+
+.site-title {
+    text-transform: capitalize;
+}
+
+.site-description {
+    width: 70%;
+    margin: 10px auto;
+}
+
+.header-social-icons {
+    margin-top: 15px;
+}
+
+/*For screen larger than 770px*/
+
+@media screen and (min-width: 770px) {
+  .navigation-top .wrap {
+    	max-width: 1140px;
+	}
+}
+
+.navigation-top {
+    border-top: 1px solid #DDDDDD;
+    border-bottom: 0px solid #eee;
+}
+
+/*Fixed Nav*/
+
+.site-navigation-fixed.navigation-top {
+    background: #f9f9f9;
+}
+
+/*Body*/
+
+.wrap {
+    max-width: 1140px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.page .wrap {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+/*For screen larger than 770px*/
+
+@media screen and (min-width: 770px) {
+	.has-sidebar:not(.error404) #primary {
+    	float: left;
+    	width: 66%;
+	}
+	
+	.has-sidebar #secondary {
+   		float: right;
+    	padding-top: 0;
+    	width: 30%;
+	}
+    .main-navigation a {
+   		padding: 1em 1em;
+	}
+}
+
+.single-post:not(.has-sidebar) #primary, 
+.page.page-one-column:not(.twentyseventeen-front-page) #primary, 
+.archive.page-one-column:not(.has-sidebar) .page-header, 
+.archive.page-one-column:not(.has-sidebar) #primary {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 99%;
+}
+
+.blog:not(.has-sidebar) #primary article, 
+.archive:not(.page-one-column):not(.has-sidebar) #primary article, 
+.search:not(.has-sidebar) #primary article, 
+.error404:not(.has-sidebar) #primary .page-content, 
+.error404.has-sidebar #primary .page-content, 
+body.page-two-column:not(.archive) #primary 
+.entry-content, body.page-two-column #comments {
+    float: right;
+    width: 99%;
+}
+
+body:not(.twentyseventeen-front-page) 
+.entry-header, body:not(.twentyseventeen-front-page) 
+.entry-content, body:not(.twentyseventeen-front-page) #comments {
+    margin-left: 1%;
+}
+
+.site-content {
+    padding: 3em 0 0;
+}
+
+.page .panel-content 
+.entry-title, 
+.page-title, 
+body.page:not(.twentyseventeen-front-page) 
+.entry-title {
+    font-size: 1.5rem;
+}
+
+.site-footer {
+    margin-top: 0em;
+     border-top: 0px solid #eee;
+}
+
+/*Elements*/
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+}
+
+blockquote {
+    background: #f9f9f9;
+    padding: 20px 20px 0 20px;
+    margin: 16px 0;
+}
+
+pre {
+    background: #f9f9f9;
+}
+
+.more-link {
+    border: 1px solid #DDDDDD;
+    display: inline-flex;
+    padding: 4px 22px 1px 10px;
+    border-radius: 14px;
+    font-size: 0.9rem;
+}
+
+a.more-link {
+    -webkit-box-shadow: inset 0 0px 0 rgba(15, 15, 15, 1);
+    box-shadow: inset 0 0px 0 rgba(15, 15, 15, 1);
+    -webkit-transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, box-shadow 130ms ease-in-out, -webkit-box-shadow 130ms ease-in-out;
+}
+a.more-link:hover {
+    -webkit-box-shadow: inset 0 0px 0 rgba(15, 15, 15, 1);
+    box-shadow: inset 0 0px 0 rgba(15, 15, 15, 1);
+    -webkit-transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, box-shadow 130ms ease-in-out, -webkit-box-shadow 130ms ease-in-out;
+}
+
+a.more-link:after {
+    content: url(/blog/wp-content/themes/minimal-2017/assets/right-arrow.png)!important;
+    margin-left: 8px;
+    margin-top: 1px;
+}
+
+.blog .site-main > article, 
+.archive .site-main > article, 
+.search .site-main > article {
+    padding-bottom: 2em;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 55px;
+}
+
+.entry-content a, 
+.entry-summary a, 
+.widget a, 
+.site-footer 
+.widget-area a, 
+.posts-navigation a, 
+.widget_authors a strong {
+	box-shadow:none; 
+}
+
+/*Comments*/
+
+.comments-area {
+    width: 66%;
+    margin: auto!important;
+}
+
+.comments-section {
+    width: 100vw;
+    background: #f9f9f9;
+    margin-left: calc(49% - 50vw);
+}
+
+.has-sidebar #comments-container {
+    position: relative;
+    left: 25.5%;
+}
+
+.comment-author .avatar {
+    border-radius: 50px;
+}
+
+.comment {
+    border-bottom: 1px solid #DEDEDE;
+    margin-bottom: 60px;
+}
+
+span.edit-link {
+    display: inline-block;
+    padding: 30px 0;
+}
+
+.page-template-page-no-title .site-content {
+    padding: 0;
+}
+
+.page-template-page-landing .site-header, .page-template-page-landing .site-footer{
+    display: none!important;
+}
+
+.page-template-page-landing .site-content {
+    padding: 0!important;
+}
+
+/*Landing Page Template If Selected As Homepage*/
+
+.home body.page:not(.twentyseventeen-front-page) .entry-title {
+    display: none;
+}
+
+.home .panel-content .wrap {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.home span.edit-link {
+    display: none!important;
+}
+
+.page-template-page-landing header.entry-header {
+    display: none;
+}
+
+/* Mobile */
+
+@media screen and (max-width: 770px) {
+  .sticky .icon-thumb-tack {
+    height: 27px;
+    left: -7px;
+    top: -28px;
+    width: 30px;
+    padding: 5px;
+	}
+}

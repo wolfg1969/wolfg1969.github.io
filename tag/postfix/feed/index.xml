@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>postfix &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/postfix/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证</title>
+		<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/</link>
+		<comments>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/#comments</comments>
+		<pubDate>Wed, 14 May 2008 13:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[md5crypt]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[openvpn]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=359</guid>
+		<description><![CDATA[这几天配置OpenVPN，使用了用户名密码的身份认证方式，借助已有的postfix邮箱帐号，省去了再为每个人设 &#8230; <p class="link-more"><a href="/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/" class="more-link">继续阅读<span class="screen-reader-text">“一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">359</post-id>	</item>
+		<item>
+		<title>postfix和postgrey问题</title>
+		<link>/linux/sysadm/postfix-and-postgrey-problem/</link>
+		<pubDate>Tue, 13 May 2008 14:58:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[postgrey]]></category>
+		<category><![CDATA[smtp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=358</guid>
+		<description><![CDATA[公司的邮件服务器收不到外来邮件了，日志里有这样的错误： 554 Service unavailable; Cl &#8230; <p class="link-more"><a href="/linux/sysadm/postfix-and-postgrey-problem/" class="more-link">继续阅读<span class="screen-reader-text">“postfix和postgrey问题”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">358</post-id>	</item>
+		<item>
+		<title>升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）</title>
+		<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/</link>
+		<comments>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/#comments</comments>
+		<pubDate>Mon, 28 Jan 2008 16:38:37 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[smtp]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2008/01/29/351</guid>
+		<description><![CDATA[日志里这样的错误信息： warning: SASL authentication problem: unabl &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/" class="more-link">继续阅读<span class="screen-reader-text">“升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">351</post-id>	</item>
+		<item>
+		<title>让Postfix使用保存在MySQL中的加了密的密码字段(Ubuntu 6.06 TLS)</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/</link>
+		<comments>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comments</comments>
+		<pubDate>Fri, 01 Dec 2006 17:49:45 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293</guid>
+		<description><![CDATA[这两天在Ubuntu下折腾Postfix + Courier-IMAP + Cyrus-SASL + MySQ &#8230; <p class="link-more"><a href="/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/" class="more-link">继续阅读<span class="screen-reader-text">“让Postfix使用保存在MySQL中的加了密的密码字段(Ubuntu 6.06 TLS)”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">293</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.081 seconds -->

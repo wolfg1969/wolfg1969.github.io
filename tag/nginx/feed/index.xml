@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nginx &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/nginx/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>用于修复旧的下载链接的Nginx Rewrite规则</title>
+		<link>/linux/nginx-the-rewrite-url-based-on-get-parameter/</link>
+		<pubDate>Sun, 11 Mar 2012 14:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nginx]]></category>
+		<category><![CDATA[rewrite]]></category>
+
+		<guid isPermaLink="false">/?p=926</guid>
+		<description><![CDATA[旧的下载链接是这样的：/?dl=file 由于原来处理下载请求的插件不工作了，所以就用Nginx的rewrit &#8230; <p class="link-more"><a href="/linux/nginx-the-rewrite-url-based-on-get-parameter/" class="more-link">继续阅读<span class="screen-reader-text">“用于修复旧的下载链接的Nginx Rewrite规则”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">926</post-id>	</item>
+		<item>
+		<title>How to install Nginx from source with &#8216;Debian&#8217; layout</title>
+		<link>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/</link>
+		<comments>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/#comments</comments>
+		<pubDate>Fri, 15 Jan 2010 08:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[debian]]></category>
+		<category><![CDATA[nginx]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=371</guid>
+		<description><![CDATA[1. 创建相关目录 $ sudo mkdir /etc/nginx $ sudo mkdir /etc/ngi &#8230; <p class="link-more"><a href="/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/" class="more-link">继续阅读<span class="screen-reader-text">“How to install Nginx from source with &#8216;Debian&#8217; layout”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.085 seconds -->

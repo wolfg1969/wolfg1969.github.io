@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《我用MoinMoin做PIM》的评论</title>
+	<atom:link href="/oss/%E6%88%91%E7%94%A8moinmoin%E5%81%9A%E4%B8%AA%E4%BA%BApim/feed/" rel="self" type="application/rss+xml" />
+	<link>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：links for 2007-12-24 at 水蘸李子 - V12N</title>
+		<link>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/#comment-26883</link>
+		<dc:creator><![CDATA[links for 2007-12-24 at 水蘸李子 - V12N]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2007 00:28:44 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/07/07/228#comment-26883</guid>
+		<description><![CDATA[[...] 我用MoinMoin做PIM at wolfg’s Weblog (tags: pim) [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] 我用MoinMoin做PIM at wolfg’s Weblog (tags: pim) [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.071 seconds -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>md5crypt &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/md5crypt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证</title>
+		<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/</link>
+		<comments>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/#comments</comments>
+		<pubDate>Wed, 14 May 2008 13:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[md5crypt]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[openvpn]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=359</guid>
+		<description><![CDATA[这几天配置OpenVPN，使用了用户名密码的身份认证方式，借助已有的postfix邮箱帐号，省去了再为每个人设 &#8230; <p class="link-more"><a href="/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/" class="more-link">继续阅读<span class="screen-reader-text">“一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">359</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

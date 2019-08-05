@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《BugFree与SVN整合脚本修改》的评论</title>
+	<atom:link href="/dev/bugfree-with-the-svn-integration-script-modifications/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev/bugfree-with-the-svn-integration-script-modifications/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：fenghao</title>
+		<link>/dev/bugfree-with-the-svn-integration-script-modifications/#comment-53189</link>
+		<dc:creator><![CDATA[fenghao]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2009 03:44:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=364#comment-53189</guid>
+		<description><![CDATA[哥们，有联系方式吗？有的话发到我邮箱里，bugfree和svn至今还未整合成功！谢谢]]></description>
+		<content:encoded><![CDATA[<p>哥们，有联系方式吗？有的话发到我邮箱里，bugfree和svn至今还未整合成功！谢谢</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：哥们</title>
+		<link>/dev/bugfree-with-the-svn-integration-script-modifications/#comment-45568</link>
+		<dc:creator><![CDATA[哥们]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2009 12:10:33 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=364#comment-45568</guid>
+		<description><![CDATA[有没有试过Bazaar， darcs， git等分布式的版本控制， 我感觉cvs，svn都不太好用啊]]></description>
+		<content:encoded><![CDATA[<p>有没有试过Bazaar， darcs， git等分布式的版本控制， 我感觉cvs，svn都不太好用啊</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.069 seconds -->
+<!-- Cached page served by WP-Cache -->

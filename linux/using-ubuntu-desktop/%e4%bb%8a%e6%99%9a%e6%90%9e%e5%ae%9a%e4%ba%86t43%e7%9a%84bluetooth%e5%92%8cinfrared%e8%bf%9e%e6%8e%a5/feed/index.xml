@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《今晚搞定了T43的bluetooth和infrared连接》的评论</title>
+	<atom:link href="/linux/using-ubuntu-desktop/%E4%BB%8A%E6%99%9A%E6%90%9E%E5%AE%9A%E4%BA%86t43%E7%9A%84bluetooth%E5%92%8Cinfrared%E8%BF%9E%E6%8E%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/using-ubuntu-desktop/%e4%bb%8a%e6%99%9a%e6%90%9e%e5%ae%9a%e4%ba%86t43%e7%9a%84bluetooth%e5%92%8cinfrared%e8%bf%9e%e6%8e%a5/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：ScYui</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bb%8a%e6%99%9a%e6%90%9e%e5%ae%9a%e4%ba%86t43%e7%9a%84bluetooth%e5%92%8cinfrared%e8%bf%9e%e6%8e%a5/#comment-22536</link>
+		<dc:creator><![CDATA[ScYui]]></dc:creator>
+		<pubDate>Sat, 10 Nov 2007 05:17:13 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/24/262#comment-22536</guid>
+		<description><![CDATA[$ sudo irattch irda0 -s
+
+这行应该是 irattach]]></description>
+		<content:encoded><![CDATA[<p>$ sudo irattch irda0 -s</p>
+<p>这行应该是 irattach</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

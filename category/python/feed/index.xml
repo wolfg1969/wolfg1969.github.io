@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Python &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/python/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>《 Python 计算机视觉编程》学习笔记（一）</title>
+		<link>/python/programming-computer-vision-with-python-note-1/</link>
+		<pubDate>Wed, 27 Dec 2017 12:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Histogram]]></category>
+
+		<guid isPermaLink="false">/?p=1480</guid>
+		<description><![CDATA[练习代码仓库 https://github.com/wolfg1969/Programming-Compute &#8230; <p class="link-more"><a href="/python/programming-computer-vision-with-python-note-1/" class="more-link">继续阅读<span class="screen-reader-text">“《 Python 计算机视觉编程》学习笔记（一）”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1480</post-id>	</item>
+		<item>
+		<title>[翻译] Pipenv – 官方推荐的 Python 包管理工具</title>
+		<link>/python/pipenv-the-officially-recommended-python-packaging-tool/</link>
+		<pubDate>Mon, 25 Dec 2017 05:34:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[package managr]]></category>
+		<category><![CDATA[pip]]></category>
+		<category><![CDATA[pipenv]]></category>
+		<category><![CDATA[virtualenv]]></category>
+
+		<guid isPermaLink="false">/?p=1446</guid>
+		<description><![CDATA[更新 [20180109] pipenv 可以生成 requirements.txt $ pipenv loc &#8230; <p class="link-more"><a href="/python/pipenv-the-officially-recommended-python-packaging-tool/" class="more-link">继续阅读<span class="screen-reader-text">“[翻译] Pipenv – 官方推荐的 Python 包管理工具”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能</title>
+		<link>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/</link>
+		<comments>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/#comments</comments>
+		<pubDate>Tue, 05 Jun 2007 06:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/06/05/329</guid>
+		<description><![CDATA[终于找到这个合影了。 收到Makoto的邮件，MaemoCJK新增了两个功能： 1. IM switch at &#8230; <p class="link-more"><a href="/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/" class="more-link">继续阅读<span class="screen-reader-text">“补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">329</post-id>	</item>
+		<item>
+		<title>Google Developer Day 2007 in Beijing</title>
+		<link>/oss/google-developer-day-2007-beijing/</link>
+		<pubDate>Thu, 31 May 2007 14:12:33 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[cpug]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/31/328</guid>
+		<description><![CDATA[挺着牙痛去参加了Google Developer Day，有机会跟CPUG的老朋友见面，结识新朋友，有幸和Py &#8230; <p class="link-more"><a href="/oss/google-developer-day-2007-beijing/" class="more-link">继续阅读<span class="screen-reader-text">“Google Developer Day 2007 in Beijing”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">328</post-id>	</item>
+		<item>
+		<title>PyGTK里取得一个xpm图标的灰度图</title>
+		<link>/python/pygtk%e9%87%8c%e5%8f%96%e5%be%97%e4%b8%80%e4%b8%aaxpm%e5%9b%be%e6%a0%87%e7%9a%84%e7%81%b0%e5%ba%a6%e5%9b%be/</link>
+		<pubDate>Wed, 18 Apr 2007 13:47:14 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[pygtk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/18/313</guid>
+		<description><![CDATA[最近用PyMaemo写一个N800上跑的程序时用到的： self.mote_pixbuf = gtk.gdk. &#8230; <p class="link-more"><a href="/python/pygtk%e9%87%8c%e5%8f%96%e5%be%97%e4%b8%80%e4%b8%aaxpm%e5%9b%be%e6%a0%87%e7%9a%84%e7%81%b0%e5%ba%a6%e5%9b%be/" class="more-link">继续阅读<span class="screen-reader-text">“PyGTK里取得一个xpm图标的灰度图”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">313</post-id>	</item>
+		<item>
+		<title>用Google的Co-op服务创建了一个定制搜索引擎 &#8220;Mobile Python&#8221;</title>
+		<link>/python/%e7%94%a8google%e7%9a%84co-op%e6%9c%8d%e5%8a%a1%e5%88%9b%e5%bb%ba%e4%ba%86%e4%b8%80%e4%b8%aa%e5%ae%9a%e5%88%b6%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e-mobile-python/</link>
+		<pubDate>Mon, 30 Oct 2006 15:54:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/10/30/281</guid>
+		<description><![CDATA[今天看了limodou在CU的帖子才知道Google的这个服务 http://google.com/coop/ &#8230; <p class="link-more"><a href="/python/%e7%94%a8google%e7%9a%84co-op%e6%9c%8d%e5%8a%a1%e5%88%9b%e5%bb%ba%e4%ba%86%e4%b8%80%e4%b8%aa%e5%ae%9a%e5%88%b6%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e-mobile-python/" class="more-link">继续阅读<span class="screen-reader-text">“用Google的Co-op服务创建了一个定制搜索引擎 &#8220;Mobile Python&#8221;”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">281</post-id>	</item>
+		<item>
+		<title>glade+pygtk学习 (3)</title>
+		<link>/python/gladepygtk%e5%ad%a6%e4%b9%a0-3/</link>
+		<pubDate>Sat, 28 Oct 2006 12:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/10/28/280</guid>
+		<description><![CDATA[这几天用pygtk和glade写了一个不大的应用，在ubuntu下开发，然后移植到Maemo平台。 学习的过程 &#8230; <p class="link-more"><a href="/python/gladepygtk%e5%ad%a6%e4%b9%a0-3/" class="more-link">继续阅读<span class="screen-reader-text">“glade+pygtk学习 (3)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">280</post-id>	</item>
+		<item>
+		<title>glade+pygtk学习 (2)</title>
+		<link>/python/gladepygtk%e5%ad%a6%e4%b9%a0-2/</link>
+		<pubDate>Wed, 20 Sep 2006 09:42:08 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/09/20/274</guid>
+		<description><![CDATA[按照计划，今天参照这篇文章 Building an Application with PyGTK and Gl &#8230; <p class="link-more"><a href="/python/gladepygtk%e5%ad%a6%e4%b9%a0-2/" class="more-link">继续阅读<span class="screen-reader-text">“glade+pygtk学习 (2)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">274</post-id>	</item>
+		<item>
+		<title>glade+pygtk学习</title>
+		<link>/python/gladepygtk%e5%ad%a6%e4%b9%a0/</link>
+		<pubDate>Tue, 19 Sep 2006 07:52:18 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/09/19/273</guid>
+		<description><![CDATA[今天上午参照 A Beginner's Guide to Using pyGTK and Glade 这篇文章 &#8230; <p class="link-more"><a href="/python/gladepygtk%e5%ad%a6%e4%b9%a0/" class="more-link">继续阅读<span class="screen-reader-text">“glade+pygtk学习”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">273</post-id>	</item>
+		<item>
+		<title>一个把Rss Feed的编码方式由GB2312转成UTF-8的CGI脚本</title>
+		<link>/cu/%e4%b8%80%e4%b8%aa%e6%8a%8arss-feed%e7%9a%84%e7%bc%96%e7%a0%81%e6%96%b9%e5%bc%8f%e7%94%b1gb2312%e8%bd%ac%e6%88%90utf-8%e7%9a%84cgi%e8%84%9a%e6%9c%ac/</link>
+		<comments>/cu/%e4%b8%80%e4%b8%aa%e6%8a%8arss-feed%e7%9a%84%e7%bc%96%e7%a0%81%e6%96%b9%e5%bc%8f%e7%94%b1gb2312%e8%bd%ac%e6%88%90utf-8%e7%9a%84cgi%e8%84%9a%e6%9c%ac/#comments</comments>
+		<pubDate>Mon, 24 Jul 2006 16:35:55 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[CU]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/25/242</guid>
+		<description><![CDATA[今天设置自己的Planet站点，用CU的feed做试验，发现会乱码，原因是CU的feed是GB2312编码的。 &#8230; <p class="link-more"><a href="/cu/%e4%b8%80%e4%b8%aa%e6%8a%8arss-feed%e7%9a%84%e7%bc%96%e7%a0%81%e6%96%b9%e5%bc%8f%e7%94%b1gb2312%e8%bd%ac%e6%88%90utf-8%e7%9a%84cgi%e8%84%9a%e6%9c%ac/" class="more-link">继续阅读<span class="screen-reader-text">“一个把Rss Feed的编码方式由GB2312转成UTF-8的CGI脚本”</span></a></p>]]></description>
+		<wfw:commentRss>/cu/%e4%b8%80%e4%b8%aa%e6%8a%8arss-feed%e7%9a%84%e7%bc%96%e7%a0%81%e6%96%b9%e5%bc%8f%e7%94%b1gb2312%e8%bd%ac%e6%88%90utf-8%e7%9a%84cgi%e8%84%9a%e6%9c%ac/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">242</post-id>	</item>
+		<item>
+		<title>Python for S60 1.3.8</title>
+		<link>/python/python-for-s60-138/</link>
+		<pubDate>Tue, 18 Jul 2006 02:25:57 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/18/239</guid>
+		<description><![CDATA[论坛里有人提醒，Python for S60 1.3.8出来了，这个版本是专门用于S60 3rd Editio &#8230; <p class="link-more"><a href="/python/python-for-s60-138/" class="more-link">继续阅读<span class="screen-reader-text">“Python for S60 1.3.8”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">239</post-id>	</item>
+		<item>
+		<title>Google Scholar Bibtex Parser &#8211; gsbibtex.py</title>
+		<link>/oss/google-scholar-bibtex-parser-gsbibtexpy/</link>
+		<comments>/oss/google-scholar-bibtex-parser-gsbibtexpy/#comments</comments>
+		<pubDate>Thu, 13 Jul 2006 03:03:09 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/13/234</guid>
+		<description><![CDATA[与bibtex.py类似，区别： 只针对从Google Scholar中导出的BibTex 不依赖第三方软件( &#8230; <p class="link-more"><a href="/oss/google-scholar-bibtex-parser-gsbibtexpy/" class="more-link">继续阅读<span class="screen-reader-text">“Google Scholar Bibtex Parser &#8211; gsbibtex.py”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/google-scholar-bibtex-parser-gsbibtexpy/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">234</post-id>	</item>
+		<item>
+		<title>我用MoinMoin做PIM</title>
+		<link>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/</link>
+		<comments>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/#comments</comments>
+		<pubDate>Fri, 07 Jul 2006 12:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/07/228</guid>
+		<description><![CDATA[1. 个人日志 Macro: MonthCalendar, Include 2. 文献管理 Parser: B &#8230; <p class="link-more"><a href="/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/" class="more-link">继续阅读<span class="screen-reader-text">“我用MoinMoin做PIM”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">228</post-id>	</item>
+		<item>
+		<title>在MoinMoin里浏览mind-mapping图</title>
+		<link>/oss/%e5%9c%a8moinmoin%e9%87%8c%e6%b5%8f%e8%a7%88mindmap%e5%9b%be/</link>
+		<pubDate>Wed, 05 Jul 2006 06:31:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/05/224</guid>
+		<description><![CDATA[需要安装FreeMindBrowser这个宏。 使用方法： [[FreeMindBrowser( mindma &#8230; <p class="link-more"><a href="/oss/%e5%9c%a8moinmoin%e9%87%8c%e6%b5%8f%e8%a7%88mindmap%e5%9b%be/" class="more-link">继续阅读<span class="screen-reader-text">“在MoinMoin里浏览mind-mapping图”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">224</post-id>	</item>
+		<item>
+		<title>使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser</title>
+		<link>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/</link>
+		<comments>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/#comments</comments>
+		<pubDate>Thu, 29 Jun 2006 14:56:05 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/06/29/220</guid>
+		<description><![CDATA[BibTex Parser需要bibtex2html的支持。 先下载bibtex2html。我是在Window &#8230; <p class="link-more"><a href="/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/" class="more-link">继续阅读<span class="screen-reader-text">“使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">220</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.105 seconds -->

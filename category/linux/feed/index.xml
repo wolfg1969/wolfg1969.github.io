@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Linux &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>树莓派串口配置</title>
+		<link>/oss/raspberry-pi-serial-port-setup/</link>
+		<pubDate>Fri, 15 Feb 2013 09:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[minicom]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+		<category><![CDATA[serial port]]></category>
+		<category><![CDATA[wajig]]></category>
+
+		<guid isPermaLink="false">/?p=1272</guid>
+		<description><![CDATA[树莓派的串口接口是P1接口上面一排（靠近板子边缘的一排）左数第4针（TX）和第五针（RX） 系统中对应的串口设 &#8230; <p class="link-more"><a href="/oss/raspberry-pi-serial-port-setup/" class="more-link">继续阅读<span class="screen-reader-text">“树莓派串口配置”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1272</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第五天</title>
+		<link>/linux/play-raspberry-pi-day5/</link>
+		<pubDate>Sat, 12 Jan 2013 09:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1205</guid>
+		<description><![CDATA[受国外玩家的启发，用乐高积木搭了个“机箱”。 假期结束，Raspberry Pi的跨年之旅也完美结束了。 下一 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day5/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第五天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1205</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第四天</title>
+		<link>/linux/play-raspberry-pi-day4/</link>
+		<pubDate>Sat, 12 Jan 2013 09:23:34 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1202</guid>
+		<description><![CDATA[今天先安装了一些自己常用的工具和软件：oh-my-zsh, gitflow, geany, vim, gimp &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day4/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第四天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1202</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第三天</title>
+		<link>/linux/play-raspberry-pi-day3/</link>
+		<pubDate>Sat, 12 Jan 2013 08:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1197</guid>
+		<description><![CDATA[树莓派装好后，系统默认设置的源地址是http://mirrordirector.raspbian.org/ra &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day3/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第三天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1197</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 &#8211; 第二天</title>
+		<link>/linux/play-raspberry-pi-day2/</link>
+		<pubDate>Fri, 04 Jan 2013 14:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1159</guid>
+		<description><![CDATA[2012年12月30日 傍晚，京东上订购的转接线到货了，接上显示器，一切正常。 反复测试发现USB无线网卡不能 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day2/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 &#8211; 第二天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1159</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 &#8211; 第一天</title>
+		<link>/linux/play-raspberry-pi-day1/</link>
+		<comments>/linux/play-raspberry-pi-day1/#comments</comments>
+		<pubDate>Thu, 03 Jan 2013 13:02:27 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1139</guid>
+		<description><![CDATA[2012年12月30日，元旦5天假期开始。公司是文艺公司，所以连放五天假。天气寒冷，不想到户外活动。想起了买来 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day1/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 &#8211; 第一天”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/play-raspberry-pi-day1/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1139</post-id>	</item>
+		<item>
+		<title>笔记本Gentoo系统升级</title>
+		<link>/linux/upgrade-gentoo-on-my-notebook/</link>
+		<comments>/linux/upgrade-gentoo-on-my-notebook/#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 03:41:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fluxbox]]></category>
+		<category><![CDATA[gentoo]]></category>
+
+		<guid isPermaLink="false">/?p=955</guid>
+		<description><![CDATA[利用假期把笔记本上的Gentoo系统升级到了最新版，改动的地方记录如下： urxvt无法运行 urxvt: u &#8230; <p class="link-more"><a href="/linux/upgrade-gentoo-on-my-notebook/" class="more-link">继续阅读<span class="screen-reader-text">“笔记本Gentoo系统升级”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/upgrade-gentoo-on-my-notebook/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">955</post-id>	</item>
+		<item>
+		<title>知道了关于Linux进程的一点事儿</title>
+		<link>/linux/know-something-about-the-process/</link>
+		<pubDate>Tue, 03 Apr 2012 03:05:37 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[orphant process]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[zombie process]]></category>
+
+		<guid isPermaLink="false">/?p=950</guid>
+		<description><![CDATA[昨天在乐维参与这两个问题的回答： Unix-like OS是如何有效的查杀orphan process？ Li &#8230; <p class="link-more"><a href="/linux/know-something-about-the-process/" class="more-link">继续阅读<span class="screen-reader-text">“知道了关于Linux进程的一点事儿”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">950</post-id>	</item>
+		<item>
+		<title>用于修复旧的下载链接的Nginx Rewrite规则</title>
+		<link>/linux/nginx-the-rewrite-url-based-on-get-parameter/</link>
+		<pubDate>Sun, 11 Mar 2012 14:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nginx]]></category>
+		<category><![CDATA[rewrite]]></category>
+
+		<guid isPermaLink="false">/?p=926</guid>
+		<description><![CDATA[旧的下载链接是这样的：/?dl=file 由于原来处理下载请求的插件不工作了，所以就用Nginx的rewrit &#8230; <p class="link-more"><a href="/linux/nginx-the-rewrite-url-based-on-get-parameter/" class="more-link">继续阅读<span class="screen-reader-text">“用于修复旧的下载链接的Nginx Rewrite规则”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">926</post-id>	</item>
+		<item>
+		<title>我的Fluxbox配置</title>
+		<link>/oss/my-fluxbox-config/</link>
+		<pubDate>Mon, 05 Mar 2012 06:43:51 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[bitbucket]]></category>
+		<category><![CDATA[fluxbox]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=898</guid>
+		<description><![CDATA[https://bitbucket.org/wolfg/myfluxbox]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
+		<item>
+		<title>A screenshot of my desktop</title>
+		<link>/linux/a-screenshot-of-my-desktop/</link>
+		<pubDate>Sun, 04 Mar 2012 05:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fluxbox]]></category>
+		<category><![CDATA[gentoo]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2012/03/04/a-screenshot-of-my-desktop/</guid>
+		<description><![CDATA[]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">867</post-id>	</item>
+		<item>
+		<title>MongoDB日志回滚</title>
+		<link>/linux/sysadm/mongodb%e6%97%a5%e5%bf%97%e5%9b%9e%e6%bb%9a/</link>
+		<pubDate>Thu, 02 Jun 2011 00:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=641</guid>
+		<description><![CDATA[# kill -SIGUSR1 `cat /var/run/mongodb.pid` 用在shell脚本里时， &#8230; <p class="link-more"><a href="/linux/sysadm/mongodb%e6%97%a5%e5%bf%97%e5%9b%9e%e6%bb%9a/" class="more-link">继续阅读<span class="screen-reader-text">“MongoDB日志回滚”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">641</post-id>	</item>
+		<item>
+		<title>RHEL5下编译MongoDB</title>
+		<link>/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/</link>
+		<pubDate>Wed, 01 Jun 2011 06:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=630</guid>
+		<description><![CDATA[很多人都说自己编译的稳定好用，我也来试试： 1. 参考官方文档，手工编译Spider Monkey # cur &#8230; <p class="link-more"><a href="/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/" class="more-link">继续阅读<span class="screen-reader-text">“RHEL5下编译MongoDB”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">630</post-id>	</item>
+		<item>
+		<title>Using Postgresql</title>
+		<link>/linux/sysadm/using-postgresql/</link>
+		<pubDate>Tue, 24 Aug 2010 05:56:45 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[centos]]></category>
+		<category><![CDATA[postgis]]></category>
+		<category><![CDATA[postgresql]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=595</guid>
+		<description><![CDATA[1. create tablespace $ mkdir -p /home/postgresql/data $ &#8230; <p class="link-more"><a href="/linux/sysadm/using-postgresql/" class="more-link">继续阅读<span class="screen-reader-text">“Using Postgresql”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">595</post-id>	</item>
+		<item>
+		<title>给虚拟机的虚拟硬盘增加容量(vmdk file)</title>
+		<link>/linux/using-ubuntu-desktop/%e7%bb%99%e8%99%9a%e6%8b%9f%e6%9c%ba%e7%9a%84%e8%99%9a%e6%8b%9f%e7%a1%ac%e7%9b%98%e5%a2%9e%e5%8a%a0%e5%ae%b9%e9%87%8fvmdk-file/</link>
+		<pubDate>Thu, 04 Mar 2010 09:56:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[gparted]]></category>
+		<category><![CDATA[qemu]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[virtualbox]]></category>
+		<category><![CDATA[vmdk]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[vmware-player]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=576</guid>
+		<description><![CDATA[我使用虚拟机主要是为了使用Windows XP系统来访问网银、进行在线支付。当初安装时是用VMWare Pla &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e7%bb%99%e8%99%9a%e6%8b%9f%e6%9c%ba%e7%9a%84%e8%99%9a%e6%8b%9f%e7%a1%ac%e7%9b%98%e5%a2%9e%e5%8a%a0%e5%ae%b9%e9%87%8fvmdk-file/" class="more-link">继续阅读<span class="screen-reader-text">“给虚拟机的虚拟硬盘增加容量(vmdk file)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">576</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.105 seconds -->

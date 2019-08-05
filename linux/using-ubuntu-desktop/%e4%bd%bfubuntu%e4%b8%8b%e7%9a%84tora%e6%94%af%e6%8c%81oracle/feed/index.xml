@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《让Ubuntu下的Tora支持Oracle》的评论</title>
+	<atom:link href="/linux/using-ubuntu-desktop/%E4%BD%BFubuntu%E4%B8%8B%E7%9A%84tora%E6%94%AF%E6%8C%81oracle/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/#comment-35810</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 09 May 2008 04:31:46 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/18/251#comment-35810</guid>
+		<description><![CDATA[没有啊，很久没弄这个了，呵呵]]></description>
+		<content:encoded><![CDATA[<p>没有啊，很久没弄这个了，呵呵</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：binhu</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/#comment-35767</link>
+		<dc:creator><![CDATA[binhu]]></dc:creator>
+		<pubDate>Thu, 08 May 2008 03:52:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/18/251#comment-35767</guid>
+		<description><![CDATA[請問一下大大，你是否有最新版的tora的deb檔呢，因為我自已打包失敗，如有的話，可否方便寄給我一下
+謝謝大大了]]></description>
+		<content:encoded><![CDATA[<p>請問一下大大，你是否有最新版的tora的deb檔呢，因為我自已打包失敗，如有的話，可否方便寄給我一下<br />
+謝謝大大了</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/#comment-83</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2006 01:50:10 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/18/251#comment-83</guid>
+		<description><![CDATA[ubuntu中文论坛上的讨论：
+http://forum.ubuntu.org.cn/viewtopic.php?t=22329]]></description>
+		<content:encoded><![CDATA[<p>ubuntu中文论坛上的讨论：<br />
+<a href="http://forum.ubuntu.org.cn/viewtopic.php?t=22329" rel="nofollow">http://forum.ubuntu.org.cn/viewtopic.php?t=22329</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/#comment-75</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2006 05:36:32 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/18/251#comment-75</guid>
+		<description><![CDATA[可能跟tora用QT写的有关吧。
+
+我不需要输入中文。
+
+你换用Oracle的免费工具 Oracle SQL Developer吧，很好用，可以输入中文。它是用Java写的，需要JRE 5.0的支持。]]></description>
+		<content:encoded><![CDATA[<p>可能跟tora用QT写的有关吧。</p>
+<p>我不需要输入中文。</p>
+<p>你换用Oracle的免费工具 Oracle SQL Developer吧，很好用，可以输入中文。它是用Java写的，需要JRE 5.0的支持。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：loseboy</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/#comment-74</link>
+		<dc:creator><![CDATA[loseboy]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2006 05:26:16 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/18/251#comment-74</guid>
+		<description><![CDATA[你好，我在fc5下编译安装了tora1.3.21
+可是确不能在sql编辑框里输入中文，请问您的有这个情况吗？]]></description>
+		<content:encoded><![CDATA[<p>你好，我在fc5下编译安装了tora1.3.21<br />
+可是确不能在sql编辑框里输入中文，请问您的有这个情况吗？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/%e4%bd%bfubuntu%e4%b8%8b%e7%9a%84tora%e6%94%af%e6%8c%81oracle/#comment-67</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2006 13:39:06 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/18/251#comment-67</guid>
+		<description><![CDATA[我制作的deb包
+http://guoyong.org/?dl=tora_1.3.18-4ubuntu1_i386.deb]]></description>
+		<content:encoded><![CDATA[<p>我制作的deb包<br />
+<a href="http://guoyong.org/?dl=tora_1.3.18-4ubuntu1_i386.deb" rel="nofollow">http://guoyong.org/?dl=tora_1.3.18-4ubuntu1_i386.deb</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.090 seconds -->

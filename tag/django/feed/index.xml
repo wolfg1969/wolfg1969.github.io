@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Django &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/django/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Django 日志过滤器实战</title>
+		<link>/programing/django-logging-filter-in-action/</link>
+		<pubDate>Sat, 23 Apr 2016 12:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Logging]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1417</guid>
+		<description><![CDATA[Django 的日志配置采用标准的 Python 日志配置方式，默认采用 dictConfig 的格式。Pyt &#8230; <p class="link-more"><a href="/programing/django-logging-filter-in-action/" class="more-link">继续阅读<span class="screen-reader-text">“Django 日志过滤器实战”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1417</post-id>	</item>
+		<item>
+		<title>定制 Django REST Framework 的异常处理</title>
+		<link>/programing/django-rest-framework-custom-exception-handling/</link>
+		<pubDate>Wed, 20 Apr 2016 12:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Django REST Framework]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1415</guid>
+		<description><![CDATA[今天借助修复其它 Bug 的机会，对项目中 REST API 的异常处理机制进行了优化。 项目的 REST A &#8230; <p class="link-more"><a href="/programing/django-rest-framework-custom-exception-handling/" class="more-link">继续阅读<span class="screen-reader-text">“定制 Django REST Framework 的异常处理”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1415</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

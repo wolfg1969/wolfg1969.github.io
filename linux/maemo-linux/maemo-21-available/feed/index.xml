@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Maemo 2.1 Available》的评论</title>
+	<atom:link href="/linux/maemo-linux/maemo-21-available/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/maemo-21-available/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Symphone</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-18389</link>
+		<dc:creator><![CDATA[Symphone]]></dc:creator>
+		<pubDate>Tue, 11 Sep 2007 02:52:50 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-18389</guid>
+		<description><![CDATA[我晕!!难道一定要装萤火虫??]]></description>
+		<content:encoded><![CDATA[<p>我晕!!难道一定要装萤火虫??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-18386</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 11 Sep 2007 01:32:14 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-18386</guid>
+		<description><![CDATA[呵呵，我也试过，不行]]></description>
+		<content:encoded><![CDATA[<p>呵呵，我也试过，不行</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Symphone</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-18372</link>
+		<dc:creator><![CDATA[Symphone]]></dc:creator>
+		<pubDate>Mon, 10 Sep 2007 22:21:52 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-18372</guid>
+		<description><![CDATA[我使用msyh.ttf的, 安装目录在/usr/share/fonts/msyh.ttf,但是ln -sf /usr/share/fonts/msyh.ttf /usr/share/canola/themes/default/data/font_item.ttf 还是乱码.请指教?]]></description>
+		<content:encoded><![CDATA[<p>我使用msyh.ttf的, 安装目录在/usr/share/fonts/msyh.ttf,但是ln -sf /usr/share/fonts/msyh.ttf /usr/share/canola/themes/default/data/font_item.ttf 还是乱码.请指教?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-17143</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2007 13:42:24 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-17143</guid>
+		<description><![CDATA[在xterm里用root用户
+
+# cd /usr/share/canola/themes/default/data
+# mv font_item.ttf font_item.ttf.orig
+# ln -sf /usr/share/fonts/truetype/fireflysung.ttf /usr/share/canola/themes/default/data/font_item.ttf
+]]></description>
+		<content:encoded><![CDATA[<p>在xterm里用root用户</p>
+<p># cd /usr/share/canola/themes/default/data<br />
+# mv font_item.ttf font_item.ttf.orig<br />
+# ln -sf /usr/share/fonts/truetype/fireflysung.ttf /usr/share/canola/themes/default/data/font_item.ttf</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：bishop</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-17138</link>
+		<dc:creator><![CDATA[bishop]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2007 10:11:09 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-17138</guid>
+		<description><![CDATA[同问具体操作方法]]></description>
+		<content:encoded><![CDATA[<p>同问具体操作方法</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Dengou</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-16279</link>
+		<dc:creator><![CDATA[Dengou]]></dc:creator>
+		<pubDate>Mon, 30 Jul 2007 01:59:42 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-16279</guid>
+		<description><![CDATA[&quot;可以把/usr/share/canola/themes/default/data/font_item.ttf 替换成指向fireflysung.ttf的链接，然后歌曲名就能显示中文了&quot;
+
+请给具体的操作方法.]]></description>
+		<content:encoded><![CDATA[<p>"可以把/usr/share/canola/themes/default/data/font_item.ttf 替换成指向fireflysung.ttf的链接，然后歌曲名就能显示中文了"</p>
+<p>请给具体的操作方法.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：fong</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-14839</link>
+		<dc:creator><![CDATA[fong]]></dc:creator>
+		<pubDate>Wed, 11 Jul 2007 20:55:43 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-14839</guid>
+		<description><![CDATA[i got trouble when i update 3.2 by nokia winzard software. the screen is white. nothing can see.. what i do?]]></description>
+		<content:encoded><![CDATA[<p>i got trouble when i update 3.2 by nokia winzard software. the screen is white. nothing can see.. what i do?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-369</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2006 16:40:30 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-369</guid>
+		<description><![CDATA[Thanks!]]></description>
+		<content:encoded><![CDATA[<p>Thanks!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：w_ou</title>
+		<link>/linux/maemo-linux/maemo-21-available/#comment-353</link>
+		<dc:creator><![CDATA[w_ou]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2006 08:25:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/11/14/289#comment-353</guid>
+		<description><![CDATA[770上的Canola播放器已经发布了，快去下吧，http://www.marceloeduardo.com/blog/
+装好后要重启770才能运行，从界面风格上看和Microsoft的Media Center非常像，很酷地说
+可以把/usr/share/canola/themes/default/data/font_item.ttf 替换成指向fireflysung.ttf的链接，然后歌曲名就能显示中文了
+enjoy!]]></description>
+		<content:encoded><![CDATA[<p>770上的Canola播放器已经发布了，快去下吧，http://www.marceloeduardo.com/blog/<br />
+装好后要重启770才能运行，从界面风格上看和Microsoft的Media Center非常像，很酷地说<br />
+可以把/usr/share/canola/themes/default/data/font_item.ttf 替换成指向fireflysung.ttf的链接，然后歌曲名就能显示中文了<br />
+enjoy!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.091 seconds -->

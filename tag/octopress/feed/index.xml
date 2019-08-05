@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>octopress &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/octopress/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>&#37325;&#24314;Octopress&#29615;&#22659;</title>
+		<link>/dev/octopress/</link>
+		<pubDate>Sun, 11 Nov 2012 20:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[octopress]]></category>
+
+		<guid isPermaLink="false">http://blog.guoyong.me/blog/2012/11/11/re-setup-octopress</guid>
+		<description><![CDATA[
+<p>&#22312;&#21478;&#19968;&#21488;&#26426;&#22120;&#19978;&#37325;&#26032;&#35774;&#32622;Octopress&#29615;&#22659;&#30340;&#27493;&#39588;&#22914;&#19979;&#65306;</p>
+
+<h2>&#23433;&#35013;octopress</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+<span>4</span>
+<span>5</span>
+</pre></td>
+<td><pre><code><span># &#23433;&#35013;rvm, ruby, bundler &#30053;
+</span><span># &#20811;&#38534;octopress
+</span><span>$ git clone git://github.com/imathis/octopress.git octopress
+</span><span># &#23433;&#35013;&#20027;&#39064;
+</span><span>$ rake install</span></code></pre></td>
+</tr></table></div></figure><h2>&#35774;&#32622;github&#24080;&#21495;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+</pre></td>
+<td><pre><code><span>$ rake setup_github_pages</span></code></pre></td>
+</tr></table></div></figure><h2>&#21516;&#27493;Github&#19978;&#24050;&#21457;&#24067;&#30340;&#21338;&#23458;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+<span>4</span>
+<span>5</span>
+<span>6</span>
+</pre></td>
+<td><pre><code><span># &#35206;&#30422;&#26412;&#22320;&#20462;&#25913;
+</span><span>$ git checkout .
+</span><span>$ rm -rf saas source
+</span><span>$ git fetch origin
+</span><span>$ git merge origin/source
+</span><span># &#21487;&#33021;&#38656;&#35201;&#25163;&#21160;merge</span></code></pre></td>
+</tr></table></div></figure><h2>&#24320;&#22987;&#20889;&#20316;&#65281;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+</pre></td>
+<td><pre><code><span>$ rake new_post[new_post]
+</span><span>$ rake generate
+</span><span>$ rake deploy</span></code></pre></td>
+</tr></table></div></figure>
+]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1356</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.081 seconds -->

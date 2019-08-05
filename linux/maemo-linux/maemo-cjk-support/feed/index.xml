@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Maemo CJK Support》的评论</title>
+	<atom:link href="/linux/maemo-linux/maemo-cjk-support/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/maemo-cjk-support/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：hongwei</title>
+		<link>/linux/maemo-linux/maemo-cjk-support/#comment-14973</link>
+		<dc:creator><![CDATA[hongwei]]></dc:creator>
+		<pubDate>Sat, 14 Jul 2007 19:34:43 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/15/302#comment-14973</guid>
+		<description><![CDATA[请问装了cjk后如何切换到原来的键盘啊？另外cjk里面有很多输入法，如何卸载掉，占着空间很浪费啊。谢谢]]></description>
+		<content:encoded><![CDATA[<p>请问装了cjk后如何切换到原来的键盘啊？另外cjk里面有很多输入法，如何卸载掉，占着空间很浪费啊。谢谢</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hiei</title>
+		<link>/linux/maemo-linux/maemo-cjk-support/#comment-5460</link>
+		<dc:creator><![CDATA[hiei]]></dc:creator>
+		<pubDate>Tue, 20 Mar 2007 06:13:01 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/15/302#comment-5460</guid>
+		<description><![CDATA[祝你成功。
+n800上的媒体播放器还是不行，很多格式支持不了,mplayer基本上不能用，得等os2007v3出来。目前想要一个上telnet bbs 用的term。]]></description>
+		<content:encoded><![CDATA[<p>祝你成功。<br />
+n800上的媒体播放器还是不行，很多格式支持不了,mplayer基本上不能用，得等os2007v3出来。目前想要一个上telnet bbs 用的term。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/maemo-cjk-support/#comment-5367</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2007 09:10:25 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/15/302#comment-5367</guid>
+		<description><![CDATA[呵呵，我正准备在770上试试。
+有中文输入总比没有好。]]></description>
+		<content:encoded><![CDATA[<p>呵呵，我正准备在770上试试。<br />
+有中文输入总比没有好。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hiei</title>
+		<link>/linux/maemo-linux/maemo-cjk-support/#comment-5362</link>
+		<dc:creator><![CDATA[hiei]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2007 08:50:08 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/15/302#comment-5362</guid>
+		<description><![CDATA[我在n800上安装了maemocjk，但是发现输入法用起来很不爽，反应迟钝，另外它的软键盘（matchbox-keyboard）不如自带 好用。所以我放弃了在n800上使用中文输入法，只是用了它的中文字体包。]]></description>
+		<content:encoded><![CDATA[<p>我在n800上安装了maemocjk，但是发现输入法用起来很不爽，反应迟钝，另外它的软键盘（matchbox-keyboard）不如自带 好用。所以我放弃了在n800上使用中文输入法，只是用了它的中文字体包。</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.117 seconds -->

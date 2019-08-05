@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《StarDict for N800的测试安装包》的评论</title>
+	<atom:link href="/linux/maemo-linux/stardict-for-n800%E7%9A%84%E6%B5%8B%E8%AF%95%E5%AE%89%E8%A3%85%E5%8C%85/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：无力</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-45638</link>
+		<dc:creator><![CDATA[无力]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2009 03:33:28 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-45638</guid>
+		<description><![CDATA[我是新手，下载字典后解压，在N800中没找到media目录，
+自建目录/media/mmc1/stardict/dic/后将字典复制进去，但还是识别不到字典，求解？！]]></description>
+		<content:encoded><![CDATA[<p>我是新手，下载字典后解压，在N800中没找到media目录，<br />
+自建目录/media/mmc1/stardict/dic/后将字典复制进去，但还是识别不到字典，求解？！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Alex</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17875</link>
+		<dc:creator><![CDATA[Alex]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2007 16:33:27 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17875</guid>
+		<description><![CDATA[Dear wolfg,
+Thank You Very Much, I can make it.]]></description>
+		<content:encoded><![CDATA[<p>Dear wolfg,<br />
+Thank You Very Much, I can make it.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17849</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2007 05:23:20 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17849</guid>
+		<description><![CDATA[Alex, you can use 7-Zip (http://www.7-zip.org/download.html) to uncompress &quot;stardict-DrEye4in1-2.4.2.tar.bz2&quot; on Windows, then put the directory &quot;stardict-DrEye4in1-2.4.2 &quot; under “/media/mmc1/stardict/dic”.]]></description>
+		<content:encoded><![CDATA[<p>Alex, you can use 7-Zip (<a href="http://www.7-zip.org/download.html" rel="nofollow">http://www.7-zip.org/download.html</a>) to uncompress "stardict-DrEye4in1-2.4.2.tar.bz2" on Windows, then put the directory "stardict-DrEye4in1-2.4.2 " under “/media/mmc1/stardict/dic”.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Alex</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17844</link>
+		<dc:creator><![CDATA[Alex]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2007 04:19:17 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17844</guid>
+		<description><![CDATA[Dear Wolfg,
+I have a problem to install the tar file into my n800 as follows: -
+(i) I had already installed the stardict;
+(ii) I downloaded the &quot;stardict-DrEye4in1-2.4.2.tar&quot; file (without unzip) and put it under the directory &quot;/media/mmc1/stardict/dic&quot;;
+After call the stardict, it shows &quot;no dictionary&quot;.
+I didn&#039;t know what&#039;s going on because I couldn&#039;t unzip the tar file by using winzip, etc and therefore I put the original tar file into the directory.
+Can you help me to solve the problem?
+Thanks in advance.]]></description>
+		<content:encoded><![CDATA[<p>Dear Wolfg,<br />
+I have a problem to install the tar file into my n800 as follows: -<br />
+(i) I had already installed the stardict;<br />
+(ii) I downloaded the "stardict-DrEye4in1-2.4.2.tar" file (without unzip) and put it under the directory "/media/mmc1/stardict/dic";<br />
+After call the stardict, it shows "no dictionary".<br />
+I didn't know what's going on because I couldn't unzip the tar file by using winzip, etc and therefore I put the original tar file into the directory.<br />
+Can you help me to solve the problem?<br />
+Thanks in advance.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17398</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 24 Aug 2007 15:36:47 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17398</guid>
+		<description><![CDATA[Thank you! Let&#039;s discuss in the developer forum.]]></description>
+		<content:encoded><![CDATA[<p>Thank you! Let's discuss in the developer forum.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17383</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Fri, 24 Aug 2007 06:23:42 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17383</guid>
+		<description><![CDATA[Hi, wolfg
+  too busy these two days. I am writing a post in stardict development forum now.]]></description>
+		<content:encoded><![CDATA[<p>Hi, wolfg<br />
+  too busy these two days. I am writing a post in stardict development forum now.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17285</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 21 Aug 2007 18:11:44 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17285</guid>
+		<description><![CDATA[Hi lizhao,
+
+The missing library on 770 are solved. I faced the same core dump problem as you. Have you got a solution for this memory leak problem? Can you explain it to me?]]></description>
+		<content:encoded><![CDATA[<p>Hi lizhao,</p>
+<p>The missing library on 770 are solved. I faced the same core dump problem as you. Have you got a solution for this memory leak problem? Can you explain it to me?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Peter Fang</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17242</link>
+		<dc:creator><![CDATA[Peter Fang]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 07:59:13 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17242</guid>
+		<description><![CDATA[路径改完了，现在正常了！ :D]]></description>
+		<content:encoded><![CDATA[<p>路径改完了，现在正常了！ :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Peter Fang</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17241</link>
+		<dc:creator><![CDATA[Peter Fang]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 06:58:05 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17241</guid>
+		<description><![CDATA[哦，原来不是我的错。 :P
+我马上试试去，呵呵。多谢wolfg老兄！！]]></description>
+		<content:encoded><![CDATA[<p>哦，原来不是我的错。 :P<br />
+我马上试试去，呵呵。多谢wolfg老兄！！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17240</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 06:49:23 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17240</guid>
+		<description><![CDATA[非常抱歉！我把目录写错了！
+
+假设你的词典是stardict-DrEye4in1-2.4.2
+词典文件的位置是这样的
+/media/mmc1/stardict/dic/stardict-DrEye4in1-2.4.2/DrEye4in1.dict.dz  /media/mmc1/stardict/dic/stardict-DrEye4in1-2.4.2/DrEye4in1.idx  
+/media/mmc1/stardict/dic/stardict-DrEye4in1-2.4.2/DrEye4in1.ifo]]></description>
+		<content:encoded><![CDATA[<p>非常抱歉！我把目录写错了！</p>
+<p>假设你的词典是stardict-DrEye4in1-2.4.2<br />
+词典文件的位置是这样的<br />
+/media/mmc1/stardict/dic/stardict-DrEye4in1-2.4.2/DrEye4in1.dict.dz  /media/mmc1/stardict/dic/stardict-DrEye4in1-2.4.2/DrEye4in1.idx<br />
+/media/mmc1/stardict/dic/stardict-DrEye4in1-2.4.2/DrEye4in1.ifo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Peter Fang</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17239</link>
+		<dc:creator><![CDATA[Peter Fang]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 06:29:48 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17239</guid>
+		<description><![CDATA[不好意思，我是StarDict新手，刚刚装了N800版本，把几个词典文件解压完毕放在/media/mmc1/dic目录中，StarDict启动后怎么找不到呢？Please help! Thanks!]]></description>
+		<content:encoded><![CDATA[<p>不好意思，我是StarDict新手，刚刚装了N800版本，把几个词典文件解压完毕放在/media/mmc1/dic目录中，StarDict启动后怎么找不到呢？Please help! Thanks!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17238</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 06:09:51 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17238</guid>
+		<description><![CDATA[Hi lizhao,
+
+Can you join the stardict project @garage? We can talk about this issue in the developer forum.
+
+The problem I faced is on 770 the library libSM.so can&#039;t be found.]]></description>
+		<content:encoded><![CDATA[<p>Hi lizhao,</p>
+<p>Can you join the stardict project @garage? We can talk about this issue in the developer forum.</p>
+<p>The problem I faced is on 770 the library libSM.so can't be found.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17237</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 05:44:15 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17237</guid>
+		<description><![CDATA[hi, wolfg
+ 
+  on n800, i guess the memory problem is also repeated if &#039;ulimit -v 95000; ulimit -m 65000&#039;]]></description>
+		<content:encoded><![CDATA[<p>hi, wolfg</p>
+<p>  on n800, i guess the memory problem is also repeated if 'ulimit -v 95000; ulimit -m 65000'</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17236</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 04:50:58 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17236</guid>
+		<description><![CDATA[The above problem cause returning wrong result on 770.
+
+After testing again, found memory alloc problem is still there.]]></description>
+		<content:encoded><![CDATA[<p>The above problem cause returning wrong result on 770.</p>
+<p>After testing again, found memory alloc problem is still there.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comment-17234</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Mon, 20 Aug 2007 04:36:48 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338#comment-17234</guid>
+		<description><![CDATA[sorry, why I can not input the code properly?
+hehe
+
+really sorry]]></description>
+		<content:encoded><![CDATA[<p>sorry, why I can not input the code properly?<br />
+hehe</p>
+<p>really sorry</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.122 seconds -->

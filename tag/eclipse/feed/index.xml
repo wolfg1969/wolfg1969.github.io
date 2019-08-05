@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>eclipse &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/eclipse/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>maven-eclipse-plugin v2.6与aspectj</title>
+		<link>/dev/maven-eclipse-plugin-v26-with-aspectj/</link>
+		<pubDate>Fri, 24 Apr 2009 06:17:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[maven-eclipse-plugin]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=365</guid>
+		<description><![CDATA[最近一段时间以来，项目中使用maven-eclipse-plugin的eclipse:eclipse目标时比较 &#8230; <p class="link-more"><a href="/dev/maven-eclipse-plugin-v26-with-aspectj/" class="more-link">继续阅读<span class="screen-reader-text">“maven-eclipse-plugin v2.6与aspectj”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">365</post-id>	</item>
+		<item>
+		<title>EasyEclipse的console中文乱码问题的解决</title>
+		<link>/dev/easyeclipse%e7%9a%84console%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/</link>
+		<pubDate>Mon, 14 May 2007 16:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/15/321</guid>
+		<description><![CDATA[EasyEclipse的console中输出中文是乱码，原因是它自带的jre不是多语言版本，从多语言版本的JD &#8230; <p class="link-more"><a href="/dev/easyeclipse%e7%9a%84console%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/" class="more-link">继续阅读<span class="screen-reader-text">“EasyEclipse的console中文乱码问题的解决”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">321</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.073 seconds -->

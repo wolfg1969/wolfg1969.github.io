@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《搭建NEPL test network —— 内核编译》的评论</title>
+	<atom:link href="/linux/%E6%90%AD%E5%BB%BAnepl-test-network-%E5%86%85%E6%A0%B8%E7%BC%96%E8%AF%91/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/%e6%90%ad%e5%bb%banepl-test-network-%e5%86%85%e6%a0%b8%e7%bc%96%e8%af%91/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/%e6%90%ad%e5%bb%banepl-test-network-%e5%86%85%e6%a0%b8%e7%bc%96%e8%af%91/#comment-1384</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 20 Jan 2007 12:36:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/14/167#comment-1384</guid>
+		<description><![CDATA[This post was from a temporary task of mine and I didn&#039;t do any more research on NEPL.]]></description>
+		<content:encoded><![CDATA[<p>This post was from a temporary task of mine and I didn't do any more research on NEPL.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Jiang.AnYou</title>
+		<link>/linux/%e6%90%ad%e5%bb%banepl-test-network-%e5%86%85%e6%a0%b8%e7%bc%96%e8%af%91/#comment-1383</link>
+		<dc:creator><![CDATA[Jiang.AnYou]]></dc:creator>
+		<pubDate>Sat, 20 Jan 2007 11:58:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/14/167#comment-1383</guid>
+		<description><![CDATA[Hi,guy,
+   Glad to see that there are other guys like me are trying to compiling NEPL. 
+   I am a postgraduate candidate student, and trying to set up my own 
+test network of NEPL. 
+   Glad to see you here.
+
+Jiang.AnYou]]></description>
+		<content:encoded><![CDATA[<p>Hi,guy,<br />
+   Glad to see that there are other guys like me are trying to compiling NEPL.<br />
+   I am a postgraduate candidate student, and trying to set up my own<br />
+test network of NEPL.<br />
+   Glad to see you here.</p>
+<p>Jiang.AnYou</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

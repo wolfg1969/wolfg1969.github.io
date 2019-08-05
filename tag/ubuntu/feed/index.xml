@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ubuntu &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/ubuntu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>给虚拟机的虚拟硬盘增加容量(vmdk file)</title>
+		<link>/linux/using-ubuntu-desktop/%e7%bb%99%e8%99%9a%e6%8b%9f%e6%9c%ba%e7%9a%84%e8%99%9a%e6%8b%9f%e7%a1%ac%e7%9b%98%e5%a2%9e%e5%8a%a0%e5%ae%b9%e9%87%8fvmdk-file/</link>
+		<pubDate>Thu, 04 Mar 2010 09:56:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[gparted]]></category>
+		<category><![CDATA[qemu]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[virtualbox]]></category>
+		<category><![CDATA[vmdk]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[vmware-player]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=576</guid>
+		<description><![CDATA[我使用虚拟机主要是为了使用Windows XP系统来访问网银、进行在线支付。当初安装时是用VMWare Pla &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e7%bb%99%e8%99%9a%e6%8b%9f%e6%9c%ba%e7%9a%84%e8%99%9a%e6%8b%9f%e7%a1%ac%e7%9b%98%e5%a2%9e%e5%8a%a0%e5%ae%b9%e9%87%8fvmdk-file/" class="more-link">继续阅读<span class="screen-reader-text">“给虚拟机的虚拟硬盘增加容量(vmdk file)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">576</post-id>	</item>
+		<item>
+		<title>SSH:不用密码登录</title>
+		<link>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/</link>
+		<comments>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/#comments</comments>
+		<pubDate>Sat, 30 Jan 2010 08:31:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=569</guid>
+		<description><![CDATA[用SSH登录远程主机，每次都输入密码挺麻烦的，其实可以用密钥文件来登录： 1. 用ssh-keygen命令生成 &#8230; <p class="link-more"><a href="/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/" class="more-link">继续阅读<span class="screen-reader-text">“SSH:不用密码登录”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">569</post-id>	</item>
+		<item>
+		<title>nrpe使用一例</title>
+		<link>/linux/sysadm/nrpe%e4%bd%bf%e7%94%a8%e4%b8%80%e4%be%8b/</link>
+		<pubDate>Thu, 28 Jan 2010 07:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[监控]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[nagios]]></category>
+		<category><![CDATA[nrpe]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=548</guid>
+		<description><![CDATA[NRPE的作用是在远程主机上运行Nagios插件，以便监控远程主机。 Ubuntu Server下安装NRPE &#8230; <p class="link-more"><a href="/linux/sysadm/nrpe%e4%bd%bf%e7%94%a8%e4%b8%80%e4%be%8b/" class="more-link">继续阅读<span class="screen-reader-text">“nrpe使用一例”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">548</post-id>	</item>
+		<item>
+		<title>登录窗口有多个Xfce会话供选择，怎么回事？</title>
+		<link>/linux/using-ubuntu-desktop/%e7%99%bb%e5%bd%95%e7%aa%97%e5%8f%a3%e6%9c%89%e5%a4%9a%e4%b8%aaxfce%e4%bc%9a%e8%af%9d%e4%be%9b%e9%80%89%e6%8b%a9%ef%bc%8c%e6%80%8e%e4%b9%88%e5%9b%9e%e4%ba%8b%ef%bc%9f/</link>
+		<pubDate>Tue, 26 Jan 2010 12:44:40 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[gdm]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[xfce]]></category>
+		<category><![CDATA[xsessions]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=558</guid>
+		<description><![CDATA[登录窗口里选择会话的地方，一直有两个Xfce Session，登录后似乎略有不同。其实是在/usr/share &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e7%99%bb%e5%bd%95%e7%aa%97%e5%8f%a3%e6%9c%89%e5%a4%9a%e4%b8%aaxfce%e4%bc%9a%e8%af%9d%e4%be%9b%e9%80%89%e6%8b%a9%ef%bc%8c%e6%80%8e%e4%b9%88%e5%9b%9e%e4%ba%8b%ef%bc%9f/" class="more-link">继续阅读<span class="screen-reader-text">“登录窗口有多个Xfce会话供选择，怎么回事？”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">558</post-id>	</item>
+		<item>
+		<title>找回消失的Notification Area(Xubuntu)</title>
+		<link>/linux/using-ubuntu-desktop/%e6%89%be%e5%9b%9e%e7%9c%8b%e4%b8%8d%e8%a7%81%e7%9a%84notification-areaxubuntu/</link>
+		<pubDate>Tue, 26 Jan 2010 11:48:43 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[notification area]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[xfce]]></category>
+		<category><![CDATA[xfce-panel]]></category>
+		<category><![CDATA[xubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=556</guid>
+		<description><![CDATA[美化桌面的时候会遇到通知区域(Notification Area)Applet不见了的情况，试图再加一个到面板 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e6%89%be%e5%9b%9e%e7%9c%8b%e4%b8%8d%e8%a7%81%e7%9a%84notification-areaxubuntu/" class="more-link">继续阅读<span class="screen-reader-text">“找回消失的Notification Area(Xubuntu)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">556</post-id>	</item>
+		<item>
+		<title>Services not starting on boot</title>
+		<link>/linux/using-ubuntu-desktop/services-not-starting-on-boot/</link>
+		<pubDate>Wed, 20 Jan 2010 16:02:07 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[serverfault]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[upstart]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=524</guid>
+		<description><![CDATA[前一段时间笔记本升级到Ubuntu 9.10后遇到了系统服务没有启动的问题，后来得知是upstart的一个bu &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/services-not-starting-on-boot/" class="more-link">继续阅读<span class="screen-reader-text">“Services not starting on boot”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">524</post-id>	</item>
+		<item>
+		<title>How to install Nginx from source with &#8216;Debian&#8217; layout</title>
+		<link>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/</link>
+		<comments>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/#comments</comments>
+		<pubDate>Fri, 15 Jan 2010 08:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[debian]]></category>
+		<category><![CDATA[nginx]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=371</guid>
+		<description><![CDATA[1. 创建相关目录 $ sudo mkdir /etc/nginx $ sudo mkdir /etc/ngi &#8230; <p class="link-more"><a href="/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/" class="more-link">继续阅读<span class="screen-reader-text">“How to install Nginx from source with &#8216;Debian&#8217; layout”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/how-to-install-nginx-from-source-with-debian-layout/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+		<item>
+		<title>升级到Ubuntu 8.10</title>
+		<link>/linux/using-ubuntu-desktop/upgrade-to-ubuntu-810/</link>
+		<pubDate>Wed, 05 Nov 2008 22:40:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[ipw2200]]></category>
+		<category><![CDATA[nm-applet]]></category>
+		<category><![CDATA[T43]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=362</guid>
+		<description><![CDATA[花了一天多的时间将笔记本（IBM Thinkpad T43）升级到了Ubuntu新发布的8.10版本。 升级过 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/upgrade-to-ubuntu-810/" class="more-link">继续阅读<span class="screen-reader-text">“升级到Ubuntu 8.10”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
+		<item>
+		<title>audacious不出声了？</title>
+		<link>/linux/using-ubuntu-desktop/not-the-audacious-chusheng/</link>
+		<pubDate>Sat, 19 Jul 2008 02:40:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[audacious]]></category>
+		<category><![CDATA[MADPlug-Message]]></category>
+		<category><![CDATA[PULSEAUDIO]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=361</guid>
+		<description><![CDATA[audacious不能播放mp3有一段时间了，今天找到这个问题的原因。 如果用终端运行audacious，就会 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/not-the-audacious-chusheng/" class="more-link">继续阅读<span class="screen-reader-text">“audacious不出声了？”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">361</post-id>	</item>
+		<item>
+		<title>Xfce 字体问题</title>
+		<link>/linux/using-ubuntu-desktop/xfce-font-problems/</link>
+		<comments>/linux/using-ubuntu-desktop/xfce-font-problems/#comments</comments>
+		<pubDate>Sun, 11 May 2008 06:51:06 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[font]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[xfce]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=357</guid>
+		<description><![CDATA[昨天为了使用笔记本（T43, ATI Mobility Radeon X300显卡）的VGA OUT功能，改用 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/xfce-font-problems/" class="more-link">继续阅读<span class="screen-reader-text">“Xfce 字体问题”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/using-ubuntu-desktop/xfce-font-problems/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">357</post-id>	</item>
+		<item>
+		<title>升级到Ubuntu 8.04</title>
+		<link>/linux/using-ubuntu-desktop/e5-8d-87-e7-ba-a7-e5-88-b0ubuntu-804/</link>
+		<pubDate>Sun, 04 May 2008 16:45:07 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=353</guid>
+		<description><![CDATA[五一假期用了一晚时间升级了笔记本电脑上装的Ubuntu，注意到一些变化： 1. 启动过程中如果检查硬盘不会显示 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/e5-8d-87-e7-ba-a7-e5-88-b0ubuntu-804/" class="more-link">继续阅读<span class="screen-reader-text">“升级到Ubuntu 8.04”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">353</post-id>	</item>
+		<item>
+		<title>升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）</title>
+		<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/</link>
+		<comments>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/#comments</comments>
+		<pubDate>Mon, 28 Jan 2008 16:38:37 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[smtp]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2008/01/29/351</guid>
+		<description><![CDATA[日志里这样的错误信息： warning: SASL authentication problem: unabl &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/" class="more-link">继续阅读<span class="screen-reader-text">“升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">351</post-id>	</item>
+		<item>
+		<title>郁闷了几天，终于搞定了Ubuntu下Firefox经常crash的问题</title>
+		<link>/linux/using-ubuntu-desktop/%e9%83%81%e9%97%b7%e4%ba%86%e5%87%a0%e5%a4%a9%ef%bc%8c%e7%bb%88%e4%ba%8e%e6%90%9e%e5%ae%9a%e4%ba%86ubuntu%e4%b8%8bfirefox%e7%bb%8f%e5%b8%b8crash%e7%9a%84%e9%97%ae%e9%a2%98-2/</link>
+		<comments>/linux/using-ubuntu-desktop/%e9%83%81%e9%97%b7%e4%ba%86%e5%87%a0%e5%a4%a9%ef%bc%8c%e7%bb%88%e4%ba%8e%e6%90%9e%e5%ae%9a%e4%ba%86ubuntu%e4%b8%8bfirefox%e7%bb%8f%e5%b8%b8crash%e7%9a%84%e9%97%ae%e9%a2%98-2/#comments</comments>
+		<pubDate>Wed, 13 Dec 2006 08:02:39 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/12/13/295</guid>
+		<description><![CDATA[有一阵子没更新了 :( 这几天用Firefox很郁闷，经常发生关闭一个tab，firefox就crash掉了的 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e9%83%81%e9%97%b7%e4%ba%86%e5%87%a0%e5%a4%a9%ef%bc%8c%e7%bb%88%e4%ba%8e%e6%90%9e%e5%ae%9a%e4%ba%86ubuntu%e4%b8%8bfirefox%e7%bb%8f%e5%b8%b8crash%e7%9a%84%e9%97%ae%e9%a2%98-2/" class="more-link">继续阅读<span class="screen-reader-text">“郁闷了几天，终于搞定了Ubuntu下Firefox经常crash的问题”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/using-ubuntu-desktop/%e9%83%81%e9%97%b7%e4%ba%86%e5%87%a0%e5%a4%a9%ef%bc%8c%e7%bb%88%e4%ba%8e%e6%90%9e%e5%ae%9a%e4%ba%86ubuntu%e4%b8%8bfirefox%e7%bb%8f%e5%b8%b8crash%e7%9a%84%e9%97%ae%e9%a2%98-2/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">295</post-id>	</item>
+		<item>
+		<title>让Postfix使用保存在MySQL中的加了密的密码字段(Ubuntu 6.06 TLS)</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/</link>
+		<comments>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comments</comments>
+		<pubDate>Fri, 01 Dec 2006 17:49:45 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293</guid>
+		<description><![CDATA[这两天在Ubuntu下折腾Postfix + Courier-IMAP + Cyrus-SASL + MySQ &#8230; <p class="link-more"><a href="/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/" class="more-link">继续阅读<span class="screen-reader-text">“让Postfix使用保存在MySQL中的加了密的密码字段(Ubuntu 6.06 TLS)”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">293</post-id>	</item>
+		<item>
+		<title>Ubuntu 6.06 下SquirrelMail的中文界面问题</title>
+		<link>/linux/sysadm/ubuntu-606-%e4%b8%8bsquirrelmail%e7%9a%84%e4%b8%ad%e6%96%87%e7%95%8c%e9%9d%a2%e9%97%ae%e9%a2%98/</link>
+		<pubDate>Wed, 29 Nov 2006 15:11:06 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[mail]]></category>
+		<category><![CDATA[squirrelmail]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/11/29/292</guid>
+		<description><![CDATA[SquirrelMail的系统配置为中文，用户设置也是中文，可以正常查看中文邮件，但界面还是英文。 系统已经安 &#8230; <p class="link-more"><a href="/linux/sysadm/ubuntu-606-%e4%b8%8bsquirrelmail%e7%9a%84%e4%b8%ad%e6%96%87%e7%95%8c%e9%9d%a2%e9%97%ae%e9%a2%98/" class="more-link">继续阅读<span class="screen-reader-text">“Ubuntu 6.06 下SquirrelMail的中文界面问题”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">292</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.106 seconds -->

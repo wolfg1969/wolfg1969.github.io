@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tex &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/tex/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>收集了一些LaTex学习资源</title>
+		<link>/linux/%e6%94%b6%e9%9b%86%e4%ba%86%e4%b8%80%e4%ba%9blatex%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%ba%90/</link>
+		<pubDate>Wed, 21 Jun 2006 07:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[latex]]></category>
+		<category><![CDATA[tex]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/21/144</guid>
+		<description><![CDATA[CTex FAQ lshort 中文版 LaTeX2e 插图指南 TeX和LaTeX论坛 - 浙江大学理学院数 &#8230; <p class="link-more"><a href="/linux/%e6%94%b6%e9%9b%86%e4%ba%86%e4%b8%80%e4%ba%9blatex%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%ba%90/" class="more-link">继续阅读<span class="screen-reader-text">“收集了一些LaTex学习资源”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+		<item>
+		<title>LaTex学习 &#8211; 使用中文</title>
+		<link>/linux/latex%e5%ad%a6%e4%b9%a0-%e4%bd%bf%e7%94%a8%e4%b8%ad%e6%96%87/</link>
+		<pubDate>Mon, 19 Jun 2006 13:41:53 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[latex]]></category>
+		<category><![CDATA[tex]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/19/145</guid>
+		<description><![CDATA[我用的是CTEX套件，中文支持都配置好了。 CCT： \documentclass[CJK]{cctart}  &#8230; <p class="link-more"><a href="/linux/latex%e5%ad%a6%e4%b9%a0-%e4%bd%bf%e7%94%a8%e4%b8%ad%e6%96%87/" class="more-link">继续阅读<span class="screen-reader-text">“LaTex学习 &#8211; 使用中文”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">145</post-id>	</item>
+		<item>
+		<title>LaTex学习 &#8211; Absolute beginners</title>
+		<link>/linux/latex%e5%ad%a6%e4%b9%a0-absolute-beginners/</link>
+		<pubDate>Mon, 19 Jun 2006 08:37:44 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[latex]]></category>
+		<category><![CDATA[tex]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/06/19/146</guid>
+		<description><![CDATA[准备开始做学位论文了，打算用LaTex。 先学习LaTex的Hello World % hello.tex - &#8230; <p class="link-more"><a href="/linux/latex%e5%ad%a6%e4%b9%a0-absolute-beginners/" class="more-link">继续阅读<span class="screen-reader-text">“LaTex学习 &#8211; Absolute beginners”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">146</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

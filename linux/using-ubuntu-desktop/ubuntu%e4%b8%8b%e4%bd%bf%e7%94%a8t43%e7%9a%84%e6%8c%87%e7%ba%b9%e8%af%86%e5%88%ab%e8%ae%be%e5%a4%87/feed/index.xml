@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《ubuntu下使用T43的指纹识别设备》的评论</title>
+	<atom:link href="/linux/using-ubuntu-desktop/ubuntu%E4%B8%8B%E4%BD%BF%E7%94%A8t43%E7%9A%84%E6%8C%87%E7%BA%B9%E8%AF%86%E5%88%AB%E8%AE%BE%E5%A4%87/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/#comment-84</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2006 01:51:29 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/21/257#comment-84</guid>
+		<description><![CDATA[ubuntu中文论坛上的讨论：
+http://forum.ubuntu.org.cn/viewtopic.php?t=22502]]></description>
+		<content:encoded><![CDATA[<p>ubuntu中文论坛上的讨论：<br />
+<a href="http://forum.ubuntu.org.cn/viewtopic.php?t=22502" rel="nofollow">http://forum.ubuntu.org.cn/viewtopic.php?t=22502</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/#comment-77</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 02 Sep 2006 03:44:50 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/21/257#comment-77</guid>
+		<description><![CDATA[更正一下，2.2步里修改的不是/etc/udev/permissions.rules
+在ubuntu dapper下应该修改的是
+/etc/udev/rules.d/40-permissions.rules]]></description>
+		<content:encoded><![CDATA[<p>更正一下，2.2步里修改的不是/etc/udev/permissions.rules<br />
+在ubuntu dapper下应该修改的是<br />
+/etc/udev/rules.d/40-permissions.rules</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/#comment-70</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2006 15:19:01 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/21/257#comment-70</guid>
+		<description><![CDATA[找到原因了：
+1. Xlib错误，是因为pam_bioapi.so指定了DISPLAY参数，就是最后面的:0，gdm是不需要这个的（xdm可能需要）,所以要改成
+auth    sufficient  pam_bioapi.so {5550454b-2054-464d-2f45-535320425350} /etc/bioapi/pam/biopasswd.db
+2. 不能enroll新指纹的原因是comm-auth里还要加上一句
+password    sufficient  pam_bioapi.so {5550454b-2054-464d-2f45-535320425350} /etc/bioapi/pam/biopasswd.db]]></description>
+		<content:encoded><![CDATA[<p>找到原因了：<br />
+1. Xlib错误，是因为pam_bioapi.so指定了DISPLAY参数，就是最后面的:0，gdm是不需要这个的（xdm可能需要）,所以要改成<br />
+auth    sufficient  pam_bioapi.so {5550454b-2054-464d-2f45-535320425350} /etc/bioapi/pam/biopasswd.db<br />
+2. 不能enroll新指纹的原因是comm-auth里还要加上一句<br />
+password    sufficient  pam_bioapi.so {5550454b-2054-464d-2f45-535320425350} /etc/bioapi/pam/biopasswd.db</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/#comment-69</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2006 13:59:10 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/21/257#comment-69</guid>
+		<description><![CDATA[还有，现在执行sudo test_enroll-pam_bioapi 也不能注册新的指纹了，只是提示输入口令，不知道哪里有问题了？]]></description>
+		<content:encoded><![CDATA[<p>还有，现在执行sudo test_enroll-pam_bioapi 也不能注册新的指纹了，只是提示输入口令，不知道哪里有问题了？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e4%bd%bf%e7%94%a8t43%e7%9a%84%e6%8c%87%e7%ba%b9%e8%af%86%e5%88%ab%e8%ae%be%e5%a4%87/#comment-68</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2006 13:50:46 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/21/257#comment-68</guid>
+		<description><![CDATA[刚才添加一个新用户，已经添加到了bioapi和usbfs这两个组。想用test_enroll-pam_bioapi创建指纹，报错：
+Xlib: connection to &quot;:0.0&quot; refused by server
+Xlib: No protocol specified]]></description>
+		<content:encoded><![CDATA[<p>刚才添加一个新用户，已经添加到了bioapi和usbfs这两个组。想用test_enroll-pam_bioapi创建指纹，报错：<br />
+Xlib: connection to ":0.0" refused by server<br />
+Xlib: No protocol specified</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.081 seconds -->

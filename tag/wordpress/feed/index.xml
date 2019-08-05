@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>今晚折腾久违了的weblog</title>
+		<link>/uncategorized/%e4%bb%8a%e6%99%9a%e6%8a%98%e8%85%be%e4%b9%85%e8%bf%9d%e4%ba%86%e7%9a%84weblog/</link>
+		<comments>/uncategorized/%e4%bb%8a%e6%99%9a%e6%8a%98%e8%85%be%e4%b9%85%e8%bf%9d%e4%ba%86%e7%9a%84weblog/#comments</comments>
+		<pubDate>Sun, 04 May 2008 16:55:51 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=354</guid>
+		<description><![CDATA[很久没上来了，终于想要记下点东西了。 顺手升级了wordpress到2.5.1，用dreamhost的one  &#8230; <p class="link-more"><a href="/uncategorized/%e4%bb%8a%e6%99%9a%e6%8a%98%e8%85%be%e4%b9%85%e8%bf%9d%e4%ba%86%e7%9a%84weblog/" class="more-link">继续阅读<span class="screen-reader-text">“今晚折腾久违了的weblog”</span></a></p>]]></description>
+		<wfw:commentRss>/uncategorized/%e4%bb%8a%e6%99%9a%e6%8a%98%e8%85%be%e4%b9%85%e8%bf%9d%e4%ba%86%e7%9a%84weblog/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">354</post-id>	</item>
+		<item>
+		<title>我使用的WordPress plugins</title>
+		<link>/oss/wordpress-plugins-im-using/</link>
+		<comments>/oss/wordpress-plugins-im-using/#comments</comments>
+		<pubDate>Thu, 22 Mar 2007 06:49:58 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/03/22/305</guid>
+		<description><![CDATA[这两天把Wordpress升级到2.1.2版本，K2也升级到了0.95 RC1。调整Sidebar，加入一些新 &#8230; <p class="link-more"><a href="/oss/wordpress-plugins-im-using/" class="more-link">继续阅读<span class="screen-reader-text">“我使用的WordPress plugins”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/wordpress-plugins-im-using/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">305</post-id>	</item>
+		<item>
+		<title>修改了定制的Header</title>
+		<link>/uncategorized/%e4%bf%ae%e6%94%b9%e4%ba%86%e5%ae%9a%e5%88%b6%e7%9a%84header/</link>
+		<pubDate>Wed, 08 Nov 2006 16:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/11/09/287</guid>
+		<description><![CDATA[参照 http://k2.stikipad.com/docs/show/Adding+a+custom+hea &#8230; <p class="link-more"><a href="/uncategorized/%e4%bf%ae%e6%94%b9%e4%ba%86%e5%ae%9a%e5%88%b6%e7%9a%84header/" class="more-link">继续阅读<span class="screen-reader-text">“修改了定制的Header”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">287</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.081 seconds -->

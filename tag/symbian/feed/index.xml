@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Symbian &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/symbian/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>autoprefix-s60</title>
+		<link>/uncategorized/autoprefix-s60/</link>
+		<comments>/uncategorized/autoprefix-s60/#comments</comments>
+		<pubDate>Sun, 04 Feb 2007 11:36:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Symbian]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/02/04/301</guid>
+		<description><![CDATA[方便用12593的小程序，可以自动在你要拨打的号码签名加拨12593，不用修改电话本里的记录。 和tictac &#8230; <p class="link-more"><a href="/uncategorized/autoprefix-s60/" class="more-link">继续阅读<span class="screen-reader-text">“autoprefix-s60”</span></a></p>]]></description>
+		<wfw:commentRss>/uncategorized/autoprefix-s60/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">301</post-id>	</item>
+		<item>
+		<title>tictactoe-s60</title>
+		<link>/uncategorized/tictactoe-s60/</link>
+		<pubDate>Wed, 31 Jan 2007 01:45:55 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[Symbian]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/01/31/300</guid>
+		<description><![CDATA[在Google Code上建立的一个项目，是我去年3月份学习Symbian C＋＋写的第一个完整的程序。代码参 &#8230; <p class="link-more"><a href="/uncategorized/tictactoe-s60/" class="more-link">继续阅读<span class="screen-reader-text">“tictactoe-s60”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">300</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.082 seconds -->

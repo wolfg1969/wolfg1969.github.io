@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>feedburner &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/feedburner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>重新显示FeedBurner计数器</title>
+		<link>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/</link>
+		<comments>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/#comments</comments>
+		<pubDate>Fri, 19 Oct 2007 06:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[feedburner]]></category>
+		<category><![CDATA[wget]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/10/19/347</guid>
+		<description><![CDATA[从Punkid那儿学到的方法。只不过我想更省事一些，直接用了wget。 wget http://feeds.f/ &#8230; <p class="link-more"><a href="/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/" class="more-link">继续阅读<span class="screen-reader-text">“重新显示FeedBurner计数器”</span></a></p>]]></description>
+		<wfw:commentRss>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">347</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

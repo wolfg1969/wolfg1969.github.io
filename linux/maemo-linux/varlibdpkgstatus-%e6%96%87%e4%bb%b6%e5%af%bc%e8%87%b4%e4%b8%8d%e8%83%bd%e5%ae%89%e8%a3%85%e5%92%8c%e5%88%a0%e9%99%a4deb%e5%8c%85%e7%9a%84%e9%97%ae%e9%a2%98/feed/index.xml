@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《/var/lib/dpkg/status 文件导致不能安装和删除deb包的问题》的评论</title>
+	<atom:link href="/linux/maemo-linux/varlibdpkgstatus-%E6%96%87%E4%BB%B6%E5%AF%BC%E8%87%B4%E4%B8%8D%E8%83%BD%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%A0%E9%99%A4deb%E5%8C%85%E7%9A%84%E9%97%AE%E9%A2%98/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：zhaohaidong</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17142</link>
+		<dc:creator><![CDATA[zhaohaidong]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2007 13:41:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17142</guid>
+		<description><![CDATA[？？现在还在吗？]]></description>
+		<content:encoded><![CDATA[<p>？？现在还在吗？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17141</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2007 12:35:35 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17141</guid>
+		<description><![CDATA[yes, cri. :)]]></description>
+		<content:encoded><![CDATA[<p>yes, cri. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：zhaohaidong</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17140</link>
+		<dc:creator><![CDATA[zhaohaidong]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2007 11:26:22 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17140</guid>
+		<description><![CDATA[你是曾经在cri的guoyong吧？看照片就知道啦。
+记得我吗？原来日语部的。
+现在哪里发财？方便跟我联系。。。
+很意外能在网上碰到你。哈哈。。。]]></description>
+		<content:encoded><![CDATA[<p>你是曾经在cri的guoyong吧？看照片就知道啦。<br />
+记得我吗？原来日语部的。<br />
+现在哪里发财？方便跟我联系。。。<br />
+很意外能在网上碰到你。哈哈。。。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17078</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 09:44:12 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17078</guid>
+		<description><![CDATA[hi, guoyong
+  could you send your build of stardict to me, so that I can test it on 770?
+  many thanks
+
+  lizhao.ok at gmail]]></description>
+		<content:encoded><![CDATA[<p>hi, guoyong<br />
+  could you send your build of stardict to me, so that I can test it on 770?<br />
+  many thanks</p>
+<p>  lizhao.ok at gmail</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17077</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 08:10:40 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17077</guid>
+		<description><![CDATA[I only tested stardict on N800.]]></description>
+		<content:encoded><![CDATA[<p>I only tested stardict on N800.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17075</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 07:17:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17075</guid>
+		<description><![CDATA[sorry, miss some word above.
+
+It works great on scratchbox, but crash on 770 devices.]]></description>
+		<content:encoded><![CDATA[<p>sorry, miss some word above.</p>
+<p>It works great on scratchbox, but crash on 770 devices.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Li, Zhao</title>
+		<link>/linux/maemo-linux/varlibdpkgstatus-%e6%96%87%e4%bb%b6%e5%af%bc%e8%87%b4%e4%b8%8d%e8%83%bd%e5%ae%89%e8%a3%85%e5%92%8c%e5%88%a0%e9%99%a4deb%e5%8c%85%e7%9a%84%e9%97%ae%e9%a2%98/#comment-17074</link>
+		<dc:creator><![CDATA[Li, Zhao]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2007 07:16:05 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/08/11/337#comment-17074</guid>
+		<description><![CDATA[Hi, guoyong
+
+  stardict is a bit too large for 770, and I compiled sdcv for it.
+  
+  It works great on scratchbox, but always crash or get wrong results.
+
+  Do you have such experiences? do not want to install dbg environment into the devices.]]></description>
+		<content:encoded><![CDATA[<p>Hi, guoyong</p>
+<p>  stardict is a bit too large for 770, and I compiled sdcv for it.</p>
+<p>  It works great on scratchbox, but always crash or get wrong results.</p>
+<p>  Do you have such experiences? do not want to install dbg environment into the devices.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>snmp &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/snmp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>使用Cacti监控JVM</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/</link>
+		<comments>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comments</comments>
+		<pubDate>Wed, 27 Jan 2010 08:55:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[cacti]]></category>
+		<category><![CDATA[监控]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[jvm]]></category>
+		<category><![CDATA[snmp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=512</guid>
+		<description><![CDATA[Cacti官方论坛里有几个监控JVM的模板： http://forums.cacti.net/about197 &#8230; <p class="link-more"><a href="/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/" class="more-link">继续阅读<span class="screen-reader-text">“使用Cacti监控JVM”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">512</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

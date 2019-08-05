@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《SCIM移植》的评论</title>
+	<atom:link href="/linux/maemo-linux/scim%E7%A7%BB%E6%A4%8D/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：badog</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-50322</link>
+		<dc:creator><![CDATA[badog]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2009 09:48:02 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-50322</guid>
+		<description><![CDATA[scim-tables 还在编译中？老大]]></description>
+		<content:encoded><![CDATA[<p>scim-tables 还在编译中？老大</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：badog</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-50321</link>
+		<dc:creator><![CDATA[badog]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2009 09:48:01 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-50321</guid>
+		<description><![CDATA[scim-tables 还在编译中？老大]]></description>
+		<content:encoded><![CDATA[<p>scim-tables 还在编译中？老大</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：heng</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-28552</link>
+		<dc:creator><![CDATA[heng]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2008 14:12:23 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-28552</guid>
+		<description><![CDATA[谢谢你的工作，请问和前一段时间nokia放出的那个框架有什么关系？期待新的meamo输入法诞生！]]></description>
+		<content:encoded><![CDATA[<p>谢谢你的工作，请问和前一段时间nokia放出的那个框架有什么关系？期待新的meamo输入法诞生！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-25614</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 09 Dec 2007 04:37:34 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-25614</guid>
+		<description><![CDATA[很抱歉，最近没有时间进行Maemo的开发。我计划开发一个新的基于Maemo自带输入法框架的中文输入，但估计要1个月左右之后，请大家支持！]]></description>
+		<content:encoded><![CDATA[<p>很抱歉，最近没有时间进行Maemo的开发。我计划开发一个新的基于Maemo自带输入法框架的中文输入，但估计要1个月左右之后，请大家支持！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：AndyLuo</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-25354</link>
+		<dc:creator><![CDATA[AndyLuo]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2007 00:23:51 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-25354</guid>
+		<description><![CDATA[我的N800已经升级到OS2008，并且安装了maemocjk for OS2008。但是输入的时候软键盘无法调出，怎么办？]]></description>
+		<content:encoded><![CDATA[<p>我的N800已经升级到OS2008，并且安装了maemocjk for OS2008。但是输入的时候软键盘无法调出，怎么办？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Cyberboy</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-24455</link>
+		<dc:creator><![CDATA[Cyberboy]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2007 13:18:31 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-24455</guid>
+		<description><![CDATA[我的N800已经升级到OS2008了，发现SCIM无法安装，怎么办？什么时候才能发布新版本？]]></description>
+		<content:encoded><![CDATA[<p>我的N800已经升级到OS2008了，发现SCIM无法安装，怎么办？什么时候才能发布新版本？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-20496</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 10:07:17 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-20496</guid>
+		<description><![CDATA[安装firefly字体就可以看中文了。chinese-support-n800里的其他包不能随便删除。
+
+如果想同时使用系统原来的键盘，要安装maemocjk的beta版。]]></description>
+		<content:encoded><![CDATA[<p>安装firefly字体就可以看中文了。chinese-support-n800里的其他包不能随便删除。</p>
+<p>如果想同时使用系统原来的键盘，要安装maemocjk的beta版。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：cccdna</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-20476</link>
+		<dc:creator><![CDATA[cccdna]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 02:46:25 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-20476</guid>
+		<description><![CDATA[请问我安装了一个支持中文的hinese-support-n800,里面还是有很多组件不需要， 请问我能否删除那些。 我只需要一个中文输入还有能显示中文网页。另外我能否回复他原来的键盘。如果可以我将删掉哪个组件？谢谢]]></description>
+		<content:encoded><![CDATA[<p>请问我安装了一个支持中文的hinese-support-n800,里面还是有很多组件不需要， 请问我能否删除那些。 我只需要一个中文输入还有能显示中文网页。另外我能否回复他原来的键盘。如果可以我将删掉哪个组件？谢谢</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-8330</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 12:14:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-8330</guid>
+		<description><![CDATA[你的Maemo SDK环境是什么版本的。你checkout的是trunk里的最新版本吗？
+
+那个Makefile.am在我这里是好的，不需要修改。]]></description>
+		<content:encoded><![CDATA[<p>你的Maemo SDK环境是什么版本的。你checkout的是trunk里的最新版本吗？</p>
+<p>那个Makefile.am在我这里是好的，不需要修改。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：touch</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comment-8329</link>
+		<dc:creator><![CDATA[touch]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 11:59:46 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311#comment-8329</guid>
+		<description><![CDATA[你好wolfg
+ 我把你的scim-1.4.4-maemo源包check out出来进行打包出现了一些错误,想请教你下怎么解决.
+
+一;我直接dpkg-buildpackage -rfakeroot -b,第一个错误是extras/setup/Makefile.am68行:
+ setup_la_CFLAGS must be set with `=&#039; before using ` =&#039;
+我估计你把setup_la_CFLAGS写错了,应该是Makefile.am里面已经有的变量setup_la_LDFLAGS,所以我把setup_la_CFLAGS该成setup_la_LDFLAGS.
+二;改过之后这个错误就没有了,但是在/po下出现了新的问题
+No rule to make target `all&#039;
+/po下只生成了Makefile.in,没有Makefile文件,不知道这个问题怎么解决?
+
+望你帮我解答一下,多谢了.]]></description>
+		<content:encoded><![CDATA[<p>你好wolfg<br />
+ 我把你的scim-1.4.4-maemo源包check out出来进行打包出现了一些错误,想请教你下怎么解决.</p>
+<p>一;我直接dpkg-buildpackage -rfakeroot -b,第一个错误是extras/setup/Makefile.am68行:<br />
+ setup_la_CFLAGS must be set with `=' before using ` ='<br />
+我估计你把setup_la_CFLAGS写错了,应该是Makefile.am里面已经有的变量setup_la_LDFLAGS,所以我把setup_la_CFLAGS该成setup_la_LDFLAGS.<br />
+二;改过之后这个错误就没有了,但是在/po下出现了新的问题<br />
+No rule to make target `all'<br />
+/po下只生成了Makefile.in,没有Makefile文件,不知道这个问题怎么解决?</p>
+<p>望你帮我解答一下,多谢了.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.086 seconds -->

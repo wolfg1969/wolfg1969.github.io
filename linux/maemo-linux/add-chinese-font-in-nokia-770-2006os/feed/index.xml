@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《ADD Chinese Font in Nokia 770, 2006os》的评论</title>
+	<atom:link href="/linux/maemo-linux/add-chinese-font-in-nokia-770-2006os/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/add-chinese-font-in-nokia-770-2006os/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：divinewind</title>
+		<link>/linux/maemo-linux/add-chinese-font-in-nokia-770-2006os/#comment-22049</link>
+		<dc:creator><![CDATA[divinewind]]></dc:creator>
+		<pubDate>Sun, 04 Nov 2007 19:35:48 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/09/08/269#comment-22049</guid>
+		<description><![CDATA[I have been following the eight-step instructions to install Chinese fonts on my Nokia 770. I have installed x-terminal and now I am trying to find the fireflysung.ttf font at www.study-area.org/apt/firefly-font/. However all I can find are .gz files. Can someone give me some guidance as to how to convert them to .ttf files? I am hoping to install Traditional Chinese fonts. Can you tell me which .gz files contain them?]]></description>
+		<content:encoded><![CDATA[<p>I have been following the eight-step instructions to install Chinese fonts on my Nokia 770. I have installed x-terminal and now I am trying to find the fireflysung.ttf font at <a href="http://www.study-area.org/apt/firefly-font/" rel="nofollow">http://www.study-area.org/apt/firefly-font/</a>. However all I can find are .gz files. Can someone give me some guidance as to how to convert them to .ttf files? I am hoping to install Traditional Chinese fonts. Can you tell me which .gz files contain them?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：HwanJune</title>
+		<link>/linux/maemo-linux/add-chinese-font-in-nokia-770-2006os/#comment-21458</link>
+		<dc:creator><![CDATA[HwanJune]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2007 08:15:53 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/09/08/269#comment-21458</guid>
+		<description><![CDATA[Hi!! 
+
+I just new user of n800 and I tried to install Korean Lnaguage pack.
+
+I installed CJK file but it just worked for input Korean.
+
+So, I tried to step what you already posting at internettablettalk.
+
+I installed X-term, copy some font files to my mmc1.
+
+but I couldn&#039;t Copy some fonts to /usr/share/fonts/
+
+when I typed &quot;cp media/mmc1/ usr/share/fonts/&quot; i just could see &quot;EXISTS&quot;..
+
+and I can&#039;t use MDIR.- &quot;permission denied&quot;
+
+....how can I copy these fonts files to usr/share/fonts/ ?
+
+I had never studied LINUX..so I don&#039;t have any Idea about it.. 
+
+Thank you
+June]]></description>
+		<content:encoded><![CDATA[<p>Hi!! </p>
+<p>I just new user of n800 and I tried to install Korean Lnaguage pack.</p>
+<p>I installed CJK file but it just worked for input Korean.</p>
+<p>So, I tried to step what you already posting at internettablettalk.</p>
+<p>I installed X-term, copy some font files to my mmc1.</p>
+<p>but I couldn't Copy some fonts to /usr/share/fonts/</p>
+<p>when I typed "cp media/mmc1/ usr/share/fonts/" i just could see "EXISTS"..</p>
+<p>and I can't use MDIR.- "permission denied"</p>
+<p>....how can I copy these fonts files to usr/share/fonts/ ?</p>
+<p>I had never studied LINUX..so I don't have any Idea about it.. </p>
+<p>Thank you<br />
+June</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/add-chinese-font-in-nokia-770-2006os/#comment-184</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2006 14:45:50 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/09/08/269#comment-184</guid>
+		<description><![CDATA[Now you can simply install the deb packages I made. :)
+Download them form http://guoyong.org/2006/11/08/286]]></description>
+		<content:encoded><![CDATA[<p>Now you can simply install the deb packages I made. :)<br />
+Download them form <a href="http://guoyong.org/2006/11/08/286" rel="nofollow">http://guoyong.org/2006/11/08/286</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：leonard</title>
+		<link>/linux/maemo-linux/add-chinese-font-in-nokia-770-2006os/#comment-86</link>
+		<dc:creator><![CDATA[leonard]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2006 02:43:46 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/09/08/269#comment-86</guid>
+		<description><![CDATA[Wolfg, I just wanted to thank the work you&#039;ve put into investigating this issue. Thanks to your summary for installing Chinese localization and fonts, I&#039;ve been able to read Japanese on my 770 by following the same proccess. I&#039;ve gotten positive feedback on my Japanese instructions, so I know there are (at least a few) 770 users in Japan that are appreciative of your findings. keep up the good work :-)]]></description>
+		<content:encoded><![CDATA[<p>Wolfg, I just wanted to thank the work you've put into investigating this issue. Thanks to your summary for installing Chinese localization and fonts, I've been able to read Japanese on my 770 by following the same proccess. I've gotten positive feedback on my Japanese instructions, so I know there are (at least a few) 770 users in Japan that are appreciative of your findings. keep up the good work :-)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xserver-xorg-core &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/xserver-xorg-core/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>昨天升级xserver-xorg-core，结果。。。</title>
+		<link>/linux/using-ubuntu-desktop/%e6%98%a8%e5%a4%a9%e5%8d%87%e7%ba%a7xserver-xorg-core%ef%bc%8c%e7%bb%93%e6%9e%9c%e3%80%82%e3%80%82%e3%80%82/</link>
+		<pubDate>Wed, 23 Aug 2006 14:09:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[xserver-xorg-core]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/08/23/260</guid>
+		<description><![CDATA[今天一开机，X server不工作了。 sudo dpkg-reconfigure xserver-xorg  &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e6%98%a8%e5%a4%a9%e5%8d%87%e7%ba%a7xserver-xorg-core%ef%bc%8c%e7%bb%93%e6%9e%9c%e3%80%82%e3%80%82%e3%80%82/" class="more-link">继续阅读<span class="screen-reader-text">“昨天升级xserver-xorg-core，结果。。。”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">260</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《让Postfix使用保存在MySQL中的加了密的密码字段(Ubuntu 6.06 TLS)》的评论</title>
+	<atom:link href="/linux/sysadm/%E8%AE%A9postfix%E4%BD%BF%E7%94%A8%E4%BF%9D%E5%AD%98%E5%9C%A8mysql%E4%B8%AD%E7%9A%84%E5%8A%A0%E4%BA%86%E5%AF%86%E7%9A%84%E5%AF%86%E7%A0%81%E5%AD%97%E6%AE%B5ubuntu-606-tls/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg's Weblog</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comment-29363</link>
+		<dc:creator><![CDATA[wolfg's Weblog]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2008 16:38:43 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293#comment-29363</guid>
+		<description><![CDATA[&lt;strong&gt;升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）...&lt;/strong&gt;
+
+日志里这样的错误信息：
+warning: SASL authentication problem: unable to open Berkeley db /etc/sasldb2: No such file or directory
+最终发现原因：main.cf里smtpd_sasl_path的设置错误，可能是更新修改的。
+把smtpd_sasl_path=/e...]]></description>
+		<content:encoded><![CDATA[<p><strong>升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）...</strong></p>
+<p>日志里这样的错误信息：<br />
+warning: SASL authentication problem: unable to open Berkeley db /etc/sasldb2: No such file or directory<br />
+最终发现原因：main.cf里smtpd_sasl_path的设置错误，可能是更新修改的。<br />
+把smtpd_sasl_path=/e...</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comment-29361</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2008 12:44:59 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293#comment-29361</guid>
+		<description><![CDATA[更正一下，不用做下面这个操作
+$ ln -s cyrus-sasl-2.1.19.dfsg1 cyrus-sasl-2.1.19.orig
+
+修改patch文件，把里面的cyrus-sasl-2.1.19.orig替换成cyrus-sasl-2.1.19.dfsg1就可以编译过去了。]]></description>
+		<content:encoded><![CDATA[<p>更正一下，不用做下面这个操作<br />
+$ ln -s cyrus-sasl-2.1.19.dfsg1 cyrus-sasl-2.1.19.orig</p>
+<p>修改patch文件，把里面的cyrus-sasl-2.1.19.orig替换成cyrus-sasl-2.1.19.dfsg1就可以编译过去了。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：cx</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comment-16072</link>
+		<dc:creator><![CDATA[cx]]></dc:creator>
+		<pubDate>Fri, 27 Jul 2007 07:57:30 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293#comment-16072</guid>
+		<description><![CDATA[&quot;你好，我现在也正在ubuntu下建postfix，碰到了一些问题，能和你交流交流吗？&quot;
+我也是的啊 ，
+QQ:305316339
+谢谢！]]></description>
+		<content:encoded><![CDATA[<p>"你好，我现在也正在ubuntu下建postfix，碰到了一些问题，能和你交流交流吗？"<br />
+我也是的啊 ，<br />
+QQ:305316339<br />
+谢谢！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Tom de Grunt</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comment-901</link>
+		<dc:creator><![CDATA[Tom de Grunt]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2007 23:10:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293#comment-901</guid>
+		<description><![CDATA[Thanks! Though I don&#039;t understand Chinese, your HOWTO was very helpful! Greetings from The Netherlands!]]></description>
+		<content:encoded><![CDATA[<p>Thanks! Though I don't understand Chinese, your HOWTO was very helpful! Greetings from The Netherlands!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ccfeliy</title>
+		<link>/linux/sysadm/%e8%ae%a9postfix%e4%bd%bf%e7%94%a8%e4%bf%9d%e5%ad%98%e5%9c%a8mysql%e4%b8%ad%e7%9a%84%e5%8a%a0%e4%ba%86%e5%af%86%e7%9a%84%e5%af%86%e7%a0%81%e5%ad%97%e6%ae%b5ubuntu-606-tls/#comment-723</link>
+		<dc:creator><![CDATA[ccfeliy]]></dc:creator>
+		<pubDate>Thu, 28 Dec 2006 17:27:20 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/12/02/293#comment-723</guid>
+		<description><![CDATA[你好，我现在也正在ubuntu下建postfix，碰到了一些问题，能和你交流交流吗？
+我的联系方式:
+QQ: 3501963
+MSN: ccfeliy@msn.com
+谢谢！]]></description>
+		<content:encoded><![CDATA[<p>你好，我现在也正在ubuntu下建postfix，碰到了一些问题，能和你交流交流吗？<br />
+我的联系方式:<br />
+QQ: 3501963<br />
+MSN: <a href="mailto:ccfeliy@msn.com">ccfeliy@msn.com</a><br />
+谢谢！</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.084 seconds -->

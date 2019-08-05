@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《更换S60 SDK Emulator的skin》的评论</title>
+	<atom:link href="/dev/%E6%9B%B4%E6%8D%A2s60-sdk-emulator%E7%9A%84skin/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev/%e6%9b%b4%e6%8d%a2s60-sdk-emulator%e7%9a%84skin/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg&#8217;s Weblog &#187; 更换S60 SDK Emulator的skin（更正）</title>
+		<link>/dev/%e6%9b%b4%e6%8d%a2s60-sdk-emulator%e7%9a%84skin/#comment-2</link>
+		<dc:creator><![CDATA[wolfg&#8217;s Weblog &#187; 更换S60 SDK Emulator的skin（更正）]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2006 03:11:58 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/30/160#comment-2</guid>
+		<description><![CDATA[[...] “更换S60 SDK Emulator的skin”里我写到要是能动态更换Skin就好了，其实Emulator已经有这个功能了，就是它的System菜单下的Next Config项。不同的配置由epoc.ini中的configuration关键字指定。比如我现在的epoc.ini的内容是这样的： configuration epoc_6630.ini configuration epoc_NGage.ini [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] “更换S60 SDK Emulator的skin”里我写到要是能动态更换Skin就好了，其实Emulator已经有这个功能了，就是它的System菜单下的Next Config项。不同的配置由epoc.ini中的configuration关键字指定。比如我现在的epoc.ini的内容是这样的： configuration epoc_6630.ini configuration epoc_NGage.ini [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

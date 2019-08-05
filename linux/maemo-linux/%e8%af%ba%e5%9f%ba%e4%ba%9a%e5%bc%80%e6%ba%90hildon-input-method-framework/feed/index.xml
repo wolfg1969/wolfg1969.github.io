@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《诺基亚开源Hildon Input Method Framework》的评论</title>
+	<atom:link href="/linux/maemo-linux/%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%BC%80%E6%BA%90hildon-input-method-framework/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：ppip</title>
+		<link>/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/#comment-31547</link>
+		<dc:creator><![CDATA[ppip]]></dc:creator>
+		<pubDate>Tue, 19 Feb 2008 11:42:00 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/08/342#comment-31547</guid>
+		<description><![CDATA[应该会要方便许多，不知道什么时候能够有plugin形式的scim出现]]></description>
+		<content:encoded><![CDATA[<p>应该会要方便许多，不知道什么时候能够有plugin形式的scim出现</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Uraka.Lee</title>
+		<link>/linux/maemo-linux/%e8%af%ba%e5%9f%ba%e4%ba%9a%e5%bc%80%e6%ba%90hildon-input-method-framework/#comment-18236</link>
+		<dc:creator><![CDATA[Uraka.Lee]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2007 01:59:01 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/08/342#comment-18236</guid>
+		<description><![CDATA[能以Plug-in的形式添加组件的话，似乎更利于CJK的发展（避免切换这个麻烦），不过原理上跟现在的VBK应该不会有太多区别。]]></description>
+		<content:encoded><![CDATA[<p>能以Plug-in的形式添加组件的话，似乎更利于CJK的发展（避免切换这个麻烦），不过原理上跟现在的VBK应该不会有太多区别。</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

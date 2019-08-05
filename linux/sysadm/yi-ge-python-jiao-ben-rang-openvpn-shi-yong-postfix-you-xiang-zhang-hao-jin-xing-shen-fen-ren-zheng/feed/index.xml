@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证》的评论</title>
+	<atom:link href="/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：jeff</title>
+		<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/#comment-55633</link>
+		<dc:creator><![CDATA[jeff]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 06:39:07 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=359#comment-55633</guid>
+		<description><![CDATA[怎么联系到你]]></description>
+		<content:encoded><![CDATA[<p>怎么联系到你</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：shewenhao</title>
+		<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/#comment-36389</link>
+		<dc:creator><![CDATA[shewenhao]]></dc:creator>
+		<pubDate>Wed, 21 May 2008 08:30:27 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=359#comment-36389</guid>
+		<description><![CDATA[Hi, wolfg,
+
+我也再用T43 ，安装了ubuntu，你的博客很有意思，可以交个朋友么？我的email地址如上，如果要加msn也可以shewenhao@hotmail.com]]></description>
+		<content:encoded><![CDATA[<p>Hi, wolfg,</p>
+<p>我也再用T43 ，安装了ubuntu，你的博客很有意思，可以交个朋友么？我的email地址如上，如果要加msn也可以shewenhao@hotmail.com</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

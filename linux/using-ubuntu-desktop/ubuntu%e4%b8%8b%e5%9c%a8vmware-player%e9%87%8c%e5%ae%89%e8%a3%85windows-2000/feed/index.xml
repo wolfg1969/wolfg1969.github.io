@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《ubuntu下在VMWare Player里安装Windows 2000》的评论</title>
+	<atom:link href="/linux/using-ubuntu-desktop/ubuntu%E4%B8%8B%E5%9C%A8vmware-player%E9%87%8C%E5%AE%89%E8%A3%85windows-2000/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e5%9c%a8vmware-player%e9%87%8c%e5%ae%89%e8%a3%85windows-2000/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e5%9c%a8vmware-player%e9%87%8c%e5%ae%89%e8%a3%85windows-2000/#comment-85</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2006 01:52:10 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/19/253#comment-85</guid>
+		<description><![CDATA[ubuntu中文论坛上的讨论：
+http://forum.ubuntu.org.cn/viewtopic.php?t=22330]]></description>
+		<content:encoded><![CDATA[<p>ubuntu中文论坛上的讨论：<br />
+<a href="http://forum.ubuntu.org.cn/viewtopic.php?t=22330" rel="nofollow">http://forum.ubuntu.org.cn/viewtopic.php?t=22330</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.078 seconds -->

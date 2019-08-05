@@ -1,0 +1,2025 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="no-js no-svg">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>在Windows XP下安装MoinMoin Wiki &#8211; 郭勇的技术博客</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="郭勇的技术博客 &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="郭勇的技术博客 &raquo; 评论Feed" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="郭勇的技术博客 &raquo; 在Windows XP下安装MoinMoin Wiki评论Feed" href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cnss_font_awesome_css-css'  href='/blog/wp-content/plugins/easy-social-icons/css/font-awesome/css/font-awesome.min.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cnss_css-css'  href='/blog/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='minimal_2017_enqueue_parent_styles-css'  href='/blog/wp-content/themes/twentyseventeen/style.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-style-css'  href='/blog/wp-content/themes/minimal-2017/style.css?ver=4.9.10' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyseventeen-ie8-css'  href='/blog/wp-content/themes/twentyseventeen/assets/css/ie8.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='ari-fancybox-css'  href='/blog/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=5.9' type='text/css' media='all' />
+<script type='text/javascript' src='/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/blog/wp-content/plugins/easy-social-icons/js/cnss.js?ver=1.0'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='/blog/wp-content/themes/twentyseventeen/assets/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"infobar":false,"backFocus":false,"trapFocus":false,"thumbs":{"hideOnClose":false},"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{"images":{"convert":true},"links":{"convert":true}},"viewers":{"pdfjs":{"url":"\/blog\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/blog/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.3'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/blog/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='今天收到了Ubuntu Linux的光盘' href='/linux/using-ubuntu-desktop/%e4%bb%8a%e5%a4%a9%e6%94%b6%e5%88%b0%e4%ba%86ubuntu-linux%e7%9a%84%e5%85%89%e7%9b%98/' />
+<link rel='next' title='安装MoinMoin Wiki后的简单配置' href='/oss/%e5%ae%89%e8%a3%85moinmoin-wiki%e5%90%8e%e7%9a%84%e7%ae%80%e5%8d%95%e9%85%8d%e7%bd%ae/' />
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel="canonical" href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/" />
+<link rel='shortlink' href='https://wp.me/p2hkwI-2D' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Foss%2F%25e5%259c%25a8windows-xp%25e4%25b8%258b%25e5%25ae%2589%25e8%25a3%2585moinmoin-wiki%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Foss%2F%25e5%259c%25a8windows-xp%25e4%25b8%258b%25e5%25ae%2589%25e8%25a3%2585moinmoin-wiki%2F&#038;format=xml" />
+<style type="text/css">
+		ul.cnss-social-icon li.cn-fa-icon a:hover{opacity: 0.7!important;color:#ffffff!important;}
+		</style><style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="在Windows XP下安装MoinMoin Wiki" />
+<meta property="og:url" content="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/" />
+<meta property="og:description" content="需要的文件： apache_2.0.55-win32-x86-no_ssl.msi mod_python-3.&hellip;" />
+<meta property="article:published_time" content="2006-03-28T03:04:44+00:00" />
+<meta property="article:modified_time" content="2012-03-04T04:41:47+00:00" />
+<meta property="og:site_name" content="郭勇的技术博客" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="zh_CN" />
+<meta name="twitter:site" content="@wolfg1969" />
+<meta name="twitter:text:title" content="在Windows XP下安装MoinMoin Wiki" />
+<meta name="twitter:card" content="summary" />
+
+<!-- BEGIN GADWP v5.3.2 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-160265-4', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+			<style type="text/css" id="wp-custom-css">
+				.site-description {
+	width: 100%;
+}			</style>
+		</head>
+
+<body class="post-template-default single single-post postid-163 single-format-standard group-blog has-sidebar colors-light">
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">跳至内容</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="custom-header">
+
+		<div class="custom-header-media">
+					</div>
+
+	<div class="site-branding">
+	<div class="wrap">
+        <div class="wrap-the-logo">
+		    		</div>
+
+		<div class="site-branding-text">
+							<p class="site-title"><a href="/" rel="home">郭勇的技术博客</a></p>
+			
+						
+			<!-- .header-social-icons -->
+            <div class="header-social-icons">
+               <ul id="" class="cnss-social-icon" style="text-align:center;"><li class="cn-fa-github cn-fa-icon" style="display:inline-block;"><a class="cnss-github" target="_blank" href="https://github.com/wolfg1969" title="Github" style="width:48px;height:48px;padding:8px;margin:2px;color: #ffffff;border-radius: 0%;"><i title="Github" style="font-size:32px;" class="fa fa-github"></i></a></li><li class="cn-fa-instagram cn-fa-icon" style="display:inline-block;"><a class="cnss-instagram" target="_blank" href="https://www.instagram.com/wolfg/" title="Instagram" style="width:48px;height:48px;padding:8px;margin:2px;color: #ffffff;border-radius: 0%;"><i title="Instagram" style="font-size:32px;" class="fa fa-instagram"></i></a></li></ul>            </div>
+            
+		</div><!-- .site-branding-text -->
+
+		
+	</div><!-- .wrap -->
+</div><!-- .site-branding -->
+</div><!-- .custom-header -->
+
+					<div class="navigation-top">
+				<div class="wrap">
+					<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="顶部菜单">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">
+		<svg class="icon icon-bars" aria-hidden="true" role="img"> <use href="#icon-bars" xlink:href="#icon-bars"></use> </svg><svg class="icon icon-close" aria-hidden="true" role="img"> <use href="#icon-close" xlink:href="#icon-close"></use> </svg>菜单	</button>
+
+	<div class="menu-%e4%b8%bb%e5%af%bc%e8%88%aa-container"><ul id="top-menu" class="menu"><li id="menu-item-993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-993"><a href="/">Home</a></li>
+<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="/about/">About</a></li>
+</ul></div>
+	</nav><!-- #site-navigation -->
+				</div><!-- .wrap -->
+			</div><!-- .navigation-top -->
+		
+	</header><!-- #masthead -->
+
+	
+	<div class="site-content-contain">
+		<div id="content" class="site-content">
+
+<div class="wrap">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-163" class="post-163 post type-post status-publish format-standard hentry category-oss category-python">
+		<header class="entry-header">
+		<div class="entry-meta"><span class="posted-on"><span class="screen-reader-text">发布于</span><a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/" rel="bookmark"><time class="entry-date published" datetime="2006-03-28T11:04:44+08:00">2006-03-28, 星期二</time><time class="updated" datetime="2012-03-04T12:41:47+08:00">2012-03-04, 星期日</time></a></span><span class="byline"> 由<span class="author vcard"><a class="url fn n" href="/author/admin/">wolfg1969</a></span></span></div><!-- .entry-meta --><h1 class="entry-title">在Windows XP下安装MoinMoin Wiki</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<!-- Quick Adsense WordPress Plugin: http://quickadsense.com/ -->
+<div style="float: none; margin:0px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 第一个广告单元 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4614826776555240"
+     data-ad-slot="3082839477"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p><strong>需要的文件</strong>：</p>
+<ul>
+<li><a href="http://apache.justdn.org/httpd/binaries/win32/apache_2.0.55-win32-x86-no_ssl.msi">apache_2.0.55-win32-x86-no_ssl.msi</a></li>
+<li><a href="http://mirror.vmmatrix.net/apache/httpd/modpython/mod_python-3.2.5b.win32-py2.4.exe">mod_python-3.2.5b.win32-py2.4.exe</a></li>
+<li><a class="reference" href="http://www.python.org/ftp/python/2.4.2/python-2.4.2.msi">Python 2.4.2  Windows installer</a></li>
+<li><a class="http" href="http://prdownloads.sourceforge.net/moin/moin-1.5.2.tar.gz?download">MoinMoin  1.5.2 tar.gz</a></li>
+</ul>
+<p><strong>安装目录约定</strong>：</p>
+<ul>
+<li>Apache - C:\www\Apache2</li>
+<li>Python - C:\Python24</li>
+<li>WikiHome - C:\www\Moin</li>
+<li>WikiInstance - C:\www\Moin\mywiki</li>
+</ul>
+<p>先安装Apache、Python。</p>
+<p><strong>MoinMoin的安装</strong>：</p>
+<p>在解压后的MoinMoin目录里运行</p>
+<p><coolcode linenum="off"><br />
+C:\Python24\python setup.py install --record=install.log<br />
+</coolcode><br />
+<strong>创建一个Wiki实例</strong>：<br />
+<coolcode linenum="off"><br />
+cd C:\<br />
+md www\Moin<br />
+md www\Moin\mywiki<br />
+md www\Moin\mywiki\data<br />
+md www\Moin\mywiki\underlay</p>
+<p>cd Python24\share\moin<br />
+xcopy data        C:\www\Moin\mywiki\data /E<br />
+xcopy underlay    C:\www\Moin\mywiki\underlay /E<br />
+copy  config\*.* C:\www\Moin\mywiki\*.*<br />
+copy  server\*.* C:\www\Moin\mywiki\*.*<br />
+</coolcode><br />
+修改C:\www\Moin\mywiki\wikiconfig.py</p>
+<p>第1行改为 # -*- coding: utf-8 -*-<br />
+<coolcode linenum="off"><br />
+sitename = u'我的Wiki';<br />
+data_dir = r'C:/www/Moin/mywiki/data'<br />
+data_underlay_dir = r'C:/www/Moin/mywiki/underlay'<br />
+</coolcode></p>
+<p><span class="anchor">注意要保存为UTF-8格式的文件。</span></p>
+<p><strong>与Apache集成（CGI方式）</strong>，修改C:\www\Moin\mywiki\moin.cgi</p>
+<p>第1行改为：<br />
+<coolcode linenum="off"><br />
+#! C:/Python24/python<br />
+</coolcode><br />
+第16行改为：<br />
+<coolcode linenum="off"><br />
+sys.path.insert(0, r'C:/www/Moin/mywiki')<br />
+</coolcode></p>
+<p>修改Apache的配置文件httpd.conf<br />
+<coolcode linenum="off"><br />
+Alias       /wiki/ "C:/Python/share/moin/htdocs/"<br />
+ScriptAlias /mywiki "C:/www/Moin/mywiki/moin.cgi"<br />
+</coolcode><br />
+<span class="anchor">重启Apache，访问 http://localhost/mywiki/ 测试一下吧。</span></p>
+<p><strong>与Apache集成（使用mod_python）</strong></p>
+<p>安装mod_python后</p>
+<p>修改Apache的配置文件httpd.conf<br />
+<coolcode linenum="off"><br />
+LoadModule python_module modules/mod_python.so<br />
+</coolcode><br />
+重启Apache，在logs/error.log里看到类似下面的信息则说明mod_python工作正常。<br />
+<coolcode linenum="off"><br />
+[Mon Mar 27 17:22:30 2006] [notice] mod_python: Creating 8 session mutexes<br />
+based on 0 max processes and 250 max threads.<br />
+</coolcode><br />
+修改httpd.conf</p>
+<p>注释掉上面配置的CGI方式<br />
+<coolcode linenum="off"><br />
+#ScriptAlias /mywiki "/var/www/moin/mywiki/moin.cgi"<br />
+</coolcode><br />
+加入新的mod_python配置<br />
+<coolcode linenum="off"><br />
+SetHandler python-program<br />
+# Add the path of your wiki directory<br />
+PythonPath "[r'C:/www/Moin/mywiki'] + sys.path"<br />
+PythonHandler MoinMoin.request::RequestModPy.run<br />
+</coolcode></p>
+<p>重启Apache，访问 http://localhost/mywiki 测试。</p>
+<p>参考：</p>
+<ul>
+<li><a target="_blank" href="http://moinmoin.wikiwikiweb.de/HelpOnInstalling/ApacheOnWin32">HelpOnInstalling/ApacheOnWin32</a></li>
+<li><a target="_blank" href="http://moinmoin.wikiwikiweb.de/HelpOnInstalling/ApacheWithModPython">HelpOnInstalling/ApacheWithModPython</a></li>
+</ul>
+
+<div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;"></div>	</div><!-- .entry-content -->
+
+	<footer class="entry-footer"><span class="cat-tags-links"><span class="cat-links"><svg class="icon icon-folder-open" aria-hidden="true" role="img"> <use href="#icon-folder-open" xlink:href="#icon-folder-open"></use> </svg><span class="screen-reader-text">分类</span><a href="/category/oss/" rel="category tag">OSS</a>、<a href="/category/python/" rel="category tag">Python</a></span></span></footer> <!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">文章导航</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="/linux/using-ubuntu-desktop/%e4%bb%8a%e5%a4%a9%e6%94%b6%e5%88%b0%e4%ba%86ubuntu-linux%e7%9a%84%e5%85%89%e7%9b%98/" rel="prev"><span class="screen-reader-text">Previous Post</span><span aria-hidden="true" class="nav-subtitle">Previous</span> <span class="nav-title"><span class="nav-title-icon-wrapper"><svg class="icon icon-arrow-left" aria-hidden="true" role="img"> <use href="#icon-arrow-left" xlink:href="#icon-arrow-left"></use> </svg></span>今天收到了Ubuntu Linux的光盘</span></a></div><div class="nav-next"><a href="/oss/%e5%ae%89%e8%a3%85moinmoin-wiki%e5%90%8e%e7%9a%84%e7%ae%80%e5%8d%95%e9%85%8d%e7%bd%ae/" rel="next"><span class="screen-reader-text">Next Post</span><span aria-hidden="true" class="nav-subtitle">Next</span> <span class="nav-title">安装MoinMoin Wiki后的简单配置<span class="nav-title-icon-wrapper"><svg class="icon icon-arrow-right" aria-hidden="true" role="img"> <use href="#icon-arrow-right" xlink:href="#icon-arrow-right"></use> </svg></span></span></a></div></div>
+	</nav><div id="comments-container">
+    <div class="comments-section">
+        <div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			57 Replies to &ldquo;在Windows XP下安装MoinMoin Wiki&rdquo;		</h2>
+
+		<ol class="comment-list">
+					<li id="comment-3" class="comment even thread-even depth-1">
+			<article id="div-comment-3" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-3">
+							<time datetime="2006-07-11T16:38:32+00:00">
+								2006-07-11, 星期二 16:38							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>修改Apache的配置文件httpd.conf</p>
+<p>Alias /wiki/ “C:/Python/share/moin/htdocs/”<br />
+ScriptAlias /mywiki “C:/www/Moin/mywiki/moin.cgi”<br />
+是怎么修改的啊，不明白啊，具体点好不？？！~！谢谢</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-4" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-4" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-4">
+							<time datetime="2006-07-11T17:01:03+00:00">
+								2006-07-11, 星期二 17:01							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>直接加在httpd.conf的后面就可以。还有什么问题吗？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-5" class="comment even thread-even depth-1">
+			<article id="div-comment-5" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-5">
+							<time datetime="2006-07-11T18:21:58+00:00">
+								2006-07-11, 星期二 18:21							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我照做了啊，重启Apache，访问 <a href="http://localhost/mywiki/" rel="nofollow">http://localhost/mywiki/</a> 后，不中啊！~！~！<br />
+找不到该页啊！~！`怎么回事啊！~！<br />
+郁闷！~~~！我都弄了一天了，呵呵！！~<br />
+本人太笨了，呵！~！大哥，指点一下吧！~</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-6" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-6" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-6">
+							<time datetime="2006-07-11T18:29:06+00:00">
+								2006-07-11, 星期二 18:29							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>2mod_python-3.2.5b安装路径是默认的吗？谢谢！~</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-7" class="comment even thread-even depth-1">
+			<article id="div-comment-7" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-7">
+							<time datetime="2006-07-11T18:31:04+00:00">
+								2006-07-11, 星期二 18:31							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>修改Apache的配置文件httpd.conf</p>
+<p>LoadModule python_module modules/mod_python.so</p>
+<p>怎么修改啊？也是直接加在httpd.conf的后面吗？如果是的话那应该加到Alias /wiki/ “C:/Python/share/moin/htdocs/”<br />
+ScriptAlias /mywiki “C:/www/Moin/mywiki/moin.cgi”<br />
+的后面吗？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-8" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-8" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-8">
+							<time datetime="2006-07-11T19:40:03+00:00">
+								2006-07-11, 星期二 19:40							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>是的，直接加在后面就可以。<br />
+首先，你要保证mod_python.so存在于Apache安装目录里的modules目录。<br />
+其次，把那三行配置加到httpd.conf的后面。<br />
+最后，重启Apache，有任何错误都检查Apache的错误日志，在Apache安装目录下的logs目录，文件名是error.log</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-9" class="comment even thread-even depth-1">
+			<article id="div-comment-9" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-9">
+							<time datetime="2006-07-12T08:49:10+00:00">
+								2006-07-12, 星期三 08:49							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>[Wed Jul 12 08:44:54 2006] [error] [client 127.0.0.1] script not found or unable to stat: C:/www/Apache2/Apache2/htdocs/mywiki<br />
+这是错误日志里的，好像是路径不对啊，<br />
+mywiki不是在moin文件夹里的吗？怎么会显示以上信息啊？晕？！~</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-10" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-10" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-10">
+							<time datetime="2006-07-12T09:18:37+00:00">
+								2006-07-12, 星期三 09:18							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>mod_python.so存在于Apache安装目录里的modules目录？我就找不到这个文件啊！~！~<br />
+2mod_python-3.2.5b的安装路径是？？？<br />
+我把2mod_python-3.2.5装到<br />
+python directorey:C:\Python24\<br />
+installation directorey:C:\Python24\Lib\site-packages\<br />
+我一加下面一句<br />
+LoadModule python_module modules/mod_python.so<br />
+就无法重启apache!~<br />
+弹出对话框说The requested operation has failed!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-11" class="comment even thread-even depth-1">
+			<article id="div-comment-11" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-11">
+							<time datetime="2006-07-12T10:01:03+00:00">
+								2006-07-12, 星期三 10:01							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>安装mod_python的路径是不能改变的，它会自动的找到你的Python的安装目录，最后它还会询问你Apache的安装目录，弹出的文件夹选择对话框里已经找到了Apache的安装目录，所以一般情况下你不需要修改，接受就可以了。我怀疑你就是这个地方选错了，导致mod_python.so被放到别的目录里了。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-12" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-12" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-12">
+							<time datetime="2006-07-12T11:58:31+00:00">
+								2006-07-12, 星期三 11:58							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>在Windows XP下安装MoinMoin Wiki之前需要配置其他参数不用？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-13" class="comment even thread-even depth-1">
+			<article id="div-comment-13" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-13">
+							<time datetime="2006-07-12T12:28:06+00:00">
+								2006-07-12, 星期三 12:28							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>“安装mod_python最后它还会询问Apache的安装目录，弹出的文件夹选择对话框里已经找到了Apache的安装目录”，我这自动选的是C:\Program Files\Apache Group\Apache2,因为我以前默认装了一回，后来又卸了，按你说的装，是不是没删干净？我要怎么办？谢谢！~！~</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-14" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-14" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-14">
+							<time datetime="2006-07-12T13:27:06+00:00">
+								2006-07-12, 星期三 13:27							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>把Apache卸载，用“添加/删除 程序”来卸载。<br />
+注意，安装Apache时，如果你不使用默认的安装目录，比如：你选了C:\www\Apache2，那么，它将被安装到C:\www\Apache2\Apache2下面，也就是说它会自己建一个Apache2的目录。</p>
+<p>你说的“配置其他参数”指的是什么？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-15" class="comment even thread-even depth-1">
+			<article id="div-comment-15" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d1cbc4076770e5d066c4753524703039?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">呵呵</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-15">
+							<time datetime="2006-07-12T15:34:10+00:00">
+								2006-07-12, 星期三 15:34							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>“配置其他参数”指的是需要装IIS并配置他不？我觉得好像不用了，呵呵！！~！<br />
+我还是装不成啊！~！我觉得我太笨了，不行了！~~~</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-16" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-16" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-16">
+							<time datetime="2006-07-12T15:59:14+00:00">
+								2006-07-12, 星期三 15:59							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>不需要IIS，Apache就是Web服务器啊。</p>
+<p>你可以试试安装MoinMoin的Desktop edition，很简单，解开压缩包就行了:)</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-17" class="comment even thread-even depth-1">
+			<article id="div-comment-17" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17">
+							<time datetime="2006-07-12T18:23:49+00:00">
+								2006-07-12, 星期三 18:23							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>上面在Windows XP下安装MoinMoin Wiki 的方法能用吗？哪位兄弟亲自用过，而且成功了，有什么需要注意的地方没？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-18" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-18" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-18">
+							<time datetime="2006-07-12T21:28:12+00:00">
+								2006-07-12, 星期三 21:28							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>试过就知道了 :)</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-19" class="comment even thread-even depth-1">
+			<article id="div-comment-19" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-19">
+							<time datetime="2006-07-13T09:33:46+00:00">
+								2006-07-13, 星期四 09:33							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>看起来，出现的问题并不少，可都是你（wolfg)解决的，我就装一次吧，能把你的QQ号放过来吗，解决问题效率高一些嘛？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-20" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-20" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-20">
+							<time datetime="2006-07-13T10:44:52+00:00">
+								2006-07-13, 星期四 10:44							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>抱歉！从不用qq</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-21" class="comment even thread-even depth-1">
+			<article id="div-comment-21" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-21">
+							<time datetime="2006-07-13T11:39:47+00:00">
+								2006-07-13, 星期四 11:39							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我已经照着上面的方法做了，你要注意的地方我也做了，可为什么在于Apache安装目录里的modules目录中找不到mod_python.so。还有是否所有的配置文件修改后都要保存为UTF-8格式，谢谢，等待你的指导！</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-22" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-22" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-22">
+							<time datetime="2006-07-13T16:25:38+00:00">
+								2006-07-13, 星期四 16:25							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>wikiconfig.py要保存成UTF-8格式。<br />
+你的Apache安装目录是什么？<br />
+安装mod_python时指定的Apache目录是什么？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-23" class="comment even thread-even depth-1">
+			<article id="div-comment-23" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-23">
+							<time datetime="2006-07-13T17:12:54+00:00">
+								2006-07-13, 星期四 17:12							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我已经将配置文件修改后都保存为UTF-8格式了，又装了一次mod_python，其中询问我Apache的安装目录，弹出的文件夹选择对话框里Apache的安装目录为“我的电脑”，我将它修改为了C:\www\Apache2 （看来了不能用你说的“一般情况”了，呵呵）</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-24" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-24" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-24">
+							<time datetime="2006-07-13T17:21:36+00:00">
+								2006-07-13, 星期四 17:21							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>哦，关键的忘记说了，这一步算是过了吧！因为给你说的情况都一样。<br />
+注释掉上面配置的CGI方式</p>
+<p>#ScriptAlias /mywiki “/var/www/moin/mywiki/moin.cgi”</p>
+<p>加入新的mod_python配置</p>
+<p>SetHandler python-program<br />
+# Add the path of your wiki directory<br />
+PythonPath “[r’C:/www/Moin/mywiki’] + sys.path”<br />
+PythonHandler MoinMoin.request::RequestModPy.run</p>
+<p>后Apache又不能启动了，咋回事，大哥，</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-25" class="comment even thread-even depth-1">
+			<article id="div-comment-25" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-25">
+							<time datetime="2006-07-13T17:31:57+00:00">
+								2006-07-13, 星期四 17:31							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>请分析我错误的操纵：<br />
+在httpd.conf中，我将ScriptAlias /mywiki “C：/www/moin/mywiki/moin.cgi”这句前直接加#，然后将</p>
+<p>加入新的mod_python配置中这些<br />
+SetHandler python-program<br />
+......<br />
+PythonHandler MoinMoin.request::RequestModPy.run<br />
+语句直接加在了直接加在httpd.conf的最后面。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-26" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-26" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-26">
+							<time datetime="2006-07-13T17:47:33+00:00">
+								2006-07-13, 星期四 17:47							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>抱歉！是我的文章里有误！有些文字被当作html标记给吃掉了。<br />
+应该是</p>
+<p>&lt;IfModule mod_python.c&gt;<br />
+&lt;Location /mywiki&gt;<br />
+SetHandler python-program<br />
+#Add the path of your wiki directory<br />
+PythonPath “[r’C:/www/Moin/mywiki’] + sys.path”<br />
+PythonHandler MoinMoin.request::RequestModPy.run<br />
+&lt;/Location&gt;<br />
+&lt;/IfModule&gt;<br />
+Apache的错误，记得去看它的error日志。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-27" class="comment even thread-even depth-1">
+			<article id="div-comment-27" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-27">
+							<time datetime="2006-07-13T18:59:25+00:00">
+								2006-07-13, 星期四 18:59							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>没有什么可抱歉的，非常感谢你准时的告诉我。人总是在失误与挫折中学会长大的！呵呵（有点以小卖大了！）<br />
+我已经照做了，Apache仍不能启动，是我放的位置不对吗，还是注释掉上面配置的CGI方式不对，error日志显示为：<br />
+[Thu Jul 13 18:42:09 2006] [notice] Parent: Received restart signal -- Restarting the server.<br />
+[Thu Jul 13 18:42:09 2006] [notice] Child 1428: Exit event signaled. Child process is ending.<br />
+[Thu Jul 13 18:42:11 2006] [notice] Child 1428: Released the start mutex<br />
+[Thu Jul 13 18:42:12 2006] [notice] Child 1428: Waiting for 250 worker threads to exit.<br />
+[Thu Jul 13 18:42:12 2006] [notice] Child 1428: All worker threads have exited.<br />
+[Thu Jul 13 18:42:14 2006] [notice] Child 1428: Child process is exiting</p>
+<p>等待你的再次指导与帮助！</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-30" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-30" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-30">
+							<time datetime="2006-07-13T23:15:12+00:00">
+								2006-07-13, 星期四 23:15							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>注释就是用#。<br />
+位置也不应该是问题。<br />
+Apache的程序启动组里有个config test快捷方式，用来检查httpd.conf是否有语法错误。你试试。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-32" class="comment even thread-even depth-1">
+			<article id="div-comment-32" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-32">
+							<time datetime="2006-07-14T09:27:54+00:00">
+								2006-07-14, 星期五 09:27							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>是"开始"-&gt;"程序"-&gt;"Apache Http server 2.0.55"-&gt;"configure Apache server" -&gt;"test configuration"<br />
+来检查httpd.conf 吗?选择运行后,显示结果为"<br />
+syntax error on line 963 of C:/www/Apache2/conf/httpd.conf:<br />
+PythonPath takes one argument,python paht, specified in Python list syntax.<br />
+Note the errors or messages above, and press the  key to exit . 24...</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-33" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-33" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-33">
+							<time datetime="2006-07-14T09:40:52+00:00">
+								2006-07-14, 星期五 09:40							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>在http中 963 行为 PythonPath “[r’C:/www/Moin/mywiki’] + sys.path”问题出在哪呢,我也检查了mywiki   的位置,并不错呀</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-34" class="comment even thread-even depth-1">
+			<article id="div-comment-34" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-34">
+							<time datetime="2006-07-14T09:41:08+00:00">
+								2006-07-14, 星期五 09:41							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>在http中 963 行为<br />
+PythonPath “[r’C:/www/Moin/mywiki’] + sys.path”问题出在哪呢,我也检查了mywiki   的位置,并不错呀</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-35" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-35" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-35">
+							<time datetime="2006-07-14T10:01:13+00:00">
+								2006-07-14, 星期五 10:01							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>PythonPath “[r’C:/www/Moin/mywiki’] + sys.path”<br />
+看来又出在字符的问题上！<br />
+双引号和单引号都必须是英文字符。<br />
+PythonPath &#34;[r&#39;C:/www/Moin/mywiki&#39;] + sys.path&#34;</p>
+<p>奇怪！好像是WordPress把文章里的&#34;和&#39;都变成中文字符了。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-36" class="comment even thread-even depth-1">
+			<article id="div-comment-36" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-36">
+							<time datetime="2006-07-14T11:12:58+00:00">
+								2006-07-14, 星期五 11:12							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>字符我已经修改,Apache 可以正常启动,可当访问 <a href="http://localhost/mywiki/" rel="nofollow">http://localhost/mywiki/</a> 时,页面出现了这样的错误信息:<br />
+Internal Server Error<br />
+The server encountered an internal error or misconfiguration and was unable to complete your request.</p>
+<p>Please contact the server administrator, <a href="mailto:ilookforzwy@gmail.com">ilookforzwy@gmail.com</a> and inform them of the time the error occurred, and anything you might have done that may have caused the error.</p>
+<p>More information about this error may be available in the server error log.</p>
+<p>--------------------------------------------------------------------------------</p>
+<p>Apache/2.0.55 (Win32) mod_python/3.2.5b Python/2.4.2 Server at localhost Port 80</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-37" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-37" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-37">
+							<time datetime="2006-07-14T11:25:51+00:00">
+								2006-07-14, 星期五 11:25							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>一样的，看看Apache的error日志。<br />
+你再检查下wikiconfig.py里有没有中文字符。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-42" class="comment even thread-even depth-1">
+			<article id="div-comment-42" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-42">
+							<time datetime="2006-07-14T12:11:24+00:00">
+								2006-07-14, 星期五 12:11							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>你说的正确,确实字符不对,我已经更改,可问题同原来一样,下面是error日志的内容:<br />
+[Fri Jul 14 12:00:37 2006] [error] [client 127.0.0.1] PythonHandler MoinMoin.request::RequestModPy.run: Traceback (most recent call last):<br />
+[Fri Jul 14 12:00:37 2006] [error] [client 127.0.0.1] PythonHandler MoinMoin.request::RequestModPy.run:   File "C:\\Python24\\Lib\\site-packages\\mod_python\\apache.py", line 276, in HandlerDispatch\n    newpath = eval(pathstring)<br />
+[Fri Jul 14 12:00:37 2006] [error] [client 127.0.0.1] PythonHandler MoinMoin.request::RequestModPy.run:   File "", line 1<br />
+[Fri Jul 14 12:00:37 2006] [error] [client 127.0.0.1] PythonHandler MoinMoin.request::RequestModPy.run:     [r\xe2\x80\x99C:/www/Moin/mywiki\xe2\x80\x99] + sys.path<br />
+[Fri Jul 14 12:00:37 2006] [error] [client 127.0.0.1] PythonHandler MoinMoin.request::RequestModPy.run:       ^<br />
+[Fri Jul 14 12:00:37 2006] [error] [client 127.0.0.1] PythonHandler MoinMoin.request::RequestModPy.run: SyntaxError: invalid syntax<br />
+是不是我的机器其它设置有问题,</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-43" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-43" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-43">
+							<time datetime="2006-07-14T12:23:29+00:00">
+								2006-07-14, 星期五 12:23							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我在页面刷新了一次,显示为:<br />
+ConfigurationError<br />
+ImportError: No module named wikiconfig</p>
+<p>Check that the file is in the same directory as the server script. If it is not, you must add the path of the directory where the file is located to the python path in the server script. See the comments at the top of the server script.</p>
+<p>Check that the configuration file name is either "wikiconfig.py" or the module name specified in the wikis list in farmconfig.py. Note that the module name does not include the ".py" suffix. </p>
+<p>If you want to report a bug, please save this page and attach it to your bug report.</p>
+<p>Show debugging information    Report bug     Visit MoinMoin wiki</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-46" class="comment even thread-even depth-1">
+			<article id="div-comment-46" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-46">
+							<time datetime="2006-07-14T13:18:22+00:00">
+								2006-07-14, 星期五 13:18							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>moin.cgi第16行指定了wikiconfig.py这个文件在C:\www\Moin\mywiki这个目录下，你检查一下。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-47" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-47" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-47">
+							<time datetime="2006-07-14T16:11:03+00:00">
+								2006-07-14, 星期五 16:11							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我的wikiconfgil.py这个文件在C:\www\Moin\mywiki这个目录下，moin.cgi第16行显示为：<br />
+sys.path.insert(0,r'c:/www/Moin/mywiki')<br />
+为什么C:\www\Moin\mywiki与r'c:/www/Moin/mywiki中的反斜杠反向回相反</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-48" class="comment even thread-even depth-1">
+			<article id="div-comment-48" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-48">
+							<time datetime="2006-07-14T16:48:03+00:00">
+								2006-07-14, 星期五 16:48							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>这样写在Python里是没有问题的。还是怀疑你的mod_python安装有问题。试试停掉Apache的服务，再重新安装一遍mod_python，确保modules目录里有mod_python.so</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-49" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-49" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-49">
+							<time datetime="2006-07-14T17:49:25+00:00">
+								2006-07-14, 星期五 17:49							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我已经安装成功了IP为http://211.67.101.217/mywiki，你看一下，结果是不是这样，怎么全是English。无论怎样非常非常的感激你---wolfg,你真的很棒！</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-50" class="comment even thread-even depth-1">
+			<article id="div-comment-50" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-50">
+							<time datetime="2006-07-14T20:27:49+00:00">
+								2006-07-14, 星期五 20:27							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>太可怕了<br />
+我机器重启一次后又不行了，我将mod_python卸了，在执行<br />
+Alias /wiki/ “C:/Python/share/moin/htdocs/”<br />
+ScriptAlias /mywiki “C:/www/Moin/mywiki/moin.cgi”</p>
+<p>重启Apache，访问 <a href="http://localhost/mywiki/" rel="nofollow">http://localhost/mywiki/</a> 测试一下就发生了原来一样的Internal Server Error....错误的<br />
+error日志为：<br />
+[Fri Jul 14 20:19:03 2006] [error] [client 127.0.0.1] File does not exist: C:/www/Apache2/htdocs/index.jsp<br />
+[Fri Jul 14 20:19:33 2006] [error] [client 127.0.0.1] File does not exist: C:/www/Apache2/htdocs/index.jsp</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-51" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-51" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-51">
+							<time datetime="2006-07-14T21:27:44+00:00">
+								2006-07-14, 星期五 21:27							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>又回到CGI方式了？<br />
+那两条记录跟moinmoin无关。</p>
+<p>我访问了一下，好像可以了啊。不过，好像没有找到/wiki这个路径。<br />
+Alias /wiki/ &#62;C:/Python/share/moin/htdocs/&#62;<br />
+这句没生效。检查一下这个目录。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-52" class="comment even thread-even depth-1">
+			<article id="div-comment-52" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d6325d1d886c291a3cc29d3030108252?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">金色的马桶</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-52">
+							<time datetime="2006-07-15T10:09:31+00:00">
+								2006-07-15, 星期六 10:09							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我又重装了一次,在第一次重启Apache,访问 <a href="http://localhost/mywiki/" rel="nofollow">http://localhost/mywiki/</a> 时发生了错误,网页页面显示为:<br />
+ConfigurationError<br />
+data_dir " C:\www\Moin\mywiki\underlay" does not exists, or has incorrect ownership or permissions.</p>
+<p>Make sure the directory and the subdirectory pages are owned by the web server and are readable, writable and executable by the web server user and group.</p>
+<p>It is recommended to use absolute paths and not relative paths. Check also the spelling of the directory name. </p>
+<p>If you want to report a bug, please save this page and attach it to your bug report<br />
+在eeror日志中显示:<br />
+[Sat Jul 15 10:05:14 2006] [error] [client 127.0.0.1] File does not exist: C:/www/Apache2/htdocs/index.jsp<br />
+这应该怎样修改呢?等待...</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-53" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-53" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-53">
+							<time datetime="2006-07-15T11:20:36+00:00">
+								2006-07-15, 星期六 11:20							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>wikiconfig.py中检查这两句：<br />
+data_dir = r’C:/www/Moin/mywiki/data’<br />
+<span class=\"anchor\">    data_underlay_dir = r’C:/www/Moin/mywiki/underlay’</span></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-3604" class="comment even thread-even depth-1">
+			<article id="div-comment-3604" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/0f2dc1c2a0500124ca985d98683165bf?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0f2dc1c2a0500124ca985d98683165bf?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">mrlong</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-3604">
+							<time datetime="2007-03-03T15:43:01+00:00">
+								2007-03-03, 星期六 15:43							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>ImportError: No module named wikiconfig</p>
+<p>Check that the file is in the same directory as the server script. If it is not, you must add the path of the directory where the file is located to the python path in the server script. See the comments at the top of the server script.</p>
+<p>Check that the configuration file name is either "wikiconfig.py" or the module name specified in the wikis list in farmconfig.py. Note that the module name does not include the ".py" suffix.</p>
+<p>If you want to report a bug, please save this page and attach it to your bug report.</p>
+<p>这是什么意思</p>
+<p>我采用CGI方式 与mod_python 都出现同样的问题, 是不是路径出错. 还是apache无法处理py文件</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-3739" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-3739" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-3739">
+							<time datetime="2007-03-05T13:17:35+00:00">
+								2007-03-05, 星期一 13:17							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>to mrlong:<br />
+如果用CGI方式，moin.cgi里要有这句<br />
+<coolcode linenum="off"><br />
+sys.path.insert(0, r'C:/www/Moin/mywiki')<br />
+</coolcode><br />
+指定wikiconfig.py的位置</p>
+<p>如果用mod_python方式，需要在httpd.conf里指定<br />
+<coolcode linenum="off"><br />
+PythonPath "[r'C:/www/Moin/mywiki']   sys.path"<br />
+</coolcode></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-6905" class="comment even thread-even depth-1">
+			<article id="div-comment-6905" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/9d64829c391853eb837d5f7ffbb2c056?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/9d64829c391853eb837d5f7ffbb2c056?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://www.ttech.com.cn/' rel='external nofollow' class='url'>wikinewman</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-6905">
+							<time datetime="2007-04-04T16:45:16+00:00">
+								2007-04-04, 星期三 16:45							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>[Wed Apr 04 15:17:35 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki<br />
+[Wed Apr 04 15:25:07 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki<br />
+[Wed Apr 04 15:25:10 2007] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/wiki<br />
+上面是我照wolfg的教程做完，error.log里的内容。<br />
+老大，怎么回事阿？这个目录下会有什么？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-7694" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-7694" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/7007412b6cc28341a53288fce73243c5?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7007412b6cc28341a53288fce73243c5?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">anonymous</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-7694">
+							<time datetime="2007-04-15T16:24:22+00:00">
+								2007-04-15, 星期日 16:24							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我安装成为standalone的moinmoin，和原来的desktop版本一样，我遇到这样一个问题，当你编辑内容的时候，如果输入的内容很少，你保存，就不会出现问题。如果内容特别多，比如100多行存文字，你点击保存就会出现，The page cannot be displayed 。但是我添加的信息并没有丢失，也保存到网页里面了，如何避免出现这样一种情况，要是每次编辑和保存都有这中现象，太郁闷了。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-10764" class="comment even thread-even depth-1">
+			<article id="div-comment-10764" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/7b66982d0bb7f6dab8a80e46c17581ed?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7b66982d0bb7f6dab8a80e46c17581ed?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">glory</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-10764">
+							<time datetime="2007-05-23T20:11:36+00:00">
+								2007-05-23, 星期三 20:11							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Traceback (most recent call last):<br />
+  File "g:\python\Lib\site-packages\MoinMoin\request.py", line 1875, in __init__<br />
+    RequestBase.__init__(self)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\request.py", line 156, in __init__<br />
+    self._load_multi_cfg()<br />
+  File "g:\python\Lib\site-packages\MoinMoin\request.py", line 313, in _load_multi_cfg<br />
+    self.cfg = multiconfig.getConfig(self.url)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 162, in getConfig<br />
+    config = _makeConfig(configName)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 97, in _makeConfig<br />
+    module, mtime = _importConfigModule(name)<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 47, in _importConfigModule<br />
+    raise error.ConfigurationError(msg)<br />
+ConfigurationError: SyntaxError: invalid syntax (wikiconfig.py, line 77)<br />
+Traceback (most recent call last):<br />
+  File "g:\python\Lib\site-packages\MoinMoin\multiconfig.py", line 31, in _importConfigModule<br />
+    module = __import__(name, globals(), {})<br />
+  File "H:/Moin/mywiki\wikiconfig.py", line 77<br />
+    data_underlay_dir = r'H:\Moin\mywiki\underlay'<br />
+    ^<br />
+SyntaxError: invalid syntax</p>
+<p>Additionally cgitb raised this exception:<br />
+Traceback (most recent call last):<br />
+  File "g:\python\Lib\site-packages\MoinMoin\failure.py", line 143, in handle<br />
+    display=request.cfg.traceback_show,<br />
+AttributeError: 'RequestModPy' object has no attribute 'cfg'</p>
+<p>恳请高手指点.这是怎么回事.我已经被装moinmoin搞了一个多星期了,还望高手帮我解决这个问题.<br />
+   谢谢!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-10911" class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-10911" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-10911">
+							<time datetime="2007-05-27T02:34:48+00:00">
+								2007-05-27, 星期日 02:34							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>改成data_underlay_dir = r’H:/Moin/mywiki/underlay’ 或 data_underlay_dir = r’H:\\Moin\\mywiki\\underlay’ 试试</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-17244" class="comment even thread-even depth-1">
+			<article id="div-comment-17244" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/4aee4f83d2a56e5f05cd98fa5cb70767?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4aee4f83d2a56e5f05cd98fa5cb70767?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">iTiger</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17244">
+							<time datetime="2007-08-20T17:47:45+00:00">
+								2007-08-20, 星期一 17:47							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我在apache的HTTPD.CONF中加的：<br />
+LoadModule python_module modules/mod_python.so</p>
+<p>Alias /wiki "d:/php/Python/share/moin/htdocs/"<br />
+#ScriptAlias /mywiki "d:/php/wwwroot/Moinwiki/mywiki/moin.cgi"</p>
+<p> SetHandler python-program<br />
+ PythonPath "[r'd:/php/wwwroot/Moinwiki/mywiki']   sys.path"<br />
+ PythonHandler MoinMoin.request::RequestModPy.run</p>
+<p>但仍然出错：httpd.exe: Syntax error on line 495 of D:/php/Apache2.2/conf/httpd.conf: Cannot load D:/php/Apache2.2/modules/mod_python.so into server: \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3 </p>
+<p>十分不解，是版本问题么？请帮助</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-17245" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-17245" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/4aee4f83d2a56e5f05cd98fa5cb70767?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4aee4f83d2a56e5f05cd98fa5cb70767?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">iTiger</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17245">
+							<time datetime="2007-08-20T17:48:57+00:00">
+								2007-08-20, 星期一 17:48							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>modules目录里百分百有mod_python.so</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-17282" class="comment byuser comment-author-admin bypostauthor even thread-even depth-1">
+			<article id="div-comment-17282" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-17282">
+							<time datetime="2007-08-21T23:22:37+00:00">
+								2007-08-21, 星期二 23:22							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>检查一下你的python版本和下载的mod_python模块的版本是否对应。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-36498" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-36498" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/3ec1fb030b54fe0d150ffa332cc38ce3?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/3ec1fb030b54fe0d150ffa332cc38ce3?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">zgw</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-36498">
+							<time datetime="2008-05-22T15:06:18+00:00">
+								2008-05-22, 星期四 15:06							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>我的ScriptAlias配置如下：<br />
+ScriptAlias /mywiki          "C:/Moin/mywiki/moin.cgi"<br />
+始终有如下错误：<br />
+client denied by server configuration: C:/Moin/mywiki/moin.cgi<br />
+不知是什么原因？</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-36526" class="comment byuser comment-author-admin bypostauthor even thread-even depth-1">
+			<article id="div-comment-36526" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f59802989ba79c66a1fc8e96874ddd2?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn"><a href='http://guoyong.org/' rel='external nofollow' class='url'>wolfg</a></b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-36526">
+							<time datetime="2008-05-22T21:40:59+00:00">
+								2008-05-22, 星期四 21:40							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>zgw, 你看看这个是不是能解决你遇到的问题。<br />
+<a href="http://moinmoin.wikiwikiweb.de/MoinMoinQuestions/Installing#head-4419b0c329726497a7eb668cadb6a38073923c24" rel="nofollow">http://moinmoin.wikiwikiweb.de/MoinMoinQuestions/Installing#head-4419b0c329726497a7eb668cadb6a38073923c24</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-51850" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-51850" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/0a30c134ec0f75f5cdb72453bd658a19?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0a30c134ec0f75f5cdb72453bd658a19?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">HiSuth</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-51850">
+							<time datetime="2009-06-27T07:30:53+00:00">
+								2009-06-27, 星期六 07:30							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>博主，请问你的域名http://guoyong.org是怎么获取的，花生壳的专业用户？谢谢：）</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-54391" class="comment even thread-even depth-1">
+			<article id="div-comment-54391" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/828484e8f07a1831f64e5ab2ce6302f1?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/828484e8f07a1831f64e5ab2ce6302f1?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">netz</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-54391">
+							<time datetime="2009-09-23T21:08:18+00:00">
+								2009-09-23, 星期三 21:08							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>按楼主的方法搞掂了。不过要注意，apache2以后的目录权限要设置。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-54484" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-54484" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/df4d955f926119f420eb653fdcbace99?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/df4d955f926119f420eb653fdcbace99?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">笨笨</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-54484">
+							<time datetime="2009-09-28T15:38:17+00:00">
+								2009-09-28, 星期一 15:38							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>看了没成功 机械模仿<br />
+然后看了这个 说了下原理<br />
+<a href="http://fockez.spaces.live.com/blog/cns!AE53FBC9E316EDAC!322.entry" rel="nofollow">http://fockez.spaces.live.com/blog/cns!AE53FBC9E316EDAC!322.entry</a><br />
+智商差不多的就能装上了<br />
+不会调试apache 里面有个log 日志  不正常的可以看里面对的error.log调试。<br />
+win下用UE修改会在文件后面加上/r  修改cgi文件时候还是用vim好。</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-55635" class="comment even thread-even depth-1">
+			<article id="div-comment-55635" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/4c5236fdfda79d9c66650f643ae19aae?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4c5236fdfda79d9c66650f643ae19aae?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />						<b class="fn">杨涛</b><span class="says">说道：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-55635">
+							<time datetime="2010-02-01T19:10:05+00:00">
+								2010-02-01, 星期一 19:10							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>博主，你好，我按照你的配置，访问http://127.0.0.1/mywiki的时候（用ie访问），出现以下的提示<br />
+：Forbidden<br />
+You don't have permission to access /mywiki on this server.<br />
+请问知道怎么解决吗？<br />
+<a href="mailto:yft809@163.com">yft809@163.com</a>  不胜感激</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol>
+
+		
+		<p class="no-comments">Comments are closed.</p>
+	
+        </div><!-- #comments -->
+    </div><!-- .comments-section -->
+</div><!-- #comments-container -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+	
+<aside id="secondary" class="widget-area" role="complementary" aria-label="博客边栏">
+	<section id="search-2" class="widget widget_search">
+
+<form role="search" method="get" class="search-form" action="/">
+	<label for="search-form-5d47a1dc6f2e9">
+		<span class="screen-reader-text">搜索：</span>
+	</label>
+	<input type="search" id="search-form-5d47a1dc6f2e9" class="search-field" placeholder="搜索…" value="" name="s" />
+	<button type="submit" class="search-submit"><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">搜索</span></button>
+</form>
+</section><section id="archives-3" class="widget widget_archive"><h2 class="widget-title">文章归档</h2>		<label class="screen-reader-text" for="archives-dropdown-3">文章归档</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">选择月份</option>
+				<option value='/2018/03/'> 2018年三月 &nbsp;(1)</option>
+	<option value='/2018/01/'> 2018年一月 &nbsp;(1)</option>
+	<option value='/2017/12/'> 2017年十二月 &nbsp;(3)</option>
+	<option value='/2016/04/'> 2016年四月 &nbsp;(2)</option>
+	<option value='/2013/02/'> 2013年二月 &nbsp;(1)</option>
+	<option value='/2013/01/'> 2013年一月 &nbsp;(5)</option>
+	<option value='/2012/11/'> 2012年十一月 &nbsp;(1)</option>
+	<option value='/2012/04/'> 2012年四月 &nbsp;(3)</option>
+	<option value='/2012/03/'> 2012年三月 &nbsp;(12)</option>
+	<option value='/2011/08/'> 2011年八月 &nbsp;(1)</option>
+	<option value='/2011/06/'> 2011年六月 &nbsp;(2)</option>
+	<option value='/2011/04/'> 2011年四月 &nbsp;(1)</option>
+	<option value='/2010/08/'> 2010年八月 &nbsp;(1)</option>
+	<option value='/2010/03/'> 2010年三月 &nbsp;(1)</option>
+	<option value='/2010/02/'> 2010年二月 &nbsp;(1)</option>
+	<option value='/2010/01/'> 2010年一月 &nbsp;(11)</option>
+	<option value='/2009/04/'> 2009年四月 &nbsp;(1)</option>
+	<option value='/2009/03/'> 2009年三月 &nbsp;(1)</option>
+	<option value='/2008/11/'> 2008年十一月 &nbsp;(2)</option>
+	<option value='/2008/07/'> 2008年七月 &nbsp;(1)</option>
+	<option value='/2008/06/'> 2008年六月 &nbsp;(1)</option>
+	<option value='/2008/05/'> 2008年五月 &nbsp;(5)</option>
+	<option value='/2008/02/'> 2008年二月 &nbsp;(1)</option>
+	<option value='/2008/01/'> 2008年一月 &nbsp;(1)</option>
+	<option value='/2007/12/'> 2007年十二月 &nbsp;(2)</option>
+	<option value='/2007/10/'> 2007年十月 &nbsp;(3)</option>
+	<option value='/2007/09/'> 2007年九月 &nbsp;(2)</option>
+	<option value='/2007/08/'> 2007年八月 &nbsp;(6)</option>
+	<option value='/2007/07/'> 2007年七月 &nbsp;(1)</option>
+	<option value='/2007/06/'> 2007年六月 &nbsp;(1)</option>
+	<option value='/2007/05/'> 2007年五月 &nbsp;(6)</option>
+	<option value='/2007/04/'> 2007年四月 &nbsp;(6)</option>
+	<option value='/2007/03/'> 2007年三月 &nbsp;(5)</option>
+	<option value='/2007/02/'> 2007年二月 &nbsp;(1)</option>
+	<option value='/2007/01/'> 2007年一月 &nbsp;(4)</option>
+	<option value='/2006/12/'> 2006年十二月 &nbsp;(3)</option>
+	<option value='/2006/11/'> 2006年十一月 &nbsp;(8)</option>
+	<option value='/2006/10/'> 2006年十月 &nbsp;(6)</option>
+	<option value='/2006/09/'> 2006年九月 &nbsp;(9)</option>
+	<option value='/2006/08/'> 2006年八月 &nbsp;(14)</option>
+	<option value='/2006/07/'> 2006年七月 &nbsp;(19)</option>
+	<option value='/2006/06/'> 2006年六月 &nbsp;(7)</option>
+	<option value='/2006/05/'> 2006年五月 &nbsp;(4)</option>
+	<option value='/2006/04/'> 2006年四月 &nbsp;(6)</option>
+	<option value='/2006/03/'> 2006年三月 &nbsp;(13)</option>
+	<option value='/2006/02/'> 2006年二月 &nbsp;(5)</option>
+	<option value='/2006/01/'> 2006年一月 &nbsp;(4)</option>
+	<option value='/2005/12/'> 2005年十二月 &nbsp;(11)</option>
+	<option value='/2005/11/'> 2005年十一月 &nbsp;(4)</option>
+	<option value='/2005/10/'> 2005年十月 &nbsp;(7)</option>
+
+		</select>
+		</section><section id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widget-title">标签</h2><div class="tagcloud"><ul class='wp-tag-cloud' role='list'>
+	<li><a href="/tag/770/" class="tag-cloud-link tag-link-58 tag-link-position-1" style="font-size: 1em;">770</a></li>
+	<li><a href="/tag/bluetooth/" class="tag-cloud-link tag-link-99 tag-link-position-2" style="font-size: 1em;">bluetooth</a></li>
+	<li><a href="/tag/cacti/" class="tag-cloud-link tag-link-111 tag-link-position-3" style="font-size: 1em;">cacti</a></li>
+	<li><a href="/tag/chinaunix/" class="tag-cloud-link tag-link-76 tag-link-position-4" style="font-size: 1em;">chinaunix</a></li>
+	<li><a href="/tag/close_wait/" class="tag-cloud-link tag-link-140 tag-link-position-5" style="font-size: 1em;">CLOSE_WAIT</a></li>
+	<li><a href="/tag/debian/" class="tag-cloud-link tag-link-62 tag-link-position-6" style="font-size: 1em;">debian</a></li>
+	<li><a href="/tag/eclipse/" class="tag-cloud-link tag-link-70 tag-link-position-7" style="font-size: 1em;">eclipse</a></li>
+	<li><a href="/tag/firefox-extension/" class="tag-cloud-link tag-link-77 tag-link-position-8" style="font-size: 1em;">firefox extension</a></li>
+	<li><a href="/tag/fluxbox/" class="tag-cloud-link tag-link-182 tag-link-position-9" style="font-size: 1em;">fluxbox</a></li>
+	<li><a href="/tag/font/" class="tag-cloud-link tag-link-75 tag-link-position-10" style="font-size: 1em;">font</a></li>
+	<li><a href="/tag/google/" class="tag-cloud-link tag-link-66 tag-link-position-11" style="font-size: 1em;">google</a></li>
+	<li><a href="/tag/httpclient/" class="tag-cloud-link tag-link-142 tag-link-position-12" style="font-size: 1em;">HttpClient</a></li>
+	<li><a href="/tag/input-method/" class="tag-cloud-link tag-link-60 tag-link-position-13" style="font-size: 1em;">input method</a></li>
+	<li><a href="/tag/java/" class="tag-cloud-link tag-link-42 tag-link-position-14" style="font-size: 1em;">Java</a></li>
+	<li><a href="/tag/jetty/" class="tag-cloud-link tag-link-85 tag-link-position-15" style="font-size: 1em;">jetty</a></li>
+	<li><a href="/tag/jvm/" class="tag-cloud-link tag-link-145 tag-link-position-16" style="font-size: 1em;">jvm</a></li>
+	<li><a href="/tag/latex/" class="tag-cloud-link tag-link-130 tag-link-position-17" style="font-size: 1em;">latex</a></li>
+	<li><a href="/tag/linux/" class="tag-cloud-link tag-link-231 tag-link-position-18" style="font-size: 1em;">Linux</a></li>
+	<li><a href="/tag/maemo/" class="tag-cloud-link tag-link-37 tag-link-position-19" style="font-size: 1em;">maemo</a></li>
+	<li><a href="/tag/maemocjk/" class="tag-cloud-link tag-link-65 tag-link-position-20" style="font-size: 1em;">maemocjk</a></li>
+	<li><a href="/tag/maven/" class="tag-cloud-link tag-link-51 tag-link-position-21" style="font-size: 1em;">maven</a></li>
+	<li><a href="/tag/mysql/" class="tag-cloud-link tag-link-49 tag-link-position-22" style="font-size: 1em;">mysql</a></li>
+	<li><a href="/tag/n800/" class="tag-cloud-link tag-link-55 tag-link-position-23" style="font-size: 1em;">n800</a></li>
+	<li><a href="/tag/nagios/" class="tag-cloud-link tag-link-112 tag-link-position-24" style="font-size: 1em;">nagios</a></li>
+	<li><a href="/tag/nginx/" class="tag-cloud-link tag-link-116 tag-link-position-25" style="font-size: 1em;">nginx</a></li>
+	<li><a href="/tag/nokia/" class="tag-cloud-link tag-link-54 tag-link-position-26" style="font-size: 1em;">nokia</a></li>
+	<li><a href="/tag/postfix/" class="tag-cloud-link tag-link-47 tag-link-position-27" style="font-size: 1em;">postfix</a></li>
+	<li><a href="/tag/python/" class="tag-cloud-link tag-link-230 tag-link-position-28" style="font-size: 1em;">Python</a></li>
+	<li><a href="/tag/raspberry-pi/" class="tag-cloud-link tag-link-223 tag-link-position-29" style="font-size: 1em;">raspberry pi</a></li>
+	<li><a href="/tag/scim/" class="tag-cloud-link tag-link-68 tag-link-position-30" style="font-size: 1em;">scim</a></li>
+	<li><a href="/tag/smtp/" class="tag-cloud-link tag-link-48 tag-link-position-31" style="font-size: 1em;">smtp</a></li>
+	<li><a href="/tag/stardict/" class="tag-cloud-link tag-link-57 tag-link-position-32" style="font-size: 1em;">stardict</a></li>
+	<li><a href="/tag/symbian/" class="tag-cloud-link tag-link-38 tag-link-position-33" style="font-size: 1em;">Symbian</a></li>
+	<li><a href="/tag/t43/" class="tag-cloud-link tag-link-126 tag-link-position-34" style="font-size: 1em;">T43</a></li>
+	<li><a href="/tag/tcp/" class="tag-cloud-link tag-link-141 tag-link-position-35" style="font-size: 1em;">tcp</a></li>
+	<li><a href="/tag/tex/" class="tag-cloud-link tag-link-129 tag-link-position-36" style="font-size: 1em;">tex</a></li>
+	<li><a href="/tag/theme/" class="tag-cloud-link tag-link-73 tag-link-position-37" style="font-size: 1em;">theme</a></li>
+	<li><a href="/tag/ubuntu/" class="tag-cloud-link tag-link-39 tag-link-position-38" style="font-size: 1em;">ubuntu</a></li>
+	<li><a href="/tag/vmdk/" class="tag-cloud-link tag-link-156 tag-link-position-39" style="font-size: 1em;">vmdk</a></li>
+	<li><a href="/tag/vmware/" class="tag-cloud-link tag-link-136 tag-link-position-40" style="font-size: 1em;">vmware</a></li>
+	<li><a href="/tag/vmware-player/" class="tag-cloud-link tag-link-135 tag-link-position-41" style="font-size: 1em;">vmware-player</a></li>
+	<li><a href="/tag/wordpress/" class="tag-cloud-link tag-link-40 tag-link-position-42" style="font-size: 1em;">wordpress</a></li>
+	<li><a href="/tag/xfce/" class="tag-cloud-link tag-link-82 tag-link-position-43" style="font-size: 1em;">xfce</a></li>
+	<li><a href="/tag/%e7%9b%91%e6%8e%a7/" class="tag-cloud-link tag-link-149 tag-link-position-44" style="font-size: 1em;">监控</a></li>
+	<li><a href="/tag/%e8%bf%90%e7%bb%b4/" class="tag-cloud-link tag-link-148 tag-link-position-45" style="font-size: 1em;">运维</a></li>
+</ul>
+</div>
+</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">功能</h2>			<ul>
+						<li><a href="/blog/wp-login.php">登录</a></li>
+			<li><a href="/feed/">文章<abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="/comments/feed/">评论<abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://cn.wordpress.org/" title="基于WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a></li>			</ul>
+			</section></aside><!-- #secondary -->
+</div><!-- .wrap -->
+
+
+		</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="wrap">
+				
+					<nav class="social-navigation" role="navigation" aria-label="页脚社交链接菜单">
+						<div class="menu-%e4%b8%bb%e5%af%bc%e8%88%aa-container"><ul id="menu-%e4%b8%bb%e5%af%bc%e8%88%aa" class="social-links-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-993"><a href="/"><span class="screen-reader-text">Home</span><svg class="icon icon-chain" aria-hidden="true" role="img"> <use href="#icon-chain" xlink:href="#icon-chain"></use> </svg></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="/about/"><span class="screen-reader-text">About</span><svg class="icon icon-chain" aria-hidden="true" role="img"> <use href="#icon-chain" xlink:href="#icon-chain"></use> </svg></a></li>
+</ul></div>					</nav><!-- .social-navigation -->
+				<div class="site-info">
+	<a href="https://wordpress.org/">Powered by WordPress / </a> <a href="https://www.websitehelper.co.uk/">Theme by Website Helper</a>
+</div><!-- .site-info -->
+			</div><!-- .wrap -->
+		</footer><!-- #colophon -->
+	</div><!-- .site-content-contain -->
+</div><!-- #page -->
+	<div style="display:none">
+	<div class="grofile-hash-map-d1cbc4076770e5d066c4753524703039">
+	</div>
+	<div class="grofile-hash-map-6f59802989ba79c66a1fc8e96874ddd2">
+	</div>
+	<div class="grofile-hash-map-6f59802989ba79c66a1fc8e96874ddd2">
+	</div>
+	<div class="grofile-hash-map-d6325d1d886c291a3cc29d3030108252">
+	</div>
+	<div class="grofile-hash-map-0f2dc1c2a0500124ca985d98683165bf">
+	</div>
+	<div class="grofile-hash-map-9d64829c391853eb837d5f7ffbb2c056">
+	</div>
+	<div class="grofile-hash-map-7007412b6cc28341a53288fce73243c5">
+	</div>
+	<div class="grofile-hash-map-7b66982d0bb7f6dab8a80e46c17581ed">
+	</div>
+	<div class="grofile-hash-map-4aee4f83d2a56e5f05cd98fa5cb70767">
+	</div>
+	<div class="grofile-hash-map-3ec1fb030b54fe0d150ffa332cc38ce3">
+	</div>
+	<div class="grofile-hash-map-0a30c134ec0f75f5cdb72453bd658a19">
+	</div>
+	<div class="grofile-hash-map-828484e8f07a1831f64e5ab2ce6302f1">
+	</div>
+	<div class="grofile-hash-map-02f0f54c9ddedc6820063027c093f5ff">
+	</div>
+	<div class="grofile-hash-map-4c5236fdfda79d9c66650f643ae19aae">
+	</div>
+	</div>
+<script type='text/javascript' src='/blog/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/blog/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/blog/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/blog/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201932'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Augaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/blog/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-right\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-quote-right\" xlink:href=\"#icon-quote-right\"><\/use> <\/svg>","expand":"\u5c55\u5f00\u5b50\u83dc\u5355","collapse":"\u6298\u53e0\u5b50\u83dc\u5355","icon":"<svg class=\"icon icon-angle-down\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-angle-down\" xlink:href=\"#icon-angle-down\"><\/use> <span class=\"svg-fallback icon-angle-down\"><\/span><\/svg>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/blog/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=1.0'></script>
+<script type='text/javascript' src='/blog/wp-content/themes/twentyseventeen/assets/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='/blog/wp-content/themes/twentyseventeen/assets/js/global.js?ver=1.0'></script>
+<script type='text/javascript' src='/blog/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2'></script>
+<script type='text/javascript' src='/blog/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201932.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.9',blog:'33683156',post:'163',tz:'8',srv:'guoyong.me'} ]);
+	_stq.push([ 'clickTrackerInit', '33683156', '163' ]);
+</script>
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-behance" viewbox="0 0 37 32">
+<path class="path1" d="M33 6.054h-9.125v2.214h9.125v-2.214zM28.5 13.661q-1.607 0-2.607 0.938t-1.107 2.545h7.286q-0.321-3.482-3.571-3.482zM28.786 24.107q1.125 0 2.179-0.571t1.357-1.554h3.946q-1.786 5.482-7.625 5.482-3.821 0-6.080-2.357t-2.259-6.196q0-3.714 2.33-6.17t6.009-2.455q2.464 0 4.295 1.214t2.732 3.196 0.902 4.429q0 0.304-0.036 0.839h-11.75q0 1.982 1.027 3.063t2.973 1.080zM4.946 23.214h5.286q3.661 0 3.661-2.982 0-3.214-3.554-3.214h-5.393v6.196zM4.946 13.625h5.018q1.393 0 2.205-0.652t0.813-2.027q0-2.571-3.393-2.571h-4.643v5.25zM0 4.536h10.607q1.554 0 2.768 0.25t2.259 0.848 1.607 1.723 0.563 2.75q0 3.232-3.071 4.696 2.036 0.571 3.071 2.054t1.036 3.643q0 1.339-0.438 2.438t-1.179 1.848-1.759 1.268-2.161 0.75-2.393 0.232h-10.911v-22.5z"></path>
+</symbol>
+<symbol id="icon-deviantart" viewbox="0 0 18 32">
+<path class="path1" d="M18.286 5.411l-5.411 10.393 0.429 0.554h4.982v7.411h-9.054l-0.786 0.536-2.536 4.875-0.536 0.536h-5.375v-5.411l5.411-10.411-0.429-0.536h-4.982v-7.411h9.054l0.786-0.536 2.536-4.875 0.536-0.536h5.375v5.411z"></path>
+</symbol>
+<symbol id="icon-medium" viewbox="0 0 32 32">
+<path class="path1" d="M10.661 7.518v20.946q0 0.446-0.223 0.759t-0.652 0.313q-0.304 0-0.589-0.143l-8.304-4.161q-0.375-0.179-0.634-0.598t-0.259-0.83v-20.357q0-0.357 0.179-0.607t0.518-0.25q0.25 0 0.786 0.268l9.125 4.571q0.054 0.054 0.054 0.089zM11.804 9.321l9.536 15.464-9.536-4.75v-10.714zM32 9.643v18.821q0 0.446-0.25 0.723t-0.679 0.277-0.839-0.232l-7.875-3.929zM31.946 7.5q0 0.054-4.58 7.491t-5.366 8.705l-6.964-11.321 5.786-9.411q0.304-0.5 0.929-0.5 0.25 0 0.464 0.107l9.661 4.821q0.071 0.036 0.071 0.107z"></path>
+</symbol>
+<symbol id="icon-slideshare" viewbox="0 0 32 32">
+<path class="path1" d="M15.589 13.214q0 1.482-1.134 2.545t-2.723 1.063-2.723-1.063-1.134-2.545q0-1.5 1.134-2.554t2.723-1.054 2.723 1.054 1.134 2.554zM24.554 13.214q0 1.482-1.125 2.545t-2.732 1.063q-1.589 0-2.723-1.063t-1.134-2.545q0-1.5 1.134-2.554t2.723-1.054q1.607 0 2.732 1.054t1.125 2.554zM28.571 16.429v-11.911q0-1.554-0.571-2.205t-1.982-0.652h-19.857q-1.482 0-2.009 0.607t-0.527 2.25v12.018q0.768 0.411 1.58 0.714t1.446 0.5 1.446 0.33 1.268 0.196 1.25 0.071 1.045 0.009 1.009-0.036 0.795-0.036q1.214-0.018 1.696 0.482 0.107 0.107 0.179 0.161 0.464 0.446 1.089 0.911 0.125-1.625 2.107-1.554 0.089 0 0.652 0.027t0.768 0.036 0.813 0.018 0.946-0.018 0.973-0.080 1.089-0.152 1.107-0.241 1.196-0.348 1.205-0.482 1.286-0.616zM31.482 16.339q-2.161 2.661-6.643 4.5 1.5 5.089-0.411 8.304-1.179 2.018-3.268 2.643-1.857 0.571-3.25-0.268-1.536-0.911-1.464-2.929l-0.018-5.821v-0.018q-0.143-0.036-0.438-0.107t-0.42-0.089l-0.018 6.036q0.071 2.036-1.482 2.929-1.411 0.839-3.268 0.268-2.089-0.643-3.25-2.679-1.875-3.214-0.393-8.268-4.482-1.839-6.643-4.5-0.446-0.661-0.071-1.125t1.071 0.018q0.054 0.036 0.196 0.125t0.196 0.143v-12.393q0-1.286 0.839-2.196t2.036-0.911h22.446q1.196 0 2.036 0.911t0.839 2.196v12.393l0.375-0.268q0.696-0.482 1.071-0.018t-0.071 1.125z"></path>
+</symbol>
+<symbol id="icon-snapchat-ghost" viewbox="0 0 30 32">
+<path class="path1" d="M15.143 2.286q2.393-0.018 4.295 1.223t2.92 3.438q0.482 1.036 0.482 3.196 0 0.839-0.161 3.411 0.25 0.125 0.5 0.125 0.321 0 0.911-0.241t0.911-0.241q0.518 0 1 0.321t0.482 0.821q0 0.571-0.563 0.964t-1.232 0.563-1.232 0.518-0.563 0.848q0 0.268 0.214 0.768 0.661 1.464 1.83 2.679t2.58 1.804q0.5 0.214 1.429 0.411 0.5 0.107 0.5 0.625 0 1.25-3.911 1.839-0.125 0.196-0.196 0.696t-0.25 0.83-0.589 0.33q-0.357 0-1.107-0.116t-1.143-0.116q-0.661 0-1.107 0.089-0.571 0.089-1.125 0.402t-1.036 0.679-1.036 0.723-1.357 0.598-1.768 0.241q-0.929 0-1.723-0.241t-1.339-0.598-1.027-0.723-1.036-0.679-1.107-0.402q-0.464-0.089-1.125-0.089-0.429 0-1.17 0.134t-1.045 0.134q-0.446 0-0.625-0.33t-0.25-0.848-0.196-0.714q-3.911-0.589-3.911-1.839 0-0.518 0.5-0.625 0.929-0.196 1.429-0.411 1.393-0.571 2.58-1.804t1.83-2.679q0.214-0.5 0.214-0.768 0-0.5-0.563-0.848t-1.241-0.527-1.241-0.563-0.563-0.938q0-0.482 0.464-0.813t0.982-0.33q0.268 0 0.857 0.232t0.946 0.232q0.321 0 0.571-0.125-0.161-2.536-0.161-3.393 0-2.179 0.482-3.214 1.143-2.446 3.071-3.536t4.714-1.125z"></path>
+</symbol>
+<symbol id="icon-yelp" viewbox="0 0 27 32">
+<path class="path1" d="M13.804 23.554v2.268q-0.018 5.214-0.107 5.446-0.214 0.571-0.911 0.714-0.964 0.161-3.241-0.679t-2.902-1.589q-0.232-0.268-0.304-0.643-0.018-0.214 0.071-0.464 0.071-0.179 0.607-0.839t3.232-3.857q0.018 0 1.071-1.25 0.268-0.339 0.705-0.438t0.884 0.063q0.429 0.179 0.67 0.518t0.223 0.75zM11.143 19.071q-0.054 0.982-0.929 1.25l-2.143 0.696q-4.911 1.571-5.214 1.571-0.625-0.036-0.964-0.643-0.214-0.446-0.304-1.339-0.143-1.357 0.018-2.973t0.536-2.223 1-0.571q0.232 0 3.607 1.375 1.25 0.518 2.054 0.839l1.5 0.607q0.411 0.161 0.634 0.545t0.205 0.866zM25.893 24.375q-0.125 0.964-1.634 2.875t-2.42 2.268q-0.661 0.25-1.125-0.125-0.25-0.179-3.286-5.125l-0.839-1.375q-0.25-0.375-0.205-0.821t0.348-0.821q0.625-0.768 1.482-0.464 0.018 0.018 2.125 0.714 3.625 1.179 4.321 1.42t0.839 0.366q0.5 0.393 0.393 1.089zM13.893 13.089q0.089 1.821-0.964 2.179-1.036 0.304-2.036-1.268l-6.75-10.679q-0.143-0.625 0.339-1.107 0.732-0.768 3.705-1.598t4.009-0.563q0.714 0.179 0.875 0.804 0.054 0.321 0.393 5.455t0.429 6.777zM25.714 15.018q0.054 0.696-0.464 1.054-0.268 0.179-5.875 1.536-1.196 0.268-1.625 0.411l0.018-0.036q-0.411 0.107-0.821-0.071t-0.661-0.571q-0.536-0.839 0-1.554 0.018-0.018 1.339-1.821 2.232-3.054 2.679-3.643t0.607-0.696q0.5-0.339 1.161-0.036 0.857 0.411 2.196 2.384t1.446 2.991v0.054z"></path>
+</symbol>
+<symbol id="icon-vine" viewbox="0 0 27 32">
+<path class="path1" d="M26.732 14.768v3.536q-1.804 0.411-3.536 0.411-1.161 2.429-2.955 4.839t-3.241 3.848-2.286 1.902q-1.429 0.804-2.893-0.054-0.5-0.304-1.080-0.777t-1.518-1.491-1.83-2.295-1.92-3.286-1.884-4.357-1.634-5.616-1.259-6.964h5.054q0.464 3.893 1.25 7.116t1.866 5.661 2.17 4.205 2.5 3.482q3.018-3.018 5.125-7.25-2.536-1.286-3.982-3.929t-1.446-5.946q0-3.429 1.857-5.616t5.071-2.188q3.179 0 4.875 1.884t1.696 5.313q0 2.839-1.036 5.107-0.125 0.018-0.348 0.054t-0.821 0.036-1.125-0.107-1.107-0.455-0.902-0.92q0.554-1.839 0.554-3.286 0-1.554-0.518-2.357t-1.411-0.804q-0.946 0-1.518 0.884t-0.571 2.509q0 3.321 1.875 5.241t4.768 1.92q1.107 0 2.161-0.25z"></path>
+</symbol>
+<symbol id="icon-vk" viewbox="0 0 35 32">
+<path class="path1" d="M34.232 9.286q0.411 1.143-2.679 5.25-0.429 0.571-1.161 1.518-1.393 1.786-1.607 2.339-0.304 0.732 0.25 1.446 0.304 0.375 1.446 1.464h0.018l0.071 0.071q2.518 2.339 3.411 3.946 0.054 0.089 0.116 0.223t0.125 0.473-0.009 0.607-0.446 0.491-1.054 0.223l-4.571 0.071q-0.429 0.089-1-0.089t-0.929-0.393l-0.357-0.214q-0.536-0.375-1.25-1.143t-1.223-1.384-1.089-1.036-1.009-0.277q-0.054 0.018-0.143 0.063t-0.304 0.259-0.384 0.527-0.304 0.929-0.116 1.384q0 0.268-0.063 0.491t-0.134 0.33l-0.071 0.089q-0.321 0.339-0.946 0.393h-2.054q-1.268 0.071-2.607-0.295t-2.348-0.946-1.839-1.179-1.259-1.027l-0.446-0.429q-0.179-0.179-0.491-0.536t-1.277-1.625-1.893-2.696-2.188-3.768-2.33-4.857q-0.107-0.286-0.107-0.482t0.054-0.286l0.071-0.107q0.268-0.339 1.018-0.339l4.893-0.036q0.214 0.036 0.411 0.116t0.286 0.152l0.089 0.054q0.286 0.196 0.429 0.571 0.357 0.893 0.821 1.848t0.732 1.455l0.286 0.518q0.518 1.071 1 1.857t0.866 1.223 0.741 0.688 0.607 0.25 0.482-0.089q0.036-0.018 0.089-0.089t0.214-0.393 0.241-0.839 0.17-1.446 0-2.232q-0.036-0.714-0.161-1.304t-0.25-0.821l-0.107-0.214q-0.446-0.607-1.518-0.768-0.232-0.036 0.089-0.429 0.304-0.339 0.679-0.536 0.946-0.464 4.268-0.429 1.464 0.018 2.411 0.232 0.357 0.089 0.598 0.241t0.366 0.429 0.188 0.571 0.063 0.813-0.018 0.982-0.045 1.259-0.027 1.473q0 0.196-0.018 0.75t-0.009 0.857 0.063 0.723 0.205 0.696 0.402 0.438q0.143 0.036 0.304 0.071t0.464-0.196 0.679-0.616 0.929-1.196 1.214-1.92q1.071-1.857 1.911-4.018 0.071-0.179 0.179-0.313t0.196-0.188l0.071-0.054 0.089-0.045t0.232-0.054 0.357-0.009l5.143-0.036q0.696-0.089 1.143 0.045t0.554 0.295z"></path>
+</symbol>
+<symbol id="icon-search" viewbox="0 0 30 32">
+<path class="path1" d="M20.571 14.857q0-3.304-2.348-5.652t-5.652-2.348-5.652 2.348-2.348 5.652 2.348 5.652 5.652 2.348 5.652-2.348 2.348-5.652zM29.714 29.714q0 0.929-0.679 1.607t-1.607 0.679q-0.964 0-1.607-0.679l-6.125-6.107q-3.196 2.214-7.125 2.214-2.554 0-4.884-0.991t-4.018-2.679-2.679-4.018-0.991-4.884 0.991-4.884 2.679-4.018 4.018-2.679 4.884-0.991 4.884 0.991 4.018 2.679 2.679 4.018 0.991 4.884q0 3.929-2.214 7.125l6.125 6.125q0.661 0.661 0.661 1.607z"></path>
+</symbol>
+<symbol id="icon-envelope-o" viewbox="0 0 32 32">
+<path class="path1" d="M29.714 26.857v-13.714q-0.571 0.643-1.232 1.179-4.786 3.679-7.607 6.036-0.911 0.768-1.482 1.196t-1.545 0.866-1.83 0.438h-0.036q-0.857 0-1.83-0.438t-1.545-0.866-1.482-1.196q-2.821-2.357-7.607-6.036-0.661-0.536-1.232-1.179v13.714q0 0.232 0.17 0.402t0.402 0.17h26.286q0.232 0 0.402-0.17t0.17-0.402zM29.714 8.089v-0.438t-0.009-0.232-0.054-0.223-0.098-0.161-0.161-0.134-0.25-0.045h-26.286q-0.232 0-0.402 0.17t-0.17 0.402q0 3 2.625 5.071 3.446 2.714 7.161 5.661 0.107 0.089 0.625 0.527t0.821 0.67 0.795 0.563 0.902 0.491 0.768 0.161h0.036q0.357 0 0.768-0.161t0.902-0.491 0.795-0.563 0.821-0.67 0.625-0.527q3.714-2.946 7.161-5.661 0.964-0.768 1.795-2.063t0.83-2.348zM32 7.429v19.429q0 1.179-0.839 2.018t-2.018 0.839h-26.286q-1.179 0-2.018-0.839t-0.839-2.018v-19.429q0-1.179 0.839-2.018t2.018-0.839h26.286q1.179 0 2.018 0.839t0.839 2.018z"></path>
+</symbol>
+<symbol id="icon-close" viewbox="0 0 25 32">
+<path class="path1" d="M23.179 23.607q0 0.714-0.5 1.214l-2.429 2.429q-0.5 0.5-1.214 0.5t-1.214-0.5l-5.25-5.25-5.25 5.25q-0.5 0.5-1.214 0.5t-1.214-0.5l-2.429-2.429q-0.5-0.5-0.5-1.214t0.5-1.214l5.25-5.25-5.25-5.25q-0.5-0.5-0.5-1.214t0.5-1.214l2.429-2.429q0.5-0.5 1.214-0.5t1.214 0.5l5.25 5.25 5.25-5.25q0.5-0.5 1.214-0.5t1.214 0.5l2.429 2.429q0.5 0.5 0.5 1.214t-0.5 1.214l-5.25 5.25 5.25 5.25q0.5 0.5 0.5 1.214z"></path>
+</symbol>
+<symbol id="icon-angle-down" viewbox="0 0 21 32">
+<path class="path1" d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path>
+</symbol>
+<symbol id="icon-folder-open" viewbox="0 0 34 32">
+<path class="path1" d="M33.554 17q0 0.554-0.554 1.179l-6 7.071q-0.768 0.911-2.152 1.545t-2.563 0.634h-19.429q-0.607 0-1.080-0.232t-0.473-0.768q0-0.554 0.554-1.179l6-7.071q0.768-0.911 2.152-1.545t2.563-0.634h19.429q0.607 0 1.080 0.232t0.473 0.768zM27.429 10.857v2.857h-14.857q-1.679 0-3.518 0.848t-2.929 2.134l-6.107 7.179q0-0.071-0.009-0.223t-0.009-0.223v-17.143q0-1.643 1.179-2.821t2.821-1.179h5.714q1.643 0 2.821 1.179t1.179 2.821v0.571h9.714q1.643 0 2.821 1.179t1.179 2.821z"></path>
+</symbol>
+<symbol id="icon-twitter" viewbox="0 0 30 32">
+<path class="path1" d="M28.929 7.286q-1.196 1.75-2.893 2.982 0.018 0.25 0.018 0.75 0 2.321-0.679 4.634t-2.063 4.437-3.295 3.759-4.607 2.607-5.768 0.973q-4.839 0-8.857-2.589 0.625 0.071 1.393 0.071 4.018 0 7.161-2.464-1.875-0.036-3.357-1.152t-2.036-2.848q0.589 0.089 1.089 0.089 0.768 0 1.518-0.196-2-0.411-3.313-1.991t-1.313-3.67v-0.071q1.214 0.679 2.607 0.732-1.179-0.786-1.875-2.054t-0.696-2.75q0-1.571 0.786-2.911 2.161 2.661 5.259 4.259t6.634 1.777q-0.143-0.679-0.143-1.321 0-2.393 1.688-4.080t4.080-1.688q2.5 0 4.214 1.821 1.946-0.375 3.661-1.393-0.661 2.054-2.536 3.179 1.661-0.179 3.321-0.893z"></path>
+</symbol>
+<symbol id="icon-facebook" viewbox="0 0 19 32">
+<path class="path1" d="M17.125 0.214v4.714h-2.804q-1.536 0-2.071 0.643t-0.536 1.929v3.375h5.232l-0.696 5.286h-4.536v13.554h-5.464v-13.554h-4.554v-5.286h4.554v-3.893q0-3.321 1.857-5.152t4.946-1.83q2.625 0 4.071 0.214z"></path>
+</symbol>
+<symbol id="icon-github" viewbox="0 0 27 32">
+<path class="path1" d="M13.714 2.286q3.732 0 6.884 1.839t4.991 4.991 1.839 6.884q0 4.482-2.616 8.063t-6.759 4.955q-0.482 0.089-0.714-0.125t-0.232-0.536q0-0.054 0.009-1.366t0.009-2.402q0-1.732-0.929-2.536 1.018-0.107 1.83-0.321t1.679-0.696 1.446-1.188 0.946-1.875 0.366-2.688q0-2.125-1.411-3.679 0.661-1.625-0.143-3.643-0.5-0.161-1.446 0.196t-1.643 0.786l-0.679 0.429q-1.661-0.464-3.429-0.464t-3.429 0.464q-0.286-0.196-0.759-0.482t-1.491-0.688-1.518-0.241q-0.804 2.018-0.143 3.643-1.411 1.554-1.411 3.679 0 1.518 0.366 2.679t0.938 1.875 1.438 1.196 1.679 0.696 1.83 0.321q-0.696 0.643-0.875 1.839-0.375 0.179-0.804 0.268t-1.018 0.089-1.17-0.384-0.991-1.116q-0.339-0.571-0.866-0.929t-0.884-0.429l-0.357-0.054q-0.375 0-0.518 0.080t-0.089 0.205 0.161 0.25 0.232 0.214l0.125 0.089q0.393 0.179 0.777 0.679t0.563 0.911l0.179 0.411q0.232 0.679 0.786 1.098t1.196 0.536 1.241 0.125 0.991-0.063l0.411-0.071q0 0.679 0.009 1.58t0.009 0.973q0 0.321-0.232 0.536t-0.714 0.125q-4.143-1.375-6.759-4.955t-2.616-8.063q0-3.732 1.839-6.884t4.991-4.991 6.884-1.839zM5.196 21.982q0.054-0.125-0.125-0.214-0.179-0.054-0.232 0.036-0.054 0.125 0.125 0.214 0.161 0.107 0.232-0.036zM5.75 22.589q0.125-0.089-0.036-0.286-0.179-0.161-0.286-0.054-0.125 0.089 0.036 0.286 0.179 0.179 0.286 0.054zM6.286 23.393q0.161-0.125 0-0.339-0.143-0.232-0.304-0.107-0.161 0.089 0 0.321t0.304 0.125zM7.036 24.143q0.143-0.143-0.071-0.339-0.214-0.214-0.357-0.054-0.161 0.143 0.071 0.339 0.214 0.214 0.357 0.054zM8.054 24.589q0.054-0.196-0.232-0.286-0.268-0.071-0.339 0.125t0.232 0.268q0.268 0.107 0.339-0.107zM9.179 24.679q0-0.232-0.304-0.196-0.286 0-0.286 0.196 0 0.232 0.304 0.196 0.286 0 0.286-0.196zM10.214 24.5q-0.036-0.196-0.321-0.161-0.286 0.054-0.25 0.268t0.321 0.143 0.25-0.25z"></path>
+</symbol>
+<symbol id="icon-bars" viewbox="0 0 27 32">
+<path class="path1" d="M27.429 24v2.286q0 0.464-0.339 0.804t-0.804 0.339h-25.143q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h25.143q0.464 0 0.804 0.339t0.339 0.804zM27.429 14.857v2.286q0 0.464-0.339 0.804t-0.804 0.339h-25.143q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h25.143q0.464 0 0.804 0.339t0.339 0.804zM27.429 5.714v2.286q0 0.464-0.339 0.804t-0.804 0.339h-25.143q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h25.143q0.464 0 0.804 0.339t0.339 0.804z"></path>
+</symbol>
+<symbol id="icon-google-plus" viewbox="0 0 41 32">
+<path class="path1" d="M25.661 16.304q0 3.714-1.554 6.616t-4.429 4.536-6.589 1.634q-2.661 0-5.089-1.036t-4.179-2.786-2.786-4.179-1.036-5.089 1.036-5.089 2.786-4.179 4.179-2.786 5.089-1.036q5.107 0 8.768 3.429l-3.554 3.411q-2.089-2.018-5.214-2.018-2.196 0-4.063 1.107t-2.955 3.009-1.089 4.152 1.089 4.152 2.955 3.009 4.063 1.107q1.482 0 2.723-0.411t2.045-1.027 1.402-1.402 0.875-1.482 0.384-1.321h-7.429v-4.5h12.357q0.214 1.125 0.214 2.179zM41.143 14.125v3.75h-3.732v3.732h-3.75v-3.732h-3.732v-3.75h3.732v-3.732h3.75v3.732h3.732z"></path>
+</symbol>
+<symbol id="icon-linkedin" viewbox="0 0 27 32">
+<path class="path1" d="M6.232 11.161v17.696h-5.893v-17.696h5.893zM6.607 5.696q0.018 1.304-0.902 2.179t-2.42 0.875h-0.036q-1.464 0-2.357-0.875t-0.893-2.179q0-1.321 0.92-2.188t2.402-0.866 2.375 0.866 0.911 2.188zM27.429 18.714v10.143h-5.875v-9.464q0-1.875-0.723-2.938t-2.259-1.063q-1.125 0-1.884 0.616t-1.134 1.527q-0.196 0.536-0.196 1.446v9.875h-5.875q0.036-7.125 0.036-11.554t-0.018-5.286l-0.018-0.857h5.875v2.571h-0.036q0.357-0.571 0.732-1t1.009-0.929 1.554-0.777 2.045-0.277q3.054 0 4.911 2.027t1.857 5.938z"></path>
+</symbol>
+<symbol id="icon-quote-right" viewbox="0 0 30 32">
+<path class="path1" d="M13.714 5.714v12.571q0 1.857-0.723 3.545t-1.955 2.92-2.92 1.955-3.545 0.723h-1.143q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h1.143q1.893 0 3.232-1.339t1.339-3.232v-0.571q0-0.714-0.5-1.214t-1.214-0.5h-4q-1.429 0-2.429-1t-1-2.429v-6.857q0-1.429 1-2.429t2.429-1h6.857q1.429 0 2.429 1t1 2.429zM29.714 5.714v12.571q0 1.857-0.723 3.545t-1.955 2.92-2.92 1.955-3.545 0.723h-1.143q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h1.143q1.893 0 3.232-1.339t1.339-3.232v-0.571q0-0.714-0.5-1.214t-1.214-0.5h-4q-1.429 0-2.429-1t-1-2.429v-6.857q0-1.429 1-2.429t2.429-1h6.857q1.429 0 2.429 1t1 2.429z"></path>
+</symbol>
+<symbol id="icon-mail-reply" viewbox="0 0 32 32">
+<path class="path1" d="M32 20q0 2.964-2.268 8.054-0.054 0.125-0.188 0.429t-0.241 0.536-0.232 0.393q-0.214 0.304-0.5 0.304-0.268 0-0.42-0.179t-0.152-0.446q0-0.161 0.045-0.473t0.045-0.42q0.089-1.214 0.089-2.196 0-1.804-0.313-3.232t-0.866-2.473-1.429-1.804-1.884-1.241-2.375-0.759-2.75-0.384-3.134-0.107h-4v4.571q0 0.464-0.339 0.804t-0.804 0.339-0.804-0.339l-9.143-9.143q-0.339-0.339-0.339-0.804t0.339-0.804l9.143-9.143q0.339-0.339 0.804-0.339t0.804 0.339 0.339 0.804v4.571h4q12.732 0 15.625 7.196 0.946 2.393 0.946 5.946z"></path>
+</symbol>
+<symbol id="icon-youtube" viewbox="0 0 27 32">
+<path class="path1" d="M17.339 22.214v3.768q0 1.196-0.696 1.196-0.411 0-0.804-0.393v-5.375q0.393-0.393 0.804-0.393 0.696 0 0.696 1.196zM23.375 22.232v0.821h-1.607v-0.821q0-1.214 0.804-1.214t0.804 1.214zM6.125 18.339h1.911v-1.679h-5.571v1.679h1.875v10.161h1.786v-10.161zM11.268 28.5h1.589v-8.821h-1.589v6.75q-0.536 0.75-1.018 0.75-0.321 0-0.375-0.375-0.018-0.054-0.018-0.625v-6.5h-1.589v6.982q0 0.875 0.143 1.304 0.214 0.661 1.036 0.661 0.857 0 1.821-1.089v0.964zM18.929 25.857v-3.518q0-1.304-0.161-1.768-0.304-1-1.268-1-0.893 0-1.661 0.964v-3.875h-1.589v11.839h1.589v-0.857q0.804 0.982 1.661 0.982 0.964 0 1.268-0.982 0.161-0.482 0.161-1.786zM24.964 25.679v-0.232h-1.625q0 0.911-0.036 1.089-0.125 0.643-0.714 0.643-0.821 0-0.821-1.232v-1.554h3.196v-1.839q0-1.411-0.482-2.071-0.696-0.911-1.893-0.911-1.214 0-1.911 0.911-0.5 0.661-0.5 2.071v3.089q0 1.411 0.518 2.071 0.696 0.911 1.929 0.911 1.286 0 1.929-0.946 0.321-0.482 0.375-0.964 0.036-0.161 0.036-1.036zM14.107 9.375v-3.75q0-1.232-0.768-1.232t-0.768 1.232v3.75q0 1.25 0.768 1.25t0.768-1.25zM26.946 22.786q0 4.179-0.464 6.25-0.25 1.054-1.036 1.768t-1.821 0.821q-3.286 0.375-9.911 0.375t-9.911-0.375q-1.036-0.107-1.83-0.821t-1.027-1.768q-0.464-2-0.464-6.25 0-4.179 0.464-6.25 0.25-1.054 1.036-1.768t1.839-0.839q3.268-0.357 9.893-0.357t9.911 0.357q1.036 0.125 1.83 0.839t1.027 1.768q0.464 2 0.464 6.25zM9.125 0h1.821l-2.161 7.125v4.839h-1.786v-4.839q-0.25-1.321-1.089-3.786-0.661-1.839-1.161-3.339h1.893l1.268 4.696zM15.732 5.946v3.125q0 1.446-0.5 2.107-0.661 0.911-1.893 0.911-1.196 0-1.875-0.911-0.5-0.679-0.5-2.107v-3.125q0-1.429 0.5-2.089 0.679-0.911 1.875-0.911 1.232 0 1.893 0.911 0.5 0.661 0.5 2.089zM21.714 3.054v8.911h-1.625v-0.982q-0.946 1.107-1.839 1.107-0.821 0-1.054-0.661-0.143-0.429-0.143-1.339v-7.036h1.625v6.554q0 0.589 0.018 0.625 0.054 0.393 0.375 0.393 0.482 0 1.018-0.768v-6.804h1.625z"></path>
+</symbol>
+<symbol id="icon-dropbox" viewbox="0 0 32 32">
+<path class="path1" d="M7.179 12.625l8.821 5.446-6.107 5.089-8.75-5.696zM24.786 22.536v1.929l-8.75 5.232v0.018l-0.018-0.018-0.018 0.018v-0.018l-8.732-5.232v-1.929l2.625 1.714 6.107-5.071v-0.036l0.018 0.018 0.018-0.018v0.036l6.125 5.071zM9.893 2.107l6.107 5.089-8.821 5.429-6.036-4.821zM24.821 12.625l6.036 4.839-8.732 5.696-6.125-5.089zM22.125 2.107l8.732 5.696-6.036 4.821-8.821-5.429z"></path>
+</symbol>
+<symbol id="icon-instagram" viewbox="0 0 27 32">
+<path class="path1" d="M18.286 16q0-1.893-1.339-3.232t-3.232-1.339-3.232 1.339-1.339 3.232 1.339 3.232 3.232 1.339 3.232-1.339 1.339-3.232zM20.75 16q0 2.929-2.054 4.982t-4.982 2.054-4.982-2.054-2.054-4.982 2.054-4.982 4.982-2.054 4.982 2.054 2.054 4.982zM22.679 8.679q0 0.679-0.482 1.161t-1.161 0.482-1.161-0.482-0.482-1.161 0.482-1.161 1.161-0.482 1.161 0.482 0.482 1.161zM13.714 4.75q-0.125 0-1.366-0.009t-1.884 0-1.723 0.054-1.839 0.179-1.277 0.33q-0.893 0.357-1.571 1.036t-1.036 1.571q-0.196 0.518-0.33 1.277t-0.179 1.839-0.054 1.723 0 1.884 0.009 1.366-0.009 1.366 0 1.884 0.054 1.723 0.179 1.839 0.33 1.277q0.357 0.893 1.036 1.571t1.571 1.036q0.518 0.196 1.277 0.33t1.839 0.179 1.723 0.054 1.884 0 1.366-0.009 1.366 0.009 1.884 0 1.723-0.054 1.839-0.179 1.277-0.33q0.893-0.357 1.571-1.036t1.036-1.571q0.196-0.518 0.33-1.277t0.179-1.839 0.054-1.723 0-1.884-0.009-1.366 0.009-1.366 0-1.884-0.054-1.723-0.179-1.839-0.33-1.277q-0.357-0.893-1.036-1.571t-1.571-1.036q-0.518-0.196-1.277-0.33t-1.839-0.179-1.723-0.054-1.884 0-1.366 0.009zM27.429 16q0 4.089-0.089 5.661-0.179 3.714-2.214 5.75t-5.75 2.214q-1.571 0.089-5.661 0.089t-5.661-0.089q-3.714-0.179-5.75-2.214t-2.214-5.75q-0.089-1.571-0.089-5.661t0.089-5.661q0.179-3.714 2.214-5.75t5.75-2.214q1.571-0.089 5.661-0.089t5.661 0.089q3.714 0.179 5.75 2.214t2.214 5.75q0.089 1.571 0.089 5.661z"></path>
+</symbol>
+<symbol id="icon-flickr" viewbox="0 0 27 32">
+<path class="path1" d="M22.286 2.286q2.125 0 3.634 1.509t1.509 3.634v17.143q0 2.125-1.509 3.634t-3.634 1.509h-17.143q-2.125 0-3.634-1.509t-1.509-3.634v-17.143q0-2.125 1.509-3.634t3.634-1.509h17.143zM12.464 16q0-1.571-1.107-2.679t-2.679-1.107-2.679 1.107-1.107 2.679 1.107 2.679 2.679 1.107 2.679-1.107 1.107-2.679zM22.536 16q0-1.571-1.107-2.679t-2.679-1.107-2.679 1.107-1.107 2.679 1.107 2.679 2.679 1.107 2.679-1.107 1.107-2.679z"></path>
+</symbol>
+<symbol id="icon-tumblr" viewbox="0 0 19 32">
+<path class="path1" d="M16.857 23.732l1.429 4.232q-0.411 0.625-1.982 1.179t-3.161 0.571q-1.857 0.036-3.402-0.464t-2.545-1.321-1.696-1.893-0.991-2.143-0.295-2.107v-9.714h-3v-3.839q1.286-0.464 2.304-1.241t1.625-1.607 1.036-1.821 0.607-1.768 0.268-1.58q0.018-0.089 0.080-0.152t0.134-0.063h4.357v7.571h5.946v4.5h-5.964v9.25q0 0.536 0.116 1t0.402 0.938 0.884 0.741 1.455 0.25q1.393-0.036 2.393-0.518z"></path>
+</symbol>
+<symbol id="icon-dockerhub" viewbox="0 0 24 28">
+<path class="path1" d="M1.597 10.257h2.911v2.83H1.597v-2.83zm3.573 0h2.91v2.83H5.17v-2.83zm0-3.627h2.91v2.829H5.17V6.63zm3.57 3.627h2.912v2.83H8.74v-2.83zm0-3.627h2.912v2.829H8.74V6.63zm3.573 3.627h2.911v2.83h-2.911v-2.83zm0-3.627h2.911v2.829h-2.911V6.63zm3.572 3.627h2.911v2.83h-2.911v-2.83zM12.313 3h2.911v2.83h-2.911V3zm-6.65 14.173c-.449 0-.812.354-.812.788 0 .435.364.788.812.788.447 0 .811-.353.811-.788 0-.434-.363-.788-.811-.788"></path>
+<path class="path2" d="M28.172 11.721c-.978-.549-2.278-.624-3.388-.306-.136-1.146-.91-2.149-1.83-2.869l-.366-.286-.307.345c-.618.692-.8 1.845-.718 2.73.063.651.273 1.312.685 1.834-.313.183-.668.328-.985.434-.646.212-1.347.33-2.028.33H.083l-.042.429c-.137 1.432.065 2.866.674 4.173l.262.519.03.048c1.8 2.973 4.963 4.225 8.41 4.225 6.672 0 12.174-2.896 14.702-9.015 1.689.085 3.417-.4 4.243-1.968l.211-.4-.401-.223zM5.664 19.458c-.85 0-1.542-.671-1.542-1.497 0-.825.691-1.498 1.541-1.498.849 0 1.54.672 1.54 1.497s-.69 1.498-1.539 1.498z"></path>
+</symbol>
+<symbol id="icon-dribbble" viewbox="0 0 27 32">
+<path class="path1" d="M18.286 26.786q-0.75-4.304-2.5-8.893h-0.036l-0.036 0.018q-0.286 0.107-0.768 0.295t-1.804 0.875-2.446 1.464-2.339 2.045-1.839 2.643l-0.268-0.196q3.286 2.679 7.464 2.679 2.357 0 4.571-0.929zM14.982 15.946q-0.375-0.875-0.946-1.982-5.554 1.661-12.018 1.661-0.018 0.125-0.018 0.375 0 2.214 0.786 4.223t2.214 3.598q0.893-1.589 2.205-2.973t2.545-2.223 2.33-1.446 1.777-0.857l0.661-0.232q0.071-0.018 0.232-0.063t0.232-0.080zM13.071 12.161q-2.143-3.804-4.357-6.75-2.464 1.161-4.179 3.321t-2.286 4.857q5.393 0 10.821-1.429zM25.286 17.857q-3.75-1.071-7.304-0.518 1.554 4.268 2.286 8.375 1.982-1.339 3.304-3.384t1.714-4.473zM10.911 4.625q-0.018 0-0.036 0.018 0.018-0.018 0.036-0.018zM21.446 7.214q-3.304-2.929-7.732-2.929-1.357 0-2.768 0.339 2.339 3.036 4.393 6.821 1.232-0.464 2.321-1.080t1.723-1.098 1.17-1.018 0.67-0.723zM25.429 15.875q-0.054-4.143-2.661-7.321l-0.018 0.018q-0.161 0.214-0.339 0.438t-0.777 0.795-1.268 1.080-1.786 1.161-2.348 1.152q0.446 0.946 0.786 1.696 0.036 0.107 0.116 0.313t0.134 0.295q0.643-0.089 1.33-0.125t1.313-0.036 1.232 0.027 1.143 0.071 1.009 0.098 0.857 0.116 0.652 0.107 0.446 0.080zM27.429 16q0 3.732-1.839 6.884t-4.991 4.991-6.884 1.839-6.884-1.839-4.991-4.991-1.839-6.884 1.839-6.884 4.991-4.991 6.884-1.839 6.884 1.839 4.991 4.991 1.839 6.884z"></path>
+</symbol>
+<symbol id="icon-skype" viewbox="0 0 27 32">
+<path class="path1" d="M20.946 18.982q0-0.893-0.348-1.634t-0.866-1.223-1.304-0.875-1.473-0.607-1.563-0.411l-1.857-0.429q-0.536-0.125-0.786-0.188t-0.625-0.205-0.536-0.286-0.295-0.375-0.134-0.536q0-1.375 2.571-1.375 0.768 0 1.375 0.214t0.964 0.509 0.679 0.598 0.714 0.518 0.857 0.214q0.839 0 1.348-0.571t0.509-1.375q0-0.982-1-1.777t-2.536-1.205-3.25-0.411q-1.214 0-2.357 0.277t-2.134 0.839-1.589 1.554-0.598 2.295q0 1.089 0.339 1.902t1 1.348 1.429 0.866 1.839 0.58l2.607 0.643q1.607 0.393 2 0.643 0.571 0.357 0.571 1.071 0 0.696-0.714 1.152t-1.875 0.455q-0.911 0-1.634-0.286t-1.161-0.688-0.813-0.804-0.821-0.688-0.964-0.286q-0.893 0-1.348 0.536t-0.455 1.339q0 1.643 2.179 2.813t5.196 1.17q1.304 0 2.5-0.33t2.188-0.955 1.58-1.67 0.589-2.348zM27.429 22.857q0 2.839-2.009 4.848t-4.848 2.009q-2.321 0-4.179-1.429-1.375 0.286-2.679 0.286-2.554 0-4.884-0.991t-4.018-2.679-2.679-4.018-0.991-4.884q0-1.304 0.286-2.679-1.429-1.857-1.429-4.179 0-2.839 2.009-4.848t4.848-2.009q2.321 0 4.179 1.429 1.375-0.286 2.679-0.286 2.554 0 4.884 0.991t4.018 2.679 2.679 4.018 0.991 4.884q0 1.304-0.286 2.679 1.429 1.857 1.429 4.179z"></path>
+</symbol>
+<symbol id="icon-foursquare" viewbox="0 0 23 32">
+<path class="path1" d="M17.857 7.75l0.661-3.464q0.089-0.411-0.161-0.714t-0.625-0.304h-12.714q-0.411 0-0.688 0.304t-0.277 0.661v19.661q0 0.125 0.107 0.018l5.196-6.286q0.411-0.464 0.679-0.598t0.857-0.134h4.268q0.393 0 0.661-0.259t0.321-0.527q0.429-2.321 0.661-3.411 0.071-0.375-0.205-0.714t-0.652-0.339h-5.25q-0.518 0-0.857-0.339t-0.339-0.857v-0.75q0-0.518 0.339-0.848t0.857-0.33h6.179q0.321 0 0.625-0.241t0.357-0.527zM21.911 3.786q-0.268 1.304-0.955 4.759t-1.241 6.25-0.625 3.098q-0.107 0.393-0.161 0.58t-0.25 0.58-0.438 0.589-0.688 0.375-1.036 0.179h-4.839q-0.232 0-0.393 0.179-0.143 0.161-7.607 8.821-0.393 0.446-1.045 0.509t-0.866-0.098q-0.982-0.393-0.982-1.75v-25.179q0-0.982 0.679-1.83t2.143-0.848h15.857q1.696 0 2.268 0.946t0.179 2.839zM21.911 3.786l-2.821 14.107q0.071-0.304 0.625-3.098t1.241-6.25 0.955-4.759z"></path>
+</symbol>
+<symbol id="icon-wordpress" viewbox="0 0 32 32">
+<path class="path1" d="M2.268 16q0-2.911 1.196-5.589l6.554 17.946q-3.5-1.696-5.625-5.018t-2.125-7.339zM25.268 15.304q0 0.339-0.045 0.688t-0.179 0.884-0.205 0.786-0.313 1.054-0.313 1.036l-1.357 4.571-4.964-14.75q0.821-0.054 1.571-0.143 0.339-0.036 0.464-0.33t-0.045-0.554-0.509-0.241l-3.661 0.179q-1.339-0.018-3.607-0.179-0.214-0.018-0.366 0.089t-0.205 0.268-0.027 0.33 0.161 0.295 0.348 0.143l1.429 0.143 2.143 5.857-3 9-5-14.857q0.821-0.054 1.571-0.143 0.339-0.036 0.464-0.33t-0.045-0.554-0.509-0.241l-3.661 0.179q-0.125 0-0.411-0.009t-0.464-0.009q1.875-2.857 4.902-4.527t6.563-1.67q2.625 0 5.009 0.946t4.259 2.661h-0.179q-0.982 0-1.643 0.723t-0.661 1.705q0 0.214 0.036 0.429t0.071 0.384 0.143 0.411 0.161 0.375 0.214 0.402 0.223 0.375 0.259 0.429 0.25 0.411q1.125 1.911 1.125 3.786zM16.232 17.196l4.232 11.554q0.018 0.107 0.089 0.196-2.25 0.786-4.554 0.786-2 0-3.875-0.571zM28.036 9.411q1.696 3.107 1.696 6.589 0 3.732-1.857 6.884t-4.982 4.973l4.196-12.107q1.054-3.018 1.054-4.929 0-0.75-0.107-1.411zM16 0q3.25 0 6.214 1.268t5.107 3.411 3.411 5.107 1.268 6.214-1.268 6.214-3.411 5.107-5.107 3.411-6.214 1.268-6.214-1.268-5.107-3.411-3.411-5.107-1.268-6.214 1.268-6.214 3.411-5.107 5.107-3.411 6.214-1.268zM16 31.268q3.089 0 5.92-1.214t4.875-3.259 3.259-4.875 1.214-5.92-1.214-5.92-3.259-4.875-4.875-3.259-5.92-1.214-5.92 1.214-4.875 3.259-3.259 4.875-1.214 5.92 1.214 5.92 3.259 4.875 4.875 3.259 5.92 1.214z"></path>
+</symbol>
+<symbol id="icon-stumbleupon" viewbox="0 0 34 32">
+<path class="path1" d="M18.964 12.714v-2.107q0-0.75-0.536-1.286t-1.286-0.536-1.286 0.536-0.536 1.286v10.929q0 3.125-2.25 5.339t-5.411 2.214q-3.179 0-5.42-2.241t-2.241-5.42v-4.75h5.857v4.679q0 0.768 0.536 1.295t1.286 0.527 1.286-0.527 0.536-1.295v-11.071q0-3.054 2.259-5.214t5.384-2.161q3.143 0 5.393 2.179t2.25 5.25v2.429l-3.482 1.036zM28.429 16.679h5.857v4.75q0 3.179-2.241 5.42t-5.42 2.241q-3.161 0-5.411-2.223t-2.25-5.366v-4.786l2.339 1.089 3.482-1.036v4.821q0 0.75 0.536 1.277t1.286 0.527 1.286-0.527 0.536-1.277v-4.911z"></path>
+</symbol>
+<symbol id="icon-digg" viewbox="0 0 37 32">
+<path class="path1" d="M5.857 5.036h3.643v17.554h-9.5v-12.446h5.857v-5.107zM5.857 19.661v-6.589h-2.196v6.589h2.196zM10.964 10.143v12.446h3.661v-12.446h-3.661zM10.964 5.036v3.643h3.661v-3.643h-3.661zM16.089 10.143h9.518v16.821h-9.518v-2.911h5.857v-1.464h-5.857v-12.446zM21.946 19.661v-6.589h-2.196v6.589h2.196zM27.071 10.143h9.5v16.821h-9.5v-2.911h5.839v-1.464h-5.839v-12.446zM32.911 19.661v-6.589h-2.196v6.589h2.196z"></path>
+</symbol>
+<symbol id="icon-spotify" viewbox="0 0 27 32">
+<path class="path1" d="M20.125 21.607q0-0.571-0.536-0.911-3.446-2.054-7.982-2.054-2.375 0-5.125 0.607-0.75 0.161-0.75 0.929 0 0.357 0.241 0.616t0.634 0.259q0.089 0 0.661-0.143 2.357-0.482 4.339-0.482 4.036 0 7.089 1.839 0.339 0.196 0.589 0.196 0.339 0 0.589-0.241t0.25-0.616zM21.839 17.768q0-0.714-0.625-1.089-4.232-2.518-9.786-2.518-2.732 0-5.411 0.75-0.857 0.232-0.857 1.143 0 0.446 0.313 0.759t0.759 0.313q0.125 0 0.661-0.143 2.179-0.589 4.482-0.589 4.982 0 8.714 2.214 0.429 0.232 0.679 0.232 0.446 0 0.759-0.313t0.313-0.759zM23.768 13.339q0-0.839-0.714-1.25-2.25-1.304-5.232-1.973t-6.125-0.67q-3.643 0-6.5 0.839-0.411 0.125-0.688 0.455t-0.277 0.866q0 0.554 0.366 0.929t0.92 0.375q0.196 0 0.714-0.143 2.375-0.661 5.482-0.661 2.839 0 5.527 0.607t4.527 1.696q0.375 0.214 0.714 0.214 0.518 0 0.902-0.366t0.384-0.92zM27.429 16q0 3.732-1.839 6.884t-4.991 4.991-6.884 1.839-6.884-1.839-4.991-4.991-1.839-6.884 1.839-6.884 4.991-4.991 6.884-1.839 6.884 1.839 4.991 4.991 1.839 6.884z"></path>
+</symbol>
+<symbol id="icon-soundcloud" viewbox="0 0 41 32">
+<path class="path1" d="M14 24.5l0.286-4.304-0.286-9.339q-0.018-0.179-0.134-0.304t-0.295-0.125q-0.161 0-0.286 0.125t-0.125 0.304l-0.25 9.339 0.25 4.304q0.018 0.179 0.134 0.295t0.277 0.116q0.393 0 0.429-0.411zM19.286 23.982l0.196-3.768-0.214-10.464q0-0.286-0.232-0.429-0.143-0.089-0.286-0.089t-0.286 0.089q-0.232 0.143-0.232 0.429l-0.018 0.107-0.179 10.339q0 0.018 0.196 4.214v0.018q0 0.179 0.107 0.304 0.161 0.196 0.411 0.196 0.196 0 0.357-0.161 0.161-0.125 0.161-0.357zM0.625 17.911l0.357 2.286-0.357 2.25q-0.036 0.161-0.161 0.161t-0.161-0.161l-0.304-2.25 0.304-2.286q0.036-0.161 0.161-0.161t0.161 0.161zM2.161 16.5l0.464 3.696-0.464 3.625q-0.036 0.161-0.179 0.161-0.161 0-0.161-0.179l-0.411-3.607 0.411-3.696q0-0.161 0.161-0.161 0.143 0 0.179 0.161zM3.804 15.821l0.446 4.375-0.446 4.232q0 0.196-0.196 0.196-0.179 0-0.214-0.196l-0.375-4.232 0.375-4.375q0.036-0.214 0.214-0.214 0.196 0 0.196 0.214zM5.482 15.696l0.411 4.5-0.411 4.357q-0.036 0.232-0.25 0.232-0.232 0-0.232-0.232l-0.375-4.357 0.375-4.5q0-0.232 0.232-0.232 0.214 0 0.25 0.232zM7.161 16.018l0.375 4.179-0.375 4.393q-0.036 0.286-0.286 0.286-0.107 0-0.188-0.080t-0.080-0.205l-0.357-4.393 0.357-4.179q0-0.107 0.080-0.188t0.188-0.080q0.25 0 0.286 0.268zM8.839 13.411l0.375 6.786-0.375 4.393q0 0.125-0.089 0.223t-0.214 0.098q-0.286 0-0.321-0.321l-0.321-4.393 0.321-6.786q0.036-0.321 0.321-0.321 0.125 0 0.214 0.098t0.089 0.223zM10.518 11.875l0.339 8.357-0.339 4.357q0 0.143-0.098 0.241t-0.241 0.098q-0.321 0-0.357-0.339l-0.286-4.357 0.286-8.357q0.036-0.339 0.357-0.339 0.143 0 0.241 0.098t0.098 0.241zM12.268 11.161l0.321 9.036-0.321 4.321q-0.036 0.375-0.393 0.375-0.339 0-0.375-0.375l-0.286-4.321 0.286-9.036q0-0.161 0.116-0.277t0.259-0.116q0.161 0 0.268 0.116t0.125 0.277zM19.268 24.411v0 0zM15.732 11.089l0.268 9.107-0.268 4.268q0 0.179-0.134 0.313t-0.313 0.134-0.304-0.125-0.143-0.321l-0.25-4.268 0.25-9.107q0-0.196 0.134-0.321t0.313-0.125 0.313 0.125 0.134 0.321zM17.5 11.429l0.25 8.786-0.25 4.214q0 0.196-0.143 0.339t-0.339 0.143-0.339-0.143-0.161-0.339l-0.214-4.214 0.214-8.786q0.018-0.214 0.161-0.357t0.339-0.143 0.33 0.143 0.152 0.357zM21.286 20.214l-0.25 4.125q0 0.232-0.161 0.393t-0.393 0.161-0.393-0.161-0.179-0.393l-0.107-2.036-0.107-2.089 0.214-11.357v-0.054q0.036-0.268 0.214-0.429 0.161-0.125 0.357-0.125 0.143 0 0.268 0.089 0.25 0.143 0.286 0.464zM41.143 19.875q0 2.089-1.482 3.563t-3.571 1.473h-14.036q-0.232-0.036-0.393-0.196t-0.161-0.393v-16.054q0-0.411 0.5-0.589 1.518-0.607 3.232-0.607 3.482 0 6.036 2.348t2.857 5.777q0.946-0.393 1.964-0.393 2.089 0 3.571 1.482t1.482 3.589z"></path>
+</symbol>
+<symbol id="icon-codepen" viewbox="0 0 32 32">
+<path class="path1" d="M3.857 20.875l10.768 7.179v-6.411l-5.964-3.982zM2.75 18.304l3.446-2.304-3.446-2.304v4.607zM17.375 28.054l10.768-7.179-4.804-3.214-5.964 3.982v6.411zM16 19.25l4.857-3.25-4.857-3.25-4.857 3.25zM8.661 14.339l5.964-3.982v-6.411l-10.768 7.179zM25.804 16l3.446 2.304v-4.607zM23.339 14.339l4.804-3.214-10.768-7.179v6.411zM32 11.125v9.75q0 0.732-0.607 1.143l-14.625 9.75q-0.375 0.232-0.768 0.232t-0.768-0.232l-14.625-9.75q-0.607-0.411-0.607-1.143v-9.75q0-0.732 0.607-1.143l14.625-9.75q0.375-0.232 0.768-0.232t0.768 0.232l14.625 9.75q0.607 0.411 0.607 1.143z"></path>
+</symbol>
+<symbol id="icon-twitch" viewbox="0 0 32 32">
+<path class="path1" d="M16 7.75v7.75h-2.589v-7.75h2.589zM23.107 7.75v7.75h-2.589v-7.75h2.589zM23.107 21.321l4.518-4.536v-14.196h-21.321v18.732h5.821v3.875l3.875-3.875h7.107zM30.214 0v18.089l-7.75 7.75h-5.821l-3.875 3.875h-3.875v-3.875h-7.107v-20.679l1.946-5.161h26.482z"></path>
+</symbol>
+<symbol id="icon-meanpath" viewbox="0 0 27 32">
+<path class="path1" d="M23.411 15.036v2.036q0 0.429-0.241 0.679t-0.67 0.25h-3.607q-0.429 0-0.679-0.25t-0.25-0.679v-2.036q0-0.429 0.25-0.679t0.679-0.25h3.607q0.429 0 0.67 0.25t0.241 0.679zM14.661 19.143v-4.464q0-0.946-0.58-1.527t-1.527-0.58h-2.375q-1.214 0-1.714 0.929-0.5-0.929-1.714-0.929h-2.321q-0.946 0-1.527 0.58t-0.58 1.527v4.464q0 0.393 0.375 0.393h0.982q0.393 0 0.393-0.393v-4.107q0-0.429 0.241-0.679t0.688-0.25h1.679q0.429 0 0.679 0.25t0.25 0.679v4.107q0 0.393 0.375 0.393h0.964q0.393 0 0.393-0.393v-4.107q0-0.429 0.25-0.679t0.679-0.25h1.732q0.429 0 0.67 0.25t0.241 0.679v4.107q0 0.393 0.393 0.393h0.982q0.375 0 0.375-0.393zM25.179 17.429v-2.75q0-0.946-0.589-1.527t-1.536-0.58h-4.714q-0.946 0-1.536 0.58t-0.589 1.527v7.321q0 0.375 0.393 0.375h0.982q0.375 0 0.375-0.375v-3.214q0.554 0.75 1.679 0.75h3.411q0.946 0 1.536-0.58t0.589-1.527zM27.429 6.429v19.143q0 1.714-1.214 2.929t-2.929 1.214h-19.143q-1.714 0-2.929-1.214t-1.214-2.929v-19.143q0-1.714 1.214-2.929t2.929-1.214h19.143q1.714 0 2.929 1.214t1.214 2.929z"></path>
+</symbol>
+<symbol id="icon-pinterest-p" viewbox="0 0 23 32">
+<path class="path1" d="M0 10.661q0-1.929 0.67-3.634t1.848-2.973 2.714-2.196 3.304-1.393 3.607-0.464q2.821 0 5.25 1.188t3.946 3.455 1.518 5.125q0 1.714-0.339 3.357t-1.071 3.161-1.786 2.67-2.589 1.839-3.375 0.688q-1.214 0-2.411-0.571t-1.714-1.571q-0.179 0.696-0.5 2.009t-0.42 1.696-0.366 1.268-0.464 1.268-0.571 1.116-0.821 1.384-1.107 1.545l-0.25 0.089-0.161-0.179q-0.268-2.804-0.268-3.357 0-1.643 0.384-3.688t1.188-5.134 0.929-3.625q-0.571-1.161-0.571-3.018 0-1.482 0.929-2.786t2.357-1.304q1.089 0 1.696 0.723t0.607 1.83q0 1.179-0.786 3.411t-0.786 3.339q0 1.125 0.804 1.866t1.946 0.741q0.982 0 1.821-0.446t1.402-1.214 1-1.696 0.679-1.973 0.357-1.982 0.116-1.777q0-3.089-1.955-4.813t-5.098-1.723q-3.571 0-5.964 2.313t-2.393 5.866q0 0.786 0.223 1.518t0.482 1.161 0.482 0.813 0.223 0.545q0 0.5-0.268 1.304t-0.661 0.804q-0.036 0-0.304-0.054-0.911-0.268-1.616-1t-1.089-1.688-0.58-1.929-0.196-1.902z"></path>
+</symbol>
+<symbol id="icon-periscope" viewbox="0 0 24 28">
+<path class="path1" d="M12.285,1C6.696,1,2.277,5.643,2.277,11.243c0,5.851,7.77,14.578,10.007,14.578c1.959,0,9.729-8.728,9.729-14.578 C22.015,5.643,17.596,1,12.285,1z M12.317,16.551c-3.473,0-6.152-2.611-6.152-5.664c0-1.292,0.39-2.472,1.065-3.438 c0.206,1.084,1.18,1.906,2.352,1.906c1.322,0,2.393-1.043,2.393-2.333c0-0.832-0.447-1.561-1.119-1.975 c0.467-0.105,0.955-0.161,1.46-0.161c3.133,0,5.81,2.611,5.81,5.998C18.126,13.94,15.449,16.551,12.317,16.551z"></path>
+</symbol>
+<symbol id="icon-get-pocket" viewbox="0 0 31 32">
+<path class="path1" d="M27.946 2.286q1.161 0 1.964 0.813t0.804 1.973v9.268q0 3.143-1.214 6t-3.259 4.911-4.893 3.259-5.973 1.205q-3.143 0-5.991-1.205t-4.902-3.259-3.268-4.911-1.214-6v-9.268q0-1.143 0.821-1.964t1.964-0.821h25.161zM15.375 21.286q0.839 0 1.464-0.589l7.214-6.929q0.661-0.625 0.661-1.518 0-0.875-0.616-1.491t-1.491-0.616q-0.839 0-1.464 0.589l-5.768 5.536-5.768-5.536q-0.625-0.589-1.446-0.589-0.875 0-1.491 0.616t-0.616 1.491q0 0.911 0.643 1.518l7.232 6.929q0.589 0.589 1.446 0.589z"></path>
+</symbol>
+<symbol id="icon-vimeo" viewbox="0 0 32 32">
+<path class="path1" d="M30.518 9.25q-0.179 4.214-5.929 11.625-5.946 7.696-10.036 7.696-2.536 0-4.286-4.696-0.786-2.857-2.357-8.607-1.286-4.679-2.804-4.679-0.321 0-2.268 1.357l-1.375-1.75q0.429-0.375 1.929-1.723t2.321-2.063q2.786-2.464 4.304-2.607 1.696-0.161 2.732 0.991t1.446 3.634q0.786 5.125 1.179 6.661 0.982 4.446 2.143 4.446 0.911 0 2.75-2.875 1.804-2.875 1.946-4.393 0.232-2.482-1.946-2.482-1.018 0-2.161 0.464 2.143-7.018 8.196-6.821 4.482 0.143 4.214 5.821z"></path>
+</symbol>
+<symbol id="icon-reddit-alien" viewbox="0 0 32 32">
+<path class="path1" d="M32 15.107q0 1.036-0.527 1.884t-1.42 1.295q0.214 0.821 0.214 1.714 0 2.768-1.902 5.125t-5.188 3.723-7.143 1.366-7.134-1.366-5.179-3.723-1.902-5.125q0-0.839 0.196-1.679-0.911-0.446-1.464-1.313t-0.554-1.902q0-1.464 1.036-2.509t2.518-1.045q1.518 0 2.589 1.125 3.893-2.714 9.196-2.893l2.071-9.304q0.054-0.232 0.268-0.375t0.464-0.089l6.589 1.446q0.321-0.661 0.964-1.063t1.411-0.402q1.107 0 1.893 0.777t0.786 1.884-0.786 1.893-1.893 0.786-1.884-0.777-0.777-1.884l-5.964-1.321-1.857 8.429q5.357 0.161 9.268 2.857 1.036-1.089 2.554-1.089 1.482 0 2.518 1.045t1.036 2.509zM7.464 18.661q0 1.107 0.777 1.893t1.884 0.786 1.893-0.786 0.786-1.893-0.786-1.884-1.893-0.777q-1.089 0-1.875 0.786t-0.786 1.875zM21.929 25q0.196-0.196 0.196-0.464t-0.196-0.464q-0.179-0.179-0.446-0.179t-0.464 0.179q-0.732 0.75-2.161 1.107t-2.857 0.357-2.857-0.357-2.161-1.107q-0.196-0.179-0.464-0.179t-0.446 0.179q-0.196 0.179-0.196 0.455t0.196 0.473q0.768 0.768 2.116 1.214t2.188 0.527 1.625 0.080 1.625-0.080 2.188-0.527 2.116-1.214zM21.875 21.339q1.107 0 1.884-0.786t0.777-1.893q0-1.089-0.786-1.875t-1.875-0.786q-1.107 0-1.893 0.777t-0.786 1.884 0.786 1.893 1.893 0.786z"></path>
+</symbol>
+<symbol id="icon-hashtag" viewbox="0 0 32 32">
+<path class="path1" d="M17.696 18.286l1.143-4.571h-4.536l-1.143 4.571h4.536zM31.411 9.286l-1 4q-0.125 0.429-0.554 0.429h-5.839l-1.143 4.571h5.554q0.268 0 0.446 0.214 0.179 0.25 0.107 0.5l-1 4q-0.089 0.429-0.554 0.429h-5.839l-1.446 5.857q-0.125 0.429-0.554 0.429h-4q-0.286 0-0.464-0.214-0.161-0.214-0.107-0.5l1.393-5.571h-4.536l-1.446 5.857q-0.125 0.429-0.554 0.429h-4.018q-0.268 0-0.446-0.214-0.161-0.214-0.107-0.5l1.393-5.571h-5.554q-0.268 0-0.446-0.214-0.161-0.214-0.107-0.5l1-4q0.125-0.429 0.554-0.429h5.839l1.143-4.571h-5.554q-0.268 0-0.446-0.214-0.179-0.25-0.107-0.5l1-4q0.089-0.429 0.554-0.429h5.839l1.446-5.857q0.125-0.429 0.571-0.429h4q0.268 0 0.446 0.214 0.161 0.214 0.107 0.5l-1.393 5.571h4.536l1.446-5.857q0.125-0.429 0.571-0.429h4q0.268 0 0.446 0.214 0.161 0.214 0.107 0.5l-1.393 5.571h5.554q0.268 0 0.446 0.214 0.161 0.214 0.107 0.5z"></path>
+</symbol>
+<symbol id="icon-chain" viewbox="0 0 30 32">
+<path class="path1" d="M26 21.714q0-0.714-0.5-1.214l-3.714-3.714q-0.5-0.5-1.214-0.5-0.75 0-1.286 0.571 0.054 0.054 0.339 0.33t0.384 0.384 0.268 0.339 0.232 0.455 0.063 0.491q0 0.714-0.5 1.214t-1.214 0.5q-0.268 0-0.491-0.063t-0.455-0.232-0.339-0.268-0.384-0.384-0.33-0.339q-0.589 0.554-0.589 1.304 0 0.714 0.5 1.214l3.679 3.696q0.482 0.482 1.214 0.482 0.714 0 1.214-0.464l2.625-2.607q0.5-0.5 0.5-1.196zM13.446 9.125q0-0.714-0.5-1.214l-3.679-3.696q-0.5-0.5-1.214-0.5-0.696 0-1.214 0.482l-2.625 2.607q-0.5 0.5-0.5 1.196 0 0.714 0.5 1.214l3.714 3.714q0.482 0.482 1.214 0.482 0.75 0 1.286-0.554-0.054-0.054-0.339-0.33t-0.384-0.384-0.268-0.339-0.232-0.455-0.063-0.491q0-0.714 0.5-1.214t1.214-0.5q0.268 0 0.491 0.063t0.455 0.232 0.339 0.268 0.384 0.384 0.33 0.339q0.589-0.554 0.589-1.304zM29.429 21.714q0 2.143-1.518 3.625l-2.625 2.607q-1.482 1.482-3.625 1.482-2.161 0-3.643-1.518l-3.679-3.696q-1.482-1.482-1.482-3.625 0-2.196 1.571-3.732l-1.571-1.571q-1.536 1.571-3.714 1.571-2.143 0-3.643-1.5l-3.714-3.714q-1.5-1.5-1.5-3.643t1.518-3.625l2.625-2.607q1.482-1.482 3.625-1.482 2.161 0 3.643 1.518l3.679 3.696q1.482 1.482 1.482 3.625 0 2.196-1.571 3.732l1.571 1.571q1.536-1.571 3.714-1.571 2.143 0 3.643 1.5l3.714 3.714q1.5 1.5 1.5 3.643z"></path>
+</symbol>
+<symbol id="icon-thumb-tack" viewbox="0 0 21 32">
+<path class="path1" d="M8.571 15.429v-8q0-0.25-0.161-0.411t-0.411-0.161-0.411 0.161-0.161 0.411v8q0 0.25 0.161 0.411t0.411 0.161 0.411-0.161 0.161-0.411zM20.571 21.714q0 0.464-0.339 0.804t-0.804 0.339h-7.661l-0.911 8.625q-0.036 0.214-0.188 0.366t-0.366 0.152h-0.018q-0.482 0-0.571-0.482l-1.357-8.661h-7.214q-0.464 0-0.804-0.339t-0.339-0.804q0-2.196 1.402-3.955t3.17-1.759v-9.143q-0.929 0-1.607-0.679t-0.679-1.607 0.679-1.607 1.607-0.679h11.429q0.929 0 1.607 0.679t0.679 1.607-0.679 1.607-1.607 0.679v9.143q1.768 0 3.17 1.759t1.402 3.955z"></path>
+</symbol>
+<symbol id="icon-arrow-left" viewbox="0 0 43 32">
+<path class="path1" d="M42.311 14.044c-0.178-0.178-0.533-0.356-0.711-0.356h-33.778l10.311-10.489c0.178-0.178 0.356-0.533 0.356-0.711 0-0.356-0.178-0.533-0.356-0.711l-1.6-1.422c-0.356-0.178-0.533-0.356-0.889-0.356s-0.533 0.178-0.711 0.356l-14.578 14.933c-0.178 0.178-0.356 0.533-0.356 0.711s0.178 0.533 0.356 0.711l14.756 14.933c0 0.178 0.356 0.356 0.533 0.356s0.533-0.178 0.711-0.356l1.6-1.6c0.178-0.178 0.356-0.533 0.356-0.711s-0.178-0.533-0.356-0.711l-10.311-10.489h33.778c0.178 0 0.533-0.178 0.711-0.356 0.356-0.178 0.533-0.356 0.533-0.711v-2.133c0-0.356-0.178-0.711-0.356-0.889z"></path>
+</symbol>
+<symbol id="icon-arrow-right" viewbox="0 0 43 32">
+<path class="path1" d="M0.356 17.956c0.178 0.178 0.533 0.356 0.711 0.356h33.778l-10.311 10.489c-0.178 0.178-0.356 0.533-0.356 0.711 0 0.356 0.178 0.533 0.356 0.711l1.6 1.6c0.178 0.178 0.533 0.356 0.711 0.356s0.533-0.178 0.711-0.356l14.756-14.933c0.178-0.356 0.356-0.711 0.356-0.889s-0.178-0.533-0.356-0.711l-14.756-14.933c0-0.178-0.356-0.356-0.533-0.356s-0.533 0.178-0.711 0.356l-1.6 1.6c-0.178 0.178-0.356 0.533-0.356 0.711s0.178 0.533 0.356 0.711l10.311 10.489h-33.778c-0.178 0-0.533 0.178-0.711 0.356-0.356 0.178-0.533 0.356-0.533 0.711v2.311c0 0.178 0.178 0.533 0.356 0.711z"></path>
+</symbol>
+<symbol id="icon-play" viewbox="0 0 22 28">
+<path d="M21.625 14.484l-20.75 11.531c-0.484 0.266-0.875 0.031-0.875-0.516v-23c0-0.547 0.391-0.781 0.875-0.516l20.75 11.531c0.484 0.266 0.484 0.703 0 0.969z"></path>
+</symbol>
+<symbol id="icon-pause" viewbox="0 0 24 28">
+<path d="M24 3v22c0 0.547-0.453 1-1 1h-8c-0.547 0-1-0.453-1-1v-22c0-0.547 0.453-1 1-1h8c0.547 0 1 0.453 1 1zM10 3v22c0 0.547-0.453 1-1 1h-8c-0.547 0-1-0.453-1-1v-22c0-0.547 0.453-1 1-1h8c0.547 0 1 0.453 1 1z"></path>
+</symbol>
+</defs>
+</svg>
+
+</body>
+</html>
+
+<!-- Dynamic Page Served (once) in 0.262 seconds -->

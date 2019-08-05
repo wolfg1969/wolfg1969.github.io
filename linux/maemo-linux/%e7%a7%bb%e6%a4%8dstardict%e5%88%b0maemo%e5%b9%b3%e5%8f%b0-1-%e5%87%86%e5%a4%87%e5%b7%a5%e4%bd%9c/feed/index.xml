@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《移植StarDict到maemo平台 (1) 准备工作》的评论</title>
+	<atom:link href="/linux/maemo-linux/%E7%A7%BB%E6%A4%8Dstardict%E5%88%B0maemo%E5%B9%B3%E5%8F%B0-1-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：zgqallen</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-42429</link>
+		<dc:creator><![CDATA[zgqallen]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2008 11:59:43 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-42429</guid>
+		<description><![CDATA[我现在有两个问题
+1.我现在在 fc8 装了scrachbox 和sdk可是ARM环境下无法运行af-sb-init.sh 运行看不到界面
+2.我想要把maemo界面整个环境移植到一个不是N8系列的 开发板上 不知道有没有可能
+希望楼主可以帮忙！谢谢我的QQ：409740236]]></description>
+		<content:encoded><![CDATA[<p>我现在有两个问题<br />
+1.我现在在 fc8 装了scrachbox 和sdk可是ARM环境下无法运行af-sb-init.sh 运行看不到界面<br />
+2.我想要把maemo界面整个环境移植到一个不是N8系列的 开发板上 不知道有没有可能<br />
+希望楼主可以帮忙！谢谢我的QQ：409740236</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：van_kelly</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-33515</link>
+		<dc:creator><![CDATA[van_kelly]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2008 08:10:52 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-33515</guid>
+		<description><![CDATA[问一下，在cygwin下，只安装sdcv可以么？ 怎么安装？
+我试过编译安装，但没成功过，错误如下.
+http://www.stardict.org/forum/viewtopic.php?f=5&#038;t=269]]></description>
+		<content:encoded><![CDATA[<p>问一下，在cygwin下，只安装sdcv可以么？ 怎么安装？<br />
+我试过编译安装，但没成功过，错误如下.<br />
+<a href="http://www.stardict.org/forum/viewtopic.php?f=5&#038;t=269" rel="nofollow">http://www.stardict.org/forum/viewtopic.php?f=5&#038;t=269</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：jay</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-28032</link>
+		<dc:creator><![CDATA[jay]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2008 12:27:14 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-28032</guid>
+		<description><![CDATA[请问一下
+如何才能在maemo中安装libgnomeui-dev库啊？
+我的文件需要libgnomeui-dev才能编译
+谢谢]]></description>
+		<content:encoded><![CDATA[<p>请问一下<br />
+如何才能在maemo中安装libgnomeui-dev库啊？<br />
+我的文件需要libgnomeui-dev才能编译<br />
+谢谢</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：lyb</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-10568</link>
+		<dc:creator><![CDATA[lyb]]></dc:creator>
+		<pubDate>Sat, 19 May 2007 15:30:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-10568</guid>
+		<description><![CDATA[请问一下这个是完全postd到maemo平台了吗？]]></description>
+		<content:encoded><![CDATA[<p>请问一下这个是完全postd到maemo平台了吗？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：kissingwolf</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-10334</link>
+		<dc:creator><![CDATA[kissingwolf]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 09:27:59 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-10334</guid>
+		<description><![CDATA[wolfg:
+    我是fakeroot fc-cache -v -f 的方式flush了font , 但是 还是无法看到中文的字符.
+   fcitx 在sdk环境中允许的时候会出现输入英文正常,中文输入框打开的时候是一条线,输入后线会拉长,应该是找不到中文字所以无法显示中文,但输入框可以正确显示( 除了需要显示中文的地方).
+   我重新安装一下sdk环境试试,估计是哪里我改错了!
+  一直没有时间系统的看看sdk的文档,感觉无从入手, 很多变量设置后无法生效,sdk环境和寄主环境差别还是满大的!]]></description>
+		<content:encoded><![CDATA[<p>wolfg:<br />
+    我是fakeroot fc-cache -v -f 的方式flush了font , 但是 还是无法看到中文的字符.<br />
+   fcitx 在sdk环境中允许的时候会出现输入英文正常,中文输入框打开的时候是一条线,输入后线会拉长,应该是找不到中文字所以无法显示中文,但输入框可以正确显示( 除了需要显示中文的地方).<br />
+   我重新安装一下sdk环境试试,估计是哪里我改错了!<br />
+  一直没有时间系统的看看sdk的文档,感觉无从入手, 很多变量设置后无法生效,sdk环境和寄主环境差别还是满大的!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-10331</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 08:13:13 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-10331</guid>
+		<description><![CDATA[SDK里不用安装那些主题和字体，直接下载firefly字体放到用户主目录下的.fonts目录里，然后执行 fakeroot fc-cache -v -f]]></description>
+		<content:encoded><![CDATA[<p>SDK里不用安装那些主题和字体，直接下载firefly字体放到用户主目录下的.fonts目录里，然后执行 fakeroot fc-cache -v -f</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：kissingwolf</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-9799</link>
+		<dc:creator><![CDATA[kissingwolf]]></dc:creator>
+		<pubDate>Tue, 08 May 2007 12:31:44 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-9799</guid>
+		<description><![CDATA[Hi Wolfg , 五一我忙着上课没来得及搞maemo下的fcitx , 昨天晚上看到fcitx测试版升级，就下了并且在scratchbox中ARM环境下编译了，没有期待中的出错，正常编译通过！export设置XIM和其它相关的环境变量后运行起af-sb-init.sh,然后运行fcitx 可以在af-destop中看到fcitx的输入条，但是因为没有安装zh-fonts所以无法输入！
+我下载了你blog中提到的theme和字体，安装到scratchbox中，但运行fc-cache -f的时候报错－－无权限！我使用fakeroot方式运行问题依旧（我fakeroot id 可以看到自己的uid为root 0 ).
+因为很少用debian的系统，对debian的fakeroot不了解，无法判断自己是在那里出错! 
+是否可以给我一点建设性的意见！谢谢。]]></description>
+		<content:encoded><![CDATA[<p>Hi Wolfg , 五一我忙着上课没来得及搞maemo下的fcitx , 昨天晚上看到fcitx测试版升级，就下了并且在scratchbox中ARM环境下编译了，没有期待中的出错，正常编译通过！export设置XIM和其它相关的环境变量后运行起af-sb-init.sh,然后运行fcitx 可以在af-destop中看到fcitx的输入条，但是因为没有安装zh-fonts所以无法输入！<br />
+我下载了你blog中提到的theme和字体，安装到scratchbox中，但运行fc-cache -f的时候报错－－无权限！我使用fakeroot方式运行问题依旧（我fakeroot id 可以看到自己的uid为root 0 ).<br />
+因为很少用debian的系统，对debian的fakeroot不了解，无法判断自己是在那里出错!<br />
+是否可以给我一点建设性的意见！谢谢。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Uraka.Lee</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8755</link>
+		<dc:creator><![CDATA[Uraka.Lee]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 03:59:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8755</guid>
+		<description><![CDATA[Ha, but I want to use it in whitestork dictionary~]]></description>
+		<content:encoded><![CDATA[<p>Ha, but I want to use it in whitestork dictionary~</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8745</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 03:12:17 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8745</guid>
+		<description><![CDATA[发布时会有ttf-thryomanes安装包的 :)]]></description>
+		<content:encoded><![CDATA[<p>发布时会有ttf-thryomanes安装包的 :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Uraka.Lee</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8700</link>
+		<dc:creator><![CDATA[Uraka.Lee]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2007 18:48:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8700</guid>
+		<description><![CDATA[问一下有ttf-thryomanes的包么？还是要自己下载字体然后安装到设备上？]]></description>
+		<content:encoded><![CDATA[<p>问一下有ttf-thryomanes的包么？还是要自己下载字体然后安装到设备上？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8541</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2007 15:26:10 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8541</guid>
+		<description><![CDATA[我用的还是3.0，VKB上有shift等控制键，不清楚会是什么原因。
+
+期待你在fcitx上的进展 :)]]></description>
+		<content:encoded><![CDATA[<p>我用的还是3.0，VKB上有shift等控制键，不清楚会是什么原因。</p>
+<p>期待你在fcitx上的进展 :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：kissingwolf</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8540</link>
+		<dc:creator><![CDATA[kissingwolf]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2007 15:19:52 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8540</guid>
+		<description><![CDATA[我之前按手册试图安装maemo-explicit,发现下载依赖包的时候出现404 error ,然后再install 就报无法满足依赖关系了。因为最近在忙着上课，就没管它了。今天上maemo.org发现有新的maemo 3.1出来了，想起前面做过upgrade和update,因该是这个问题，下载了新的3.1的maemo-sdk-nokia-binaries_3.1.sh,装上后 fakeroot apt-get install maemo-explicit 就ok了，但是好像VKB没有shift和其它控制按键，可否告知如何显示shift及其它控制按键？
+我对输入法控制不是很清楚，等5。1的时候看看是否可以联系到Yuking,询问一些fcitx的细节。
+再次感谢你的回复。]]></description>
+		<content:encoded><![CDATA[<p>我之前按手册试图安装maemo-explicit,发现下载依赖包的时候出现404 error ,然后再install 就报无法满足依赖关系了。因为最近在忙着上课，就没管它了。今天上maemo.org发现有新的maemo 3.1出来了，想起前面做过upgrade和update,因该是这个问题，下载了新的3.1的maemo-sdk-nokia-binaries_3.1.sh,装上后 fakeroot apt-get install maemo-explicit 就ok了，但是好像VKB没有shift和其它控制按键，可否告知如何显示shift及其它控制按键？<br />
+我对输入法控制不是很清楚，等5。1的时候看看是否可以联系到Yuking,询问一些fcitx的细节。<br />
+再次感谢你的回复。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8386</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 02:01:14 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8386</guid>
+		<description><![CDATA[3.0的SDK有了变化，默认没有VKB了。需要单独安装Nokia EUSA licensed binaries。安装说明INSTALL.txt里都有讲到。
+fakeroot apt-get install maemo-explicit
+
+fcitx好像基于xim，不是gtkimmodule，可能会有些麻烦。scim也有对fcitx的支持，不知移植scim-fcitx效果如何？]]></description>
+		<content:encoded><![CDATA[<p>3.0的SDK有了变化，默认没有VKB了。需要单独安装Nokia EUSA licensed binaries。安装说明INSTALL.txt里都有讲到。<br />
+fakeroot apt-get install maemo-explicit</p>
+<p>fcitx好像基于xim，不是gtkimmodule，可能会有些麻烦。scim也有对fcitx的支持，不知移植scim-fcitx效果如何？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：kissingwolf</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8339</link>
+		<dc:creator><![CDATA[kissingwolf]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2007 13:43:32 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8339</guid>
+		<description><![CDATA[我scratchbox上没有软键盘，请问你的环境下有吗？如果有，请告知如何调出，谢谢！
+我对debian的包结构不是很熟悉，主要是使用fc桌面的，习惯用fcitx作为输入法，不太习惯scim,正在熟悉debian的包结构中，希望可以将fcitx迁移如maemo.
+以后免不了要多向仁兄请教了！]]></description>
+		<content:encoded><![CDATA[<p>我scratchbox上没有软键盘，请问你的环境下有吗？如果有，请告知如何调出，谢谢！<br />
+我对debian的包结构不是很熟悉，主要是使用fc桌面的，习惯用fcitx作为输入法，不太习惯scim,正在熟悉debian的包结构中，希望可以将fcitx迁移如maemo.<br />
+以后免不了要多向仁兄请教了！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comment-8276</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 23 Apr 2007 23:09:54 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316#comment-8276</guid>
+		<description><![CDATA[哦，那段视频是我用数码相机直接录制的，比较简陋。
+
+交叉编译环境就是在Scratchbox上的Maemo SDK]]></description>
+		<content:encoded><![CDATA[<p>哦，那段视频是我用数码相机直接录制的，比较简陋。</p>
+<p>交叉编译环境就是在Scratchbox上的Maemo SDK</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.097 seconds -->

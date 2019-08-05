@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scim &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/scim/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Google Developer Day 2007 in Beijing</title>
+		<link>/oss/google-developer-day-2007-beijing/</link>
+		<pubDate>Thu, 31 May 2007 14:12:33 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[cpug]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/31/328</guid>
+		<description><![CDATA[挺着牙痛去参加了Google Developer Day，有机会跟CPUG的老朋友见面，结识新朋友，有幸和Py &#8230; <p class="link-more"><a href="/oss/google-developer-day-2007-beijing/" class="more-link">继续阅读<span class="screen-reader-text">“Google Developer Day 2007 in Beijing”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">328</post-id>	</item>
+		<item>
+		<title>MaemoCJK Chinese support version 0.3.3 released!</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/</link>
+		<comments>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comments</comments>
+		<pubDate>Mon, 16 Apr 2007 01:23:28 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312</guid>
+		<description><![CDATA[See https://garage.maemo.org/forum/forum.php?forum_id=9 &#8230; <p class="link-more"><a href="/linux/maemo-linux/maemocjk-chinese-support-version-033-released/" class="more-link">继续阅读<span class="screen-reader-text">“MaemoCJK Chinese support version 0.3.3 released!”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">312</post-id>	</item>
+		<item>
+		<title>SCIM移植</title>
+		<link>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/</link>
+		<comments>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/#comments</comments>
+		<pubDate>Sat, 14 Apr 2007 17:27:50 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/15/311</guid>
+		<description><![CDATA[代码已经提交到MameoCJK项目了，不过还没有正式发布。我设置的源不会再更新了。目前可以使用MaemoCJK &#8230; <p class="link-more"><a href="/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/" class="more-link">继续阅读<span class="screen-reader-text">“SCIM移植”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/scim%e7%a7%bb%e6%a4%8d/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">311</post-id>	</item>
+		<item>
+		<title>Please help me to test scim for N800</title>
+		<link>/linux/maemo-linux/please-help-me-to-test-scim-for-n800/</link>
+		<comments>/linux/maemo-linux/please-help-me-to-test-scim-for-n800/#comments</comments>
+		<pubDate>Thu, 05 Apr 2007 20:39:26 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/06/310</guid>
+		<description><![CDATA[Hi, buddies, I made scim packages for N800. please test &#8230; <p class="link-more"><a href="/linux/maemo-linux/please-help-me-to-test-scim-for-n800/" class="more-link">继续阅读<span class="screen-reader-text">“Please help me to test scim for N800”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/please-help-me-to-test-scim-for-n800/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">310</post-id>	</item>
+		<item>
+		<title>Input Chinese on Nokia 770 with SCIM</title>
+		<link>/linux/maemo-linux/input-chinese-on-nokia-770-with-scim/</link>
+		<comments>/linux/maemo-linux/input-chinese-on-nokia-770-with-scim/#comments</comments>
+		<pubDate>Wed, 28 Mar 2007 15:35:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/03/28/308</guid>
+		<description><![CDATA[I've ported SCIM to N770. It's a just work version, man &#8230; <p class="link-more"><a href="/linux/maemo-linux/input-chinese-on-nokia-770-with-scim/" class="more-link">继续阅读<span class="screen-reader-text">“Input Chinese on Nokia 770 with SCIM”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/input-chinese-on-nokia-770-with-scim/feed/</wfw:commentRss>
+		<slash:comments>74</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">308</post-id>	</item>
+		<item>
+		<title>Porting SCIM to Nokia 770</title>
+		<link>/linux/maemo-linux/porting-scim-to-nokia-770/</link>
+		<comments>/linux/maemo-linux/porting-scim-to-nokia-770/#comments</comments>
+		<pubDate>Tue, 27 Mar 2007 03:51:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/03/27/307</guid>
+		<description><![CDATA[Ideas got from Maemo CJK Support: Replace VKB with Matc &#8230; <p class="link-more"><a href="/linux/maemo-linux/porting-scim-to-nokia-770/" class="more-link">继续阅读<span class="screen-reader-text">“Porting SCIM to Nokia 770”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/porting-scim-to-nokia-770/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">307</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.115 seconds -->

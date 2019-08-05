@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《How to add a new language to 770/N800》的评论</title>
+	<atom:link href="/linux/maemo-linux/how-to-add-a-new-language-to-770n800/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：N810的界面汉化 : VX Box</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-53026</link>
+		<dc:creator><![CDATA[N810的界面汉化 : VX Box]]></dc:creator>
+		<pubDate>Sun, 26 Jul 2009 08:17:02 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-53026</guid>
+		<description><![CDATA[[...] 把中文化的文件覆盖进en_UK，然后区域语言选en_UK就可以 而在 http://guoyong.org/2007/04/28/318 给出了增加中文locale的方法 [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] 把中文化的文件覆盖进en_UK，然后区域语言选en_UK就可以 而在 <a href="http://guoyong.org/2007/04/28/318" rel="nofollow">http://guoyong.org/2007/04/28/318</a> 给出了增加中文locale的方法 [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Blog of Roy Chan &#187; Blog Archive &#187; 在 Maemo 設定中文 locale</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-45295</link>
+		<dc:creator><![CDATA[Blog of Roy Chan &#187; Blog Archive &#187; 在 Maemo 設定中文 locale]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2009 11:26:07 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-45295</guid>
+		<description><![CDATA[[...] How to add a new language to 770/N800 at wolfg’s Weblog [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] How to add a new language to 770/N800 at wolfg’s Weblog [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：xxqinhai</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-43198</link>
+		<dc:creator><![CDATA[xxqinhai]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2008 06:04:09 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-43198</guid>
+		<description><![CDATA[我也想高人给指点一下没有有中国界面]]></description>
+		<content:encoded><![CDATA[<p>我也想高人给指点一下没有有中国界面</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：xxqinhai</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-42985</link>
+		<dc:creator><![CDATA[xxqinhai]]></dc:creator>
+		<pubDate>Sun, 12 Oct 2008 06:23:29 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-42985</guid>
+		<description><![CDATA[怎么将OS2008的系统菜单显示中文，希望能详细介绍一下。谢谢]]></description>
+		<content:encoded><![CDATA[<p>怎么将OS2008的系统菜单显示中文，希望能详细介绍一下。谢谢</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：John Li</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-33993</link>
+		<dc:creator><![CDATA[John Li]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2008 18:05:50 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-33993</guid>
+		<description><![CDATA[How to install chinese font on to Nokia 800 inorder to display the character ?  Also it has os2008.
+
+Thanks,
+
+John]]></description>
+		<content:encoded><![CDATA[<p>How to install chinese font on to Nokia 800 inorder to display the character ?  Also it has os2008.</p>
+<p>Thanks,</p>
+<p>John</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：你好，问一个PYTHON的问题</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-33249</link>
+		<dc:creator><![CDATA[你好，问一个PYTHON的问题]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2008 00:18:57 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-33249</guid>
+		<description><![CDATA[wolfg   	
+
+准备站好最后一班岗，帮助同事学习Ptyhon。但我不会离开Python，正相反，以后会更近了，可能会更加关注python在mobile方面的开发。 -- 
+
+
+我近来玩一下PYTHON FOR WINCE,好像不支持中文，说编译ASCII错误。
+
+请问WOLFG兄是怎么解决这个问题的？谢了先。]]></description>
+		<content:encoded><![CDATA[<p>wolfg   	</p>
+<p>准备站好最后一班岗，帮助同事学习Ptyhon。但我不会离开Python，正相反，以后会更近了，可能会更加关注python在mobile方面的开发。 -- </p>
+<p>我近来玩一下PYTHON FOR WINCE,好像不支持中文，说编译ASCII错误。</p>
+<p>请问WOLFG兄是怎么解决这个问题的？谢了先。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：action</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-28648</link>
+		<dc:creator><![CDATA[action]]></dc:creator>
+		<pubDate>Mon, 14 Jan 2008 17:12:53 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-28648</guid>
+		<description><![CDATA[help me!]]></description>
+		<content:encoded><![CDATA[<p>help me!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：action</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-28555</link>
+		<dc:creator><![CDATA[action]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2008 16:06:47 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-28555</guid>
+		<description><![CDATA[hi 
+  i am in Viet Nam ,i have got a nokia770 HE 2007 .I would like to access and see clearly font on Viet Nam web but i dont know how to do!! Would you have me? It was appreciated!!]]></description>
+		<content:encoded><![CDATA[<p>hi<br />
+  i am in Viet Nam ,i have got a nokia770 HE 2007 .I would like to access and see clearly font on Viet Nam web but i dont know how to do!! Would you have me? It was appreciated!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：SoNg</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-27293</link>
+		<dc:creator><![CDATA[SoNg]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2007 17:16:55 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-27293</guid>
+		<description><![CDATA[Oh!! This&#039;s my E-mail &quot;anfarjet_2@hotmail.com&quot;]]></description>
+		<content:encoded><![CDATA[<p>Oh!! This's my E-mail "anfarjet_2@hotmail.com"</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：SoNg</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-27291</link>
+		<dc:creator><![CDATA[SoNg]]></dc:creator>
+		<pubDate>Thu, 27 Dec 2007 17:13:59 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-27291</guid>
+		<description><![CDATA[Hi wolfg. Can you tell me about add thai language in nokia 770? Please tell me to my E-mail. Thank you.]]></description>
+		<content:encoded><![CDATA[<p>Hi wolfg. Can you tell me about add thai language in nokia 770? Please tell me to my E-mail. Thank you.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：comliang</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-22171</link>
+		<dc:creator><![CDATA[comliang]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2007 01:49:13 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-22171</guid>
+		<description><![CDATA[I have installed maemocjk on my Nokia N800, but I don&#039;t know how to make the smart pinyin to display. Could someone show me the way? Thanks.
+
+本人已经安装了maemocjk,但不知道如何使中文显示。]]></description>
+		<content:encoded><![CDATA[<p>I have installed maemocjk on my Nokia N800, but I don't know how to make the smart pinyin to display. Could someone show me the way? Thanks.</p>
+<p>本人已经安装了maemocjk,但不知道如何使中文显示。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Ann</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-20196</link>
+		<dc:creator><![CDATA[Ann]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2007 02:08:38 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-20196</guid>
+		<description><![CDATA[I will check the website out.  I am sure that I may not fully understand everything, as I am so new to Maemo and Nokia N800.  I will post some more questions if I have any.  Thanks again for your help, Wolfg.]]></description>
+		<content:encoded><![CDATA[<p>I will check the website out.  I am sure that I may not fully understand everything, as I am so new to Maemo and Nokia N800.  I will post some more questions if I have any.  Thanks again for your help, Wolfg.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-20146</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2007 13:09:49 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-20146</guid>
+		<description><![CDATA[hi ann,
+
+To see Chinese characters, you need a Chinese font. To type Chinese pinyin, you need the ported SCIM pinyin ime. Both are included in MaemoCJK package. Visit http://maemocjk.garage.maemo.org/ for details.]]></description>
+		<content:encoded><![CDATA[<p>hi ann,</p>
+<p>To see Chinese characters, you need a Chinese font. To type Chinese pinyin, you need the ported SCIM pinyin ime. Both are included in MaemoCJK package. Visit <a href="http://maemocjk.garage.maemo.org/" rel="nofollow">http://maemocjk.garage.maemo.org/</a> for details.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Ann</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-20113</link>
+		<dc:creator><![CDATA[Ann]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2007 03:32:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-20113</guid>
+		<description><![CDATA[I am totally new to Linux OS and Maemo, so I probably need a lot of help from you all.
+
+A lot of instructions above seem to discuss how to convert N770/N800 UI into Chinese.  I am OK with English UI, but I&#039;d like to know how to SEE Chinese characters in Opera Browser and TYPE Chinese pinyin in Opera Browser and any Chat application.  Any ideas?
+
+Any helps are greately appreciated.  I am sure that you all are the BEST!!!]]></description>
+		<content:encoded><![CDATA[<p>I am totally new to Linux OS and Maemo, so I probably need a lot of help from you all.</p>
+<p>A lot of instructions above seem to discuss how to convert N770/N800 UI into Chinese.  I am OK with English UI, but I'd like to know how to SEE Chinese characters in Opera Browser and TYPE Chinese pinyin in Opera Browser and any Chat application.  Any ideas?</p>
+<p>Any helps are greately appreciated.  I am sure that you all are the BEST!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Jim</title>
+		<link>/linux/maemo-linux/how-to-add-a-new-language-to-770n800/#comment-14386</link>
+		<dc:creator><![CDATA[Jim]]></dc:creator>
+		<pubDate>Thu, 05 Jul 2007 02:37:06 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/28/318#comment-14386</guid>
+		<description><![CDATA[Hi, 
+
+I installed your chinese font and theme and my opera on 770 can display chinese without problem. However, when I use 770 to go to news.163.com, I cannot add RSS on news.163.com. When I tried to do so the 770 told me  &quot;address invalid&quot;. I also manually type the RSS address on 770 and get same result. Could you tell me what should I do in order to add RSS on 163.com into my RSS?]]></description>
+		<content:encoded><![CDATA[<p>Hi, </p>
+<p>I installed your chinese font and theme and my opera on 770 can display chinese without problem. However, when I use 770 to go to news.163.com, I cannot add RSS on news.163.com. When I tried to do so the 770 told me  "address invalid". I also manually type the RSS address on 770 and get same result. Could you tell me what should I do in order to add RSS on 163.com into my RSS?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.087 seconds -->

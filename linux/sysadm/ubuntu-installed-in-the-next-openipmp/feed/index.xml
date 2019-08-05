@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《在Ubuntu下安装OpenIPMP服务器》的评论</title>
+	<atom:link href="/linux/sysadm/ubuntu-installed-in-the-next-openipmp/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/sysadm/ubuntu-installed-in-the-next-openipmp/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：oyq</title>
+		<link>/linux/sysadm/ubuntu-installed-in-the-next-openipmp/#comment-44289</link>
+		<dc:creator><![CDATA[oyq]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2009 06:46:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=363#comment-44289</guid>
+		<description><![CDATA[更正一下：找不到../conf/server.p12”的原因是步骤3]]></description>
+		<content:encoded><![CDATA[<p>更正一下：找不到../conf/server.p12”的原因是步骤3</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：guotie</title>
+		<link>/linux/sysadm/ubuntu-installed-in-the-next-openipmp/#comment-43707</link>
+		<dc:creator><![CDATA[guotie]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2008 06:23:20 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=363#comment-43707</guid>
+		<description><![CDATA[留个名先。
+以后来学习学习。]]></description>
+		<content:encoded><![CDATA[<p>留个名先。<br />
+以后来学习学习。</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

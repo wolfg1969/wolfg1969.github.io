@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Java &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/java/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障</title>
+		<link>/dev/solve-jvm-oom-problem-with-mat/</link>
+		<pubDate>Sun, 11 Mar 2012 14:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[heap dump]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jvm]]></category>
+		<category><![CDATA[mat]]></category>
+
+		<guid isPermaLink="false">/?p=928</guid>
+		<description><![CDATA[这周一我负责维护的一个系统突然出现故障，用户反映系统很慢，浏览器加载半天最后进了错误页面。登录到系统查看，发现 &#8230; <p class="link-more"><a href="/dev/solve-jvm-oom-problem-with-mat/" class="more-link">继续阅读<span class="screen-reader-text">“使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">928</post-id>	</item>
+		<item>
+		<title>再谈使用Commons HttpClient产生大量CLOSE_WAIT</title>
+		<link>/dev/%e5%86%8d%e8%b0%88%e4%bd%bf%e7%94%a8commons-httpclient%e4%ba%a7%e7%94%9f%e5%a4%a7%e9%87%8fclose_wait/</link>
+		<pubDate>Tue, 02 Feb 2010 07:16:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[CLOSE_WAIT]]></category>
+		<category><![CDATA[HttpClient]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[tcp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=572</guid>
+		<description><![CDATA[默认情况下(即用默认构造方法建立HttpClient对象)，httpMethod.releaseConnect &#8230; <p class="link-more"><a href="/dev/%e5%86%8d%e8%b0%88%e4%bd%bf%e7%94%a8commons-httpclient%e4%ba%a7%e7%94%9f%e5%a4%a7%e9%87%8fclose_wait/" class="more-link">继续阅读<span class="screen-reader-text">“再谈使用Commons HttpClient产生大量CLOSE_WAIT”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">572</post-id>	</item>
+		<item>
+		<title>遭遇&#8221;java.io.IOException: Too many open files&#8221;</title>
+		<link>/linux/sysadm/%e9%81%ad%e9%81%87java-io-ioexception-too-many-open-files/</link>
+		<pubDate>Wed, 20 Jan 2010 08:47:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lsof]]></category>
+		<category><![CDATA[ulimit]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=520</guid>
+		<description><![CDATA[今天下午，线上的Jetty服务宕机了，日志里大量的"java.io.IOException: Too many &#8230; <p class="link-more"><a href="/linux/sysadm/%e9%81%ad%e9%81%87java-io-ioexception-too-many-open-files/" class="more-link">继续阅读<span class="screen-reader-text">“遭遇&#8221;java.io.IOException: Too many open files&#8221;”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">520</post-id>	</item>
+		<item>
+		<title>解决Maven Jetty Plugin在Windows下的“文件锁定”问题</title>
+		<link>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/</link>
+		<comments>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/#comments</comments>
+		<pubDate>Mon, 23 Jun 2008 05:31:04 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=360</guid>
+		<description><![CDATA[使用Maven进行Java的web开发，Jetty Plugin是必不可缺的插件，可以极大的提到开发效率。但在 &#8230; <p class="link-more"><a href="/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/" class="more-link">继续阅读<span class="screen-reader-text">“解决Maven Jetty Plugin在Windows下的“文件锁定”问题”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">360</post-id>	</item>
+		<item>
+		<title>Web页面自动打印PDF文件的实现</title>
+		<link>/dev/web-e9-a1-b5-e9-9d-a2-e8-87-aa-e5-8a-a8-e6-89-93-e5-8d-b0pdf-e6-96-87-e4-bb-b6-e7-9a-84-e5-ae-9e-e7-8e-b0/</link>
+		<pubDate>Fri, 29 Feb 2008 15:01:55 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[iText]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[pdf]]></category>
+		<category><![CDATA[print]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2008/02/29/350</guid>
+		<description><![CDATA[借助iText和Adobe Acrobat的Javascript支持，可以实现PDF文档的自动打印（可以做到不 &#8230; <p class="link-more"><a href="/dev/web-e9-a1-b5-e9-9d-a2-e8-87-aa-e5-8a-a8-e6-89-93-e5-8d-b0pdf-e6-96-87-e4-bb-b6-e7-9a-84-e5-ae-9e-e7-8e-b0/" class="more-link">继续阅读<span class="screen-reader-text">“Web页面自动打印PDF文件的实现”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">350</post-id>	</item>
+		<item>
+		<title>发布jar包到自己设立的Maven Repository</title>
+		<link>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/</link>
+		<comments>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/#comments</comments>
+		<pubDate>Sat, 08 Dec 2007 07:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[maven]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/12/08/348</guid>
+		<description><![CDATA[使用Artifactiry为自己的开发团队设立了repository镜像。有时需要把本地的一些第三方的jar包 &#8230; <p class="link-more"><a href="/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/" class="more-link">继续阅读<span class="screen-reader-text">“发布jar包到自己设立的Maven Repository”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">348</post-id>	</item>
+		<item>
+		<title>EasyEclipse的console中文乱码问题的解决</title>
+		<link>/dev/easyeclipse%e7%9a%84console%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/</link>
+		<pubDate>Mon, 14 May 2007 16:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/15/321</guid>
+		<description><![CDATA[EasyEclipse的console中输出中文是乱码，原因是它自带的jre不是多语言版本，从多语言版本的JD &#8230; <p class="link-more"><a href="/dev/easyeclipse%e7%9a%84console%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/" class="more-link">继续阅读<span class="screen-reader-text">“EasyEclipse的console中文乱码问题的解决”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">321</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.090 seconds -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ssh &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/ssh/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>SSH:不用密码登录</title>
+		<link>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/</link>
+		<comments>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/#comments</comments>
+		<pubDate>Sat, 30 Jan 2010 08:31:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=569</guid>
+		<description><![CDATA[用SSH登录远程主机，每次都输入密码挺麻烦的，其实可以用密钥文件来登录： 1. 用ssh-keygen命令生成 &#8230; <p class="link-more"><a href="/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/" class="more-link">继续阅读<span class="screen-reader-text">“SSH:不用密码登录”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">569</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

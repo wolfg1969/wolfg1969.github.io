@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Python &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/python/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>《 Python 计算机视觉编程》学习笔记（一）</title>
+		<link>/python/programming-computer-vision-with-python-note-1/</link>
+		<pubDate>Wed, 27 Dec 2017 12:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Histogram]]></category>
+
+		<guid isPermaLink="false">/?p=1480</guid>
+		<description><![CDATA[练习代码仓库 https://github.com/wolfg1969/Programming-Compute &#8230; <p class="link-more"><a href="/python/programming-computer-vision-with-python-note-1/" class="more-link">继续阅读<span class="screen-reader-text">“《 Python 计算机视觉编程》学习笔记（一）”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1480</post-id>	</item>
+		<item>
+		<title>[翻译] Pipenv – 官方推荐的 Python 包管理工具</title>
+		<link>/python/pipenv-the-officially-recommended-python-packaging-tool/</link>
+		<pubDate>Mon, 25 Dec 2017 05:34:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[package managr]]></category>
+		<category><![CDATA[pip]]></category>
+		<category><![CDATA[pipenv]]></category>
+		<category><![CDATA[virtualenv]]></category>
+
+		<guid isPermaLink="false">/?p=1446</guid>
+		<description><![CDATA[更新 [20180109] pipenv 可以生成 requirements.txt $ pipenv loc &#8230; <p class="link-more"><a href="/python/pipenv-the-officially-recommended-python-packaging-tool/" class="more-link">继续阅读<span class="screen-reader-text">“[翻译] Pipenv – 官方推荐的 Python 包管理工具”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>Django 日志过滤器实战</title>
+		<link>/programing/django-logging-filter-in-action/</link>
+		<pubDate>Sat, 23 Apr 2016 12:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Logging]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1417</guid>
+		<description><![CDATA[Django 的日志配置采用标准的 Python 日志配置方式，默认采用 dictConfig 的格式。Pyt &#8230; <p class="link-more"><a href="/programing/django-logging-filter-in-action/" class="more-link">继续阅读<span class="screen-reader-text">“Django 日志过滤器实战”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1417</post-id>	</item>
+		<item>
+		<title>定制 Django REST Framework 的异常处理</title>
+		<link>/programing/django-rest-framework-custom-exception-handling/</link>
+		<pubDate>Wed, 20 Apr 2016 12:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Django REST Framework]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1415</guid>
+		<description><![CDATA[今天借助修复其它 Bug 的机会，对项目中 REST API 的异常处理机制进行了优化。 项目的 REST A &#8230; <p class="link-more"><a href="/programing/django-rest-framework-custom-exception-handling/" class="more-link">继续阅读<span class="screen-reader-text">“定制 Django REST Framework 的异常处理”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1415</post-id>	</item>
+		<item>
+		<title>一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证</title>
+		<link>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/</link>
+		<comments>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/#comments</comments>
+		<pubDate>Wed, 14 May 2008 13:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[md5crypt]]></category>
+		<category><![CDATA[mysql]]></category>
+		<category><![CDATA[openvpn]]></category>
+		<category><![CDATA[postfix]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=359</guid>
+		<description><![CDATA[这几天配置OpenVPN，使用了用户名密码的身份认证方式，借助已有的postfix邮箱帐号，省去了再为每个人设 &#8230; <p class="link-more"><a href="/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/" class="more-link">继续阅读<span class="screen-reader-text">“一个Python脚本，让OpenVPN使用postfix邮箱帐号进行身份认证”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/sysadm/yi-ge-python-jiao-ben-rang-openvpn-shi-yong-postfix-you-xiang-zhang-hao-jin-xing-shen-fen-ren-zheng/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">359</post-id>	</item>
+		<item>
+		<title>TurboGears开发笔记 (1)</title>
+		<link>/dev/turbogear%e5%bc%80%e5%8f%91%e7%ac%94%e8%ae%b0-1/</link>
+		<pubDate>Thu, 04 Oct 2007 05:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[turbogears]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/10/04/344</guid>
+		<description><![CDATA[1. 使用MySQL数据库 1.1 使用UTF-8字符集 sqlobject.dburi="mysql://r &#8230; <p class="link-more"><a href="/dev/turbogear%e5%bc%80%e5%8f%91%e7%ac%94%e8%ae%b0-1/" class="more-link">继续阅读<span class="screen-reader-text">“TurboGears开发笔记 (1)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">344</post-id>	</item>
+		<item>
+		<title>PyGTK里取得一个xpm图标的灰度图</title>
+		<link>/python/pygtk%e9%87%8c%e5%8f%96%e5%be%97%e4%b8%80%e4%b8%aaxpm%e5%9b%be%e6%a0%87%e7%9a%84%e7%81%b0%e5%ba%a6%e5%9b%be/</link>
+		<pubDate>Wed, 18 Apr 2007 13:47:14 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[pygtk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/18/313</guid>
+		<description><![CDATA[最近用PyMaemo写一个N800上跑的程序时用到的： self.mote_pixbuf = gtk.gdk. &#8230; <p class="link-more"><a href="/python/pygtk%e9%87%8c%e5%8f%96%e5%be%97%e4%b8%80%e4%b8%aaxpm%e5%9b%be%e6%a0%87%e7%9a%84%e7%81%b0%e5%ba%a6%e5%9b%be/" class="more-link">继续阅读<span class="screen-reader-text">“PyGTK里取得一个xpm图标的灰度图”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">313</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.094 seconds -->

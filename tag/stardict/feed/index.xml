@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stardict &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/stardict/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>StarDict for maemo 0.4.0 is out</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/</link>
+		<comments>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comments</comments>
+		<pubDate>Sat, 08 Sep 2007 17:14:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343</guid>
+		<description><![CDATA[http://maemo.org/downloads/product/stardict 下一个版本将计划移植S &#8230; <p class="link-more"><a href="/linux/maemo-linux/stardict-for-maemo-040-is-out/" class="more-link">继续阅读<span class="screen-reader-text">“StarDict for maemo 0.4.0 is out”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/stardict-for-maemo-040-is-out/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">343</post-id>	</item>
+		<item>
+		<title>StarDict for maemo 0.3.0 (2.4.8-1maemo3)</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-030-248-1maemo3/</link>
+		<comments>/linux/maemo-linux/stardict-for-maemo-030-248-1maemo3/#comments</comments>
+		<pubDate>Mon, 27 Aug 2007 06:11:10 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/08/27/341</guid>
+		<description><![CDATA[新的改动： 1. 提供全屏视图 2. 大部分的按钮都改成放在工具条里 3. 将原有gnome风格的帮助文件改成 &#8230; <p class="link-more"><a href="/linux/maemo-linux/stardict-for-maemo-030-248-1maemo3/" class="more-link">继续阅读<span class="screen-reader-text">“StarDict for maemo 0.3.0 (2.4.8-1maemo3)”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/stardict-for-maemo-030-248-1maemo3/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">341</post-id>	</item>
+		<item>
+		<title>StarDict @download.maemo.org</title>
+		<link>/linux/maemo-linux/stardict-downloadmaemoorg/</link>
+		<comments>/linux/maemo-linux/stardict-downloadmaemoorg/#comments</comments>
+		<pubDate>Tue, 21 Aug 2007 15:06:37 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/08/21/340</guid>
+		<description><![CDATA[I have submited StarDict to Application Catalog. The ur &#8230; <p class="link-more"><a href="/linux/maemo-linux/stardict-downloadmaemoorg/" class="more-link">继续阅读<span class="screen-reader-text">“StarDict @download.maemo.org”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/stardict-downloadmaemoorg/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">340</post-id>	</item>
+		<item>
+		<title>StarDict for N800 更新</title>
+		<link>/linux/maemo-linux/stardict-for-n800-%e6%9b%b4%e6%96%b0/</link>
+		<comments>/linux/maemo-linux/stardict-for-n800-%e6%9b%b4%e6%96%b0/#comments</comments>
+		<pubDate>Tue, 21 Aug 2007 07:20:23 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/08/21/339</guid>
+		<description><![CDATA[修改了上一版几个小问题。 支持语音朗读， 去StarDict的官网下载WyabdcRealPeopleTTS压 &#8230; <p class="link-more"><a href="/linux/maemo-linux/stardict-for-n800-%e6%9b%b4%e6%96%b0/" class="more-link">继续阅读<span class="screen-reader-text">“StarDict for N800 更新”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/stardict-for-n800-%e6%9b%b4%e6%96%b0/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">339</post-id>	</item>
+		<item>
+		<title>StarDict for N800的测试安装包</title>
+		<link>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/</link>
+		<comments>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/#comments</comments>
+		<pubDate>Sun, 19 Aug 2007 05:35:58 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/08/19/338</guid>
+		<description><![CDATA[下载网址： http://stardict.garage.maemo.org/ 点击页面上的install图标 &#8230; <p class="link-more"><a href="/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/" class="more-link">继续阅读<span class="screen-reader-text">“StarDict for N800的测试安装包”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/stardict-for-n800%e7%9a%84%e6%b5%8b%e8%af%95%e5%ae%89%e8%a3%85%e5%8c%85/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">338</post-id>	</item>
+		<item>
+		<title>移植StarDict到maemo平台 (2) &#8211; 几张N800上的截图</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/</link>
+		<comments>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/#comments</comments>
+		<pubDate>Mon, 21 May 2007 17:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/22/324</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-2-%e5%87%a0%e5%bc%a0n800%e4%b8%8a%e7%9a%84%e6%88%aa%e5%9b%be/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">324</post-id>	</item>
+		<item>
+		<title>移植StarDict到maemo平台 (1) 准备工作</title>
+		<link>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/</link>
+		<comments>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/#comments</comments>
+		<pubDate>Thu, 19 Apr 2007 16:02:35 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[stardict]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/20/316</guid>
+		<description><![CDATA[参考maemo 3.0 Porting Guide 的 Porting existing applicatio &#8230; <p class="link-more"><a href="/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/" class="more-link">继续阅读<span class="screen-reader-text">“移植StarDict到maemo平台 (1) 准备工作”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/%e7%a7%bb%e6%a4%8dstardict%e5%88%b0maemo%e5%b9%b3%e5%8f%b0-1-%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">316</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.092 seconds -->

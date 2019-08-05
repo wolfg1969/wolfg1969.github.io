@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>photography &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/hobbies/photography/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>今晚拍的月亮</title>
+		<link>/hobbies/tonight-moon/</link>
+		<pubDate>Wed, 04 Apr 2012 12:42:25 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Hobbies]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[astrophotography]]></category>
+		<category><![CDATA[gimp]]></category>
+		<category><![CDATA[moon]]></category>
+
+		<guid isPermaLink="false">/?p=963</guid>
+		<description><![CDATA[用Gimp做了锐化处理： 转为灰度图 Unsharp Mask滤镜处理 Color Curve调整]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">963</post-id>	</item>
+		<item>
+		<title>Radio Man</title>
+		<link>/hobbies/photography/radio-man/</link>
+		<pubDate>Sun, 25 Mar 2012 11:49:18 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[photography]]></category>
+		<category><![CDATA[radio]]></category>
+
+		<guid isPermaLink="false">/?p=944</guid>
+		<description><![CDATA[]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">944</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/hobbies/photography/912/</link>
+		<comments>/hobbies/photography/912/#comments</comments>
+		<pubDate>Sun, 11 Mar 2012 06:03:15 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[photography]]></category>
+		<category><![CDATA[Wordpress for iOS]]></category>
+
+		<guid isPermaLink="false">/?p=912</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/hobbies/photography/912/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">912</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/hobbies/photography/900/</link>
+		<pubDate>Mon, 05 Mar 2012 06:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[photography]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=900</guid>
+		<description><![CDATA[]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">900</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.092 seconds -->

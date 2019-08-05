@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>guoyong &#8211; 郭勇的技术博客</title>
+	<atom:link href="/author/guoyong/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>知道了关于Linux进程的一点事儿</title>
+		<link>/linux/know-something-about-the-process/</link>
+		<pubDate>Tue, 03 Apr 2012 03:05:37 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[orphant process]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[zombie process]]></category>
+
+		<guid isPermaLink="false">/?p=950</guid>
+		<description><![CDATA[昨天在乐维参与这两个问题的回答： Unix-like OS是如何有效的查杀orphan process？ Li &#8230; <p class="link-more"><a href="/linux/know-something-about-the-process/" class="more-link">继续阅读<span class="screen-reader-text">“知道了关于Linux进程的一点事儿”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">950</post-id>	</item>
+		<item>
+		<title>使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障</title>
+		<link>/dev/solve-jvm-oom-problem-with-mat/</link>
+		<pubDate>Sun, 11 Mar 2012 14:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[heap dump]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jvm]]></category>
+		<category><![CDATA[mat]]></category>
+
+		<guid isPermaLink="false">/?p=928</guid>
+		<description><![CDATA[这周一我负责维护的一个系统突然出现故障，用户反映系统很慢，浏览器加载半天最后进了错误页面。登录到系统查看，发现 &#8230; <p class="link-more"><a href="/dev/solve-jvm-oom-problem-with-mat/" class="more-link">继续阅读<span class="screen-reader-text">“使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">928</post-id>	</item>
+		<item>
+		<title>用于修复旧的下载链接的Nginx Rewrite规则</title>
+		<link>/linux/nginx-the-rewrite-url-based-on-get-parameter/</link>
+		<pubDate>Sun, 11 Mar 2012 14:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nginx]]></category>
+		<category><![CDATA[rewrite]]></category>
+
+		<guid isPermaLink="false">/?p=926</guid>
+		<description><![CDATA[旧的下载链接是这样的：/?dl=file 由于原来处理下载请求的插件不工作了，所以就用Nginx的rewrit &#8230; <p class="link-more"><a href="/linux/nginx-the-rewrite-url-based-on-get-parameter/" class="more-link">继续阅读<span class="screen-reader-text">“用于修复旧的下载链接的Nginx Rewrite规则”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">926</post-id>	</item>
+		<item>
+		<title></title>
+		<link>/hobbies/photography/912/</link>
+		<comments>/hobbies/photography/912/#comments</comments>
+		<pubDate>Sun, 11 Mar 2012 06:03:15 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[photography]]></category>
+		<category><![CDATA[Wordpress for iOS]]></category>
+
+		<guid isPermaLink="false">/?p=912</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>/hobbies/photography/912/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">912</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.083 seconds -->

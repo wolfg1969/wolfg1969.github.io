@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>telescope &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/telescope/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>[转]北京天文台姜晓军博士：业余爱好者如何选购望远镜</title>
+		<link>/hobbies/how-to-buy-a-telescope/</link>
+		<pubDate>Sun, 04 Mar 2012 06:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Hobbies]]></category>
+		<category><![CDATA[amateur astronomers]]></category>
+		<category><![CDATA[telescope]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2012/03/04/%e5%8c%97%e4%ba%ac%e5%a4%a9%e6%96%87%e5%8f%b0%e5%a7%9c%e6%99%93%e5%86%9b%e5%8d%9a%e5%a3%ab%ef%bc%9a%e4%b8%9a%e4%bd%99%e7%88%b1%e5%a5%bd%e8%80%85%e5%a6%82%e4%bd%95%e9%80%89%e8%b4%ad%e6%9c%9b%e8%bf%9c/</guid>
+		<description><![CDATA[北京天文台姜晓军博士：业余爱好者如何选购望远镜]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">871</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.072 seconds -->

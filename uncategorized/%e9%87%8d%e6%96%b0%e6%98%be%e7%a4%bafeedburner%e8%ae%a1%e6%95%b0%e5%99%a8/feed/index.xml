@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《重新显示FeedBurner计数器》的评论</title>
+	<atom:link href="/uncategorized/%E9%87%8D%E6%96%B0%E6%98%BE%E7%A4%BAfeedburner%E8%AE%A1%E6%95%B0%E5%99%A8/feed/" rel="self" type="application/rss+xml" />
+	<link>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：david Zeng</title>
+		<link>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/#comment-28757</link>
+		<dc:creator><![CDATA[david Zeng]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2008 06:02:54 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/10/19/347#comment-28757</guid>
+		<description><![CDATA[大侠,救命啊!
+   最近我在做ftp服务器,如题所示solaris mysql vsftp pam_mysql,因为solaris用的是pam。conf配置。
+问题：我打算用vsftpdguest的本地帐号作为虚拟帐号的映射帐号，现在不用pam认证时，本地帐号vsftpdguest是可以登陆的，但是如果用pam认证时，就登陆不了。可以看到mysql日志信息是：当用虚拟帐号登陆ftp时，pam会查询mysql数据库的相对应的，存贮虚拟帐号用户名跟密码的数据库文件-vsftpdvu，也可以看到相关有查询虚拟帐号的密码操作。
+   但是还是登陆不了，请问是哪里出错了？
+ps：如果答复能发到我的邮箱吗？E-mail：zengweifeng@whizen.com]]></description>
+		<content:encoded><![CDATA[<p>大侠,救命啊!<br />
+   最近我在做ftp服务器,如题所示solaris mysql vsftp pam_mysql,因为solaris用的是pam。conf配置。<br />
+问题：我打算用vsftpdguest的本地帐号作为虚拟帐号的映射帐号，现在不用pam认证时，本地帐号vsftpdguest是可以登陆的，但是如果用pam认证时，就登陆不了。可以看到mysql日志信息是：当用虚拟帐号登陆ftp时，pam会查询mysql数据库的相对应的，存贮虚拟帐号用户名跟密码的数据库文件-vsftpdvu，也可以看到相关有查询虚拟帐号的密码操作。<br />
+   但是还是登陆不了，请问是哪里出错了？<br />
+ps：如果答复能发到我的邮箱吗？E-mail：zengweifeng@whizen.com</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/#comment-20891</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 19 Oct 2007 16:53:20 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/10/19/347#comment-20891</guid>
+		<description><![CDATA[呵呵，我这是最近用shell命令比较多的后果，不然我肯定会选择仿照你的php脚本写个python脚本的 :)]]></description>
+		<content:encoded><![CDATA[<p>呵呵，我这是最近用shell命令比较多的后果，不然我肯定会选择仿照你的php脚本写个python脚本的 :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：puNk!d</title>
+		<link>/uncategorized/%e9%87%8d%e6%96%b0%e6%98%be%e7%a4%bafeedburner%e8%ae%a1%e6%95%b0%e5%99%a8/#comment-20875</link>
+		<dc:creator><![CDATA[puNk!d]]></dc:creator>
+		<pubDate>Fri, 19 Oct 2007 10:54:03 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/10/19/347#comment-20875</guid>
+		<description><![CDATA[确实比我的方法简单多了，只怪我wget的用法没好好学 :(
+这下的话一条命令加个cron job就搞定了]]></description>
+		<content:encoded><![CDATA[<p>确实比我的方法简单多了，只怪我wget的用法没好好学 :(<br />
+这下的话一条命令加个cron job就搞定了</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.078 seconds -->

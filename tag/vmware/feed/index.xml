@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vmware &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/vmware/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>给虚拟机的虚拟硬盘增加容量(vmdk file)</title>
+		<link>/linux/using-ubuntu-desktop/%e7%bb%99%e8%99%9a%e6%8b%9f%e6%9c%ba%e7%9a%84%e8%99%9a%e6%8b%9f%e7%a1%ac%e7%9b%98%e5%a2%9e%e5%8a%a0%e5%ae%b9%e9%87%8fvmdk-file/</link>
+		<pubDate>Thu, 04 Mar 2010 09:56:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[gparted]]></category>
+		<category><![CDATA[qemu]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[virtualbox]]></category>
+		<category><![CDATA[vmdk]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[vmware-player]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=576</guid>
+		<description><![CDATA[我使用虚拟机主要是为了使用Windows XP系统来访问网银、进行在线支付。当初安装时是用VMWare Pla &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/%e7%bb%99%e8%99%9a%e6%8b%9f%e6%9c%ba%e7%9a%84%e8%99%9a%e6%8b%9f%e7%a1%ac%e7%9b%98%e5%a2%9e%e5%8a%a0%e5%ae%b9%e9%87%8fvmdk-file/" class="more-link">继续阅读<span class="screen-reader-text">“给虚拟机的虚拟硬盘增加容量(vmdk file)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">576</post-id>	</item>
+		<item>
+		<title>ubuntu下在VMWare Player里安装Windows 2000</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e5%9c%a8vmware-player%e9%87%8c%e5%ae%89%e8%a3%85windows-2000/</link>
+		<comments>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e5%9c%a8vmware-player%e9%87%8c%e5%ae%89%e8%a3%85windows-2000/#comments</comments>
+		<pubDate>Sat, 19 Aug 2006 13:05:15 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[vmdk]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[vmware-player]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/08/19/253</guid>
+		<description><![CDATA[我使用的是ubuntu 6.06 TLS，参考了ubuntu官方论坛里的帖子（链接见本文最后）。 步骤如下（我 &#8230; <p class="link-more"><a href="/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e5%9c%a8vmware-player%e9%87%8c%e5%ae%89%e8%a3%85windows-2000/" class="more-link">继续阅读<span class="screen-reader-text">“ubuntu下在VMWare Player里安装Windows 2000”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e5%9c%a8vmware-player%e9%87%8c%e5%ae%89%e8%a3%85windows-2000/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">253</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.082 seconds -->

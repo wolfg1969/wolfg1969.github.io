@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《MaemoCJK Chinese support version 0.3.3 released!》的评论</title>
+	<atom:link href="/linux/maemo-linux/maemocjk-chinese-support-version-033-released/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Bryan</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-18936</link>
+		<dc:creator><![CDATA[Bryan]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 08:47:51 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-18936</guid>
+		<description><![CDATA[I have flashed my 770 with OS2007 hacker edition. Afther I installed CJK support for 800, I can&#039;t find the other Chinese input except chewing and raw code. Should I install CJK support for 770, or reinstall the one for 800? Thanks.]]></description>
+		<content:encoded><![CDATA[<p>I have flashed my 770 with OS2007 hacker edition. Afther I installed CJK support for 800, I can't find the other Chinese input except chewing and raw code. Should I install CJK support for 770, or reinstall the one for 800? Thanks.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Uraka.Lee</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-8450</link>
+		<dc:creator><![CDATA[Uraka.Lee]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 15:03:49 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-8450</guid>
+		<description><![CDATA[请问在N800中安装maemo的中文支持，运行SCIM后，发现不知道怎么输入方括号和花括号了……应该怎么输入呢？]]></description>
+		<content:encoded><![CDATA[<p>请问在N800中安装maemo的中文支持，运行SCIM后，发现不知道怎么输入方括号和花括号了……应该怎么输入呢？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-8278</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 23 Apr 2007 23:24:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-8278</guid>
+		<description><![CDATA[770最新版的image是OS 2006 Edition version 3.2006.49-2，下载地址 http://www.maemo.org/downloads/nokia_770
+
+770不能刷N800的image。
+
+刷image的方法：
+linux上参考这里 https://maemo.org/maemowiki/HOWTO_FlashLatestNokiaImageWithLinux
+
+windows下的更新程序可以去Nokia官方网站去找。]]></description>
+		<content:encoded><![CDATA[<p>770最新版的image是OS 2006 Edition version 3.2006.49-2，下载地址 <a href="http://www.maemo.org/downloads/nokia_770" rel="nofollow">http://www.maemo.org/downloads/nokia_770</a></p>
+<p>770不能刷N800的image。</p>
+<p>刷image的方法：<br />
+linux上参考这里 <a href="https://maemo.org/maemowiki/HOWTO_FlashLatestNokiaImageWithLinux" rel="nofollow">https://maemo.org/maemowiki/HOWTO_FlashLatestNokiaImageWithLinux</a></p>
+<p>windows下的更新程序可以去Nokia官方网站去找。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：he134</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-8255</link>
+		<dc:creator><![CDATA[he134]]></dc:creator>
+		<pubDate>Mon, 23 Apr 2007 17:51:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-8255</guid>
+		<description><![CDATA[楼主你好，我是说将770刷成最新版，谢谢！]]></description>
+		<content:encoded><![CDATA[<p>楼主你好，我是说将770刷成最新版，谢谢！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-8097</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 21 Apr 2007 10:22:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-8097</guid>
+		<description><![CDATA[你说的升级指什么？更新到最新的image吗？在windows下可以用Nokia官方网站上的一个更新程序。]]></description>
+		<content:encoded><![CDATA[<p>你说的升级指什么？更新到最新的image吗？在windows下可以用Nokia官方网站上的一个更新程序。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：he134</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-8092</link>
+		<dc:creator><![CDATA[he134]]></dc:creator>
+		<pubDate>Sat, 21 Apr 2007 08:27:15 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-8092</guid>
+		<description><![CDATA[楼主你好，请问升级770，电脑上是不是也要装个Linux系统才可以的]]></description>
+		<content:encoded><![CDATA[<p>楼主你好，请问升级770，电脑上是不是也要装个Linux系统才可以的</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hower</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comment-7788</link>
+		<dc:creator><![CDATA[hower]]></dc:creator>
+		<pubDate>Tue, 17 Apr 2007 00:11:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312#comment-7788</guid>
+		<description><![CDATA[I saw the announcement that you are in chagre of the Maemo CJK Chinese Language development.  Congratulation on your new post.  I am very excited about you joining the development team.  You are very capable.  The Chinese community certainly will benefit from your skill and contribution.  Looking forward to the next release of Chinese language input in Nokia 770/800.]]></description>
+		<content:encoded><![CDATA[<p>I saw the announcement that you are in chagre of the Maemo CJK Chinese Language development.  Congratulation on your new post.  I am very excited about you joining the development team.  You are very capable.  The Chinese community certainly will benefit from your skill and contribution.  Looking forward to the next release of Chinese language input in Nokia 770/800.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.086 seconds -->

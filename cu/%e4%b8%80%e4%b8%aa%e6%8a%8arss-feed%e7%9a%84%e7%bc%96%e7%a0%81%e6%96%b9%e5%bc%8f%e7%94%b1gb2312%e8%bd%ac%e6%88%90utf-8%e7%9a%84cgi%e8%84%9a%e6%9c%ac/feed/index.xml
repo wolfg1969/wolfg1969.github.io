@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《一个把Rss Feed的编码方式由GB2312转成UTF-8的CGI脚本》的评论</title>
+	<atom:link href="/cu/%E4%B8%80%E4%B8%AA%E6%8A%8Arss-feed%E7%9A%84%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F%E7%94%B1gb2312%E8%BD%AC%E6%88%90utf-8%E7%9A%84cgi%E8%84%9A%E6%9C%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>/cu/%e4%b8%80%e4%b8%aa%e6%8a%8arss-feed%e7%9a%84%e7%bc%96%e7%a0%81%e6%96%b9%e5%bc%8f%e7%94%b1gb2312%e8%bd%ac%e6%88%90utf-8%e7%9a%84cgi%e8%84%9a%e6%9c%ac/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Joe He</title>
+		<link>/cu/%e4%b8%80%e4%b8%aa%e6%8a%8arss-feed%e7%9a%84%e7%bc%96%e7%a0%81%e6%96%b9%e5%bc%8f%e7%94%b1gb2312%e8%bd%ac%e6%88%90utf-8%e7%9a%84cgi%e8%84%9a%e6%9c%ac/#comment-44808</link>
+		<dc:creator><![CDATA[Joe He]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2009 23:41:58 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/07/25/242#comment-44808</guid>
+		<description><![CDATA[我的网站上面feed全是乱码， 主要因为我的模版是gb2312的，但是feed是：ISO-8859-1，有什么办法解决？]]></description>
+		<content:encoded><![CDATA[<p>我的网站上面feed全是乱码， 主要因为我的模版是gb2312的，但是feed是：ISO-8859-1，有什么办法解决？</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.116 seconds -->

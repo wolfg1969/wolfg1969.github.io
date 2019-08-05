@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>maven &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/maven/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>maven-eclipse-plugin v2.6与aspectj</title>
+		<link>/dev/maven-eclipse-plugin-v26-with-aspectj/</link>
+		<pubDate>Fri, 24 Apr 2009 06:17:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[maven-eclipse-plugin]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=365</guid>
+		<description><![CDATA[最近一段时间以来，项目中使用maven-eclipse-plugin的eclipse:eclipse目标时比较 &#8230; <p class="link-more"><a href="/dev/maven-eclipse-plugin-v26-with-aspectj/" class="more-link">继续阅读<span class="screen-reader-text">“maven-eclipse-plugin v2.6与aspectj”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">365</post-id>	</item>
+		<item>
+		<title>解决Maven Jetty Plugin在Windows下的“文件锁定”问题</title>
+		<link>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/</link>
+		<comments>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/#comments</comments>
+		<pubDate>Mon, 23 Jun 2008 05:31:04 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=360</guid>
+		<description><![CDATA[使用Maven进行Java的web开发，Jetty Plugin是必不可缺的插件，可以极大的提到开发效率。但在 &#8230; <p class="link-more"><a href="/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/" class="more-link">继续阅读<span class="screen-reader-text">“解决Maven Jetty Plugin在Windows下的“文件锁定”问题”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">360</post-id>	</item>
+		<item>
+		<title>发布jar包到自己设立的Maven Repository</title>
+		<link>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/</link>
+		<comments>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/#comments</comments>
+		<pubDate>Sat, 08 Dec 2007 07:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[maven]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/12/08/348</guid>
+		<description><![CDATA[使用Artifactiry为自己的开发团队设立了repository镜像。有时需要把本地的一些第三方的jar包 &#8230; <p class="link-more"><a href="/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/" class="more-link">继续阅读<span class="screen-reader-text">“发布jar包到自己设立的Maven Repository”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">348</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.084 seconds -->

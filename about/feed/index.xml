@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《关于》的评论</title>
+	<atom:link href="/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：elaine</title>
+		<link>/about/#comment-397206</link>
+		<dc:creator><![CDATA[elaine]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2017 03:39:44 +0000</pubDate>
+		<guid isPermaLink="false">#comment-397206</guid>
+		<description><![CDATA[你好，githuber上了解到相关信息~
+
+我是猎头elaine，幸会~
+
+最近在帮探探寻觅 ios开发 ，如若方便，]]></description>
+		<content:encoded><![CDATA[<p>你好，githuber上了解到相关信息~</p>
+<p>我是猎头elaine，幸会~</p>
+<p>最近在帮探探寻觅 ios开发 ，如若方便，</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Roland</title>
+		<link>/about/#comment-321448</link>
+		<dc:creator><![CDATA[Roland]]></dc:creator>
+		<pubDate>Thu, 21 May 2015 17:38:24 +0000</pubDate>
+		<guid isPermaLink="false">#comment-321448</guid>
+		<description><![CDATA[Hi wolfg,
+
+How do you get into Jenkins CI github org?
+
+Best,
+Roland]]></description>
+		<content:encoded><![CDATA[<p>Hi wolfg,</p>
+<p>How do you get into Jenkins CI github org?</p>
+<p>Best,<br />
+Roland</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/about/#comment-69880</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 16 Mar 2011 01:33:31 +0000</pubDate>
+		<guid isPermaLink="false">#comment-69880</guid>
+		<description><![CDATA[hi, there is no update on it. :)]]></description>
+		<content:encoded><![CDATA[<p>hi, there is no update on it. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：chris</title>
+		<link>/about/#comment-69853</link>
+		<dc:creator><![CDATA[chris]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2011 19:41:15 +0000</pubDate>
+		<guid isPermaLink="false">#comment-69853</guid>
+		<description><![CDATA[Hello,
+
+i am interresting in your autopräfix program for symbian, i have an nokia x6 and it doesnt work, caus its the 5. edition, not the 2nd.
+Do you working on any update?
+with best regards,
+chris]]></description>
+		<content:encoded><![CDATA[<p>Hello,</p>
+<p>i am interresting in your autopräfix program for symbian, i have an nokia x6 and it doesnt work, caus its the 5. edition, not the 2nd.<br />
+Do you working on any update?<br />
+with best regards,<br />
+chris</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.088 seconds -->

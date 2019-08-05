@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Porting SCIM to Nokia 770》的评论</title>
+	<atom:link href="/linux/maemo-linux/porting-scim-to-nokia-770/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/porting-scim-to-nokia-770/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：allan</title>
+		<link>/linux/maemo-linux/porting-scim-to-nokia-770/#comment-26919</link>
+		<dc:creator><![CDATA[allan]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2007 10:13:19 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/27/307#comment-26919</guid>
+		<description><![CDATA[安装包放在那里呢，我可以试试？ 
+ALLAN]]></description>
+		<content:encoded><![CDATA[<p>安装包放在那里呢，我可以试试？<br />
+ALLAN</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/porting-scim-to-nokia-770/#comment-6163</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2007 15:46:48 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/27/307#comment-6163</guid>
+		<description><![CDATA[to touch:
+光有VKB是不够的，需要配合GTK输入模块才可以。
+
+to Keyser Soze:
+目前手上没有N800，没法继续了 :)
+
+btw，770上的安装包已经做好了。]]></description>
+		<content:encoded><![CDATA[<p>to touch:<br />
+光有VKB是不够的，需要配合GTK输入模块才可以。</p>
+<p>to Keyser Soze:<br />
+目前手上没有N800，没法继续了 :)</p>
+<p>btw，770上的安装包已经做好了。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Keyser Soze</title>
+		<link>/linux/maemo-linux/porting-scim-to-nokia-770/#comment-6127</link>
+		<dc:creator><![CDATA[Keyser Soze]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2007 03:50:38 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/27/307#comment-6127</guid>
+		<description><![CDATA[希望早日能在N800上用上SCIM，Keep up the good work! :)]]></description>
+		<content:encoded><![CDATA[<p>希望早日能在N800上用上SCIM，Keep up the good work! :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：touch</title>
+		<link>/linux/maemo-linux/porting-scim-to-nokia-770/#comment-6077</link>
+		<dc:creator><![CDATA[touch]]></dc:creator>
+		<pubDate>Tue, 27 Mar 2007 11:52:42 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/27/307#comment-6077</guid>
+		<description><![CDATA[你好,wolfg.看来你的进展不错.
+不知道你将matchbox-keyboard装到N770上没?我想问你几个问题
+
+我把matchbox-keyboard打成deb包,装到N770上.发现有很多问题.
+1.它只能在X Terminal里面启动,图标启动不了.
+2.启动后出现的VKB将以前的VKB挡住,虽然能输入,但是不能做到自动调整窗口的显示区域,X Terminal的滚动条拉动到matchboxVKB的区域就不能继续下拉了.
+3.如何能在Notes和浏览器或者其他需要输入的程序自动调用matchboxVKB?
+
+因为编程能力有限,没看懂源码,不知解决上面三个问题从何入手?]]></description>
+		<content:encoded><![CDATA[<p>你好,wolfg.看来你的进展不错.<br />
+不知道你将matchbox-keyboard装到N770上没?我想问你几个问题</p>
+<p>我把matchbox-keyboard打成deb包,装到N770上.发现有很多问题.<br />
+1.它只能在X Terminal里面启动,图标启动不了.<br />
+2.启动后出现的VKB将以前的VKB挡住,虽然能输入,但是不能做到自动调整窗口的显示区域,X Terminal的滚动条拉动到matchboxVKB的区域就不能继续下拉了.<br />
+3.如何能在Notes和浏览器或者其他需要输入的程序自动调用matchboxVKB?</p>
+<p>因为编程能力有限,没看懂源码,不知解决上面三个问题从何入手?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->

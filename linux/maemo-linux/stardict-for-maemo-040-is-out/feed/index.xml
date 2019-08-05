@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《StarDict for maemo 0.4.0 is out》的评论</title>
+	<atom:link href="/linux/maemo-linux/stardict-for-maemo-040-is-out/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：ppip</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-37259</link>
+		<dc:creator><![CDATA[ppip]]></dc:creator>
+		<pubDate>Wed, 28 May 2008 08:19:22 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-37259</guid>
+		<description><![CDATA[针对os2007的maemo5版本似乎没有放出？现在的maemo4版本只要查词就会down掉。]]></description>
+		<content:encoded><![CDATA[<p>针对os2007的maemo5版本似乎没有放出？现在的maemo4版本只要查词就会down掉。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ppip</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-37260</link>
+		<dc:creator><![CDATA[ppip]]></dc:creator>
+		<pubDate>Wed, 28 May 2008 08:19:22 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-37260</guid>
+		<description><![CDATA[针对os2007的maemo5版本似乎没有放出？现在的maemo4版本只要查词就会down掉。]]></description>
+		<content:encoded><![CDATA[<p>针对os2007的maemo5版本似乎没有放出？现在的maemo4版本只要查词就会down掉。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Garfield</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-34835</link>
+		<dc:creator><![CDATA[Garfield]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2008 15:50:06 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-34835</guid>
+		<description><![CDATA[音标问题在安装DoulosSILR字体后已解决，谢谢！
+
+另一个问题： 我安装了语音文件，也能在n810的程序界面看到并点击那个齿轮按钮，但没有声音出现，在命令行执行
+
+1. stardict-wav-play.sh abandon.wav 返回
+method return sender=:1.9 -&#062; dest=:1.38
+
+2. stardict-wav-play.sh /media/mmc2/WyabdcRealPeopleTTS/abandon.wav 收到
+method return sender=:1.9 -&#062; dest=:1.41
+
+3.stardict-wav-play.sh /media/mmc2/WyabdcRealPeopleTTS/a/abandon.wav 收到
+method return sender=:1.9 -&#062; dest=:1.42
+
+我查看一下stardict-wav-play.sh内容，我不懂，但我怀疑是否osso_media_server的路径指错了。请帮忙看看，谢谢]]></description>
+		<content:encoded><![CDATA[<p>音标问题在安装DoulosSILR字体后已解决，谢谢！</p>
+<p>另一个问题： 我安装了语音文件，也能在n810的程序界面看到并点击那个齿轮按钮，但没有声音出现，在命令行执行</p>
+<p>1. stardict-wav-play.sh abandon.wav 返回<br />
+method return sender=:1.9 -&gt; dest=:1.38</p>
+<p>2. stardict-wav-play.sh /media/mmc2/WyabdcRealPeopleTTS/abandon.wav 收到<br />
+method return sender=:1.9 -&gt; dest=:1.41</p>
+<p>3.stardict-wav-play.sh /media/mmc2/WyabdcRealPeopleTTS/a/abandon.wav 收到<br />
+method return sender=:1.9 -&gt; dest=:1.42</p>
+<p>我查看一下stardict-wav-play.sh内容，我不懂，但我怀疑是否osso_media_server的路径指错了。请帮忙看看，谢谢</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Garfield</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-34818</link>
+		<dc:creator><![CDATA[Garfield]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2008 13:40:07 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-34818</guid>
+		<description><![CDATA[Thank you very much for your amazing work. 
+
+My question is how to display the IPA (phonetic alphabet) correctly. I know maybe I should install some font (e.g. DoulosSILR), but if I use them, I think I could not use English-Chinese dictionary. Any suggestion? Thank you]]></description>
+		<content:encoded><![CDATA[<p>Thank you very much for your amazing work. </p>
+<p>My question is how to display the IPA (phonetic alphabet) correctly. I know maybe I should install some font (e.g. DoulosSILR), but if I use them, I think I could not use English-Chinese dictionary. Any suggestion? Thank you</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-31810</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2008 03:12:08 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-31810</guid>
+		<description><![CDATA[Great! Can you commit your work to garage?]]></description>
+		<content:encoded><![CDATA[<p>Great! Can you commit your work to garage?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Eugene</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-31775</link>
+		<dc:creator><![CDATA[Eugene]]></dc:creator>
+		<pubDate>Sun, 24 Feb 2008 11:17:51 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-31775</guid>
+		<description><![CDATA[Stardict for OS2008 - 
+http://antimirov.blogspot.com/2008/02/stardict-dor-it-os2008.html]]></description>
+		<content:encoded><![CDATA[<p>Stardict for OS2008 -<br />
+<a href="http://antimirov.blogspot.com/2008/02/stardict-dor-it-os2008.html" rel="nofollow">http://antimirov.blogspot.com/2008/02/stardict-dor-it-os2008.html</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Ann</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-31130</link>
+		<dc:creator><![CDATA[Ann]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2008 00:29:45 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-31130</guid>
+		<description><![CDATA[OS2008 version would really be a nice gift;)]]></description>
+		<content:encoded><![CDATA[<p>OS2008 version would really be a nice gift;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ken</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-30824</link>
+		<dc:creator><![CDATA[ken]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2008 01:31:23 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-30824</guid>
+		<description><![CDATA[thanks a lot for your work. Really looking forward to OS2008 version!]]></description>
+		<content:encoded><![CDATA[<p>thanks a lot for your work. Really looking forward to OS2008 version!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Jacek</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-26752</link>
+		<dc:creator><![CDATA[Jacek]]></dc:creator>
+		<pubDate>Sat, 22 Dec 2007 21:39:33 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-26752</guid>
+		<description><![CDATA[Hi, when version for OS2008 ?  StarDict started to be must have app for me on this platform ;)]]></description>
+		<content:encoded><![CDATA[<p>Hi, when version for OS2008 ?  StarDict started to be must have app for me on this platform ;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：XuPan</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-25255</link>
+		<dc:creator><![CDATA[XuPan]]></dc:creator>
+		<pubDate>Fri, 07 Dec 2007 09:46:25 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-25255</guid>
+		<description><![CDATA[hi Wolfg
+After reading your article about Stardict in Nokia N800 in forum of www.51nb.com, absolutely cool :)
+
+i have some question now.
+
+If i have a user-define-dictionary with a uncommon language, such as translating English to Thai or Lao.
+
+I build the dict with English and Lao Unicode FONT. Could it will be display correctly or not in N800.
+
+Could you do me a favor to test it if I send you my dict by email?
+
+Eagerly hope your reply?
+
+regards,
+
+XuPan/20071207]]></description>
+		<content:encoded><![CDATA[<p>hi Wolfg<br />
+After reading your article about Stardict in Nokia N800 in forum of <a href="http://www.51nb.com/" rel="nofollow">http://www.51nb.com/</a>, absolutely cool :)</p>
+<p>i have some question now.</p>
+<p>If i have a user-define-dictionary with a uncommon language, such as translating English to Thai or Lao.</p>
+<p>I build the dict with English and Lao Unicode FONT. Could it will be display correctly or not in N800.</p>
+<p>Could you do me a favor to test it if I send you my dict by email?</p>
+<p>Eagerly hope your reply?</p>
+<p>regards,</p>
+<p>XuPan/20071207</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：YangPei</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-22822</link>
+		<dc:creator><![CDATA[YangPei]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2007 04:59:02 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-22822</guid>
+		<description><![CDATA[师兄，好久不见，今天查东西没想到逛到你这来了，收藏下。请教一下，N800有没有在LINUX下运行的模拟器？]]></description>
+		<content:encoded><![CDATA[<p>师兄，好久不见，今天查东西没想到逛到你这来了，收藏下。请教一下，N800有没有在LINUX下运行的模拟器？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Goldy</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-20686</link>
+		<dc:creator><![CDATA[Goldy]]></dc:creator>
+		<pubDate>Tue, 16 Oct 2007 10:49:13 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-20686</guid>
+		<description><![CDATA[Hi wolfg,
+
+我一直很想能在770上用到stardict，无奈我遇到如下的bug。 之前在51nb上发过的，现在这里自己顶一下。。。
+
+Device: 770
+OS版本:  2007 hacker
+软件版本：2.4.8-1-maemo1
+
+可以查到一些词，但是对于大部分的词有无故退出的问题。
+
+我收集到的错误信息如下 (三类):
+
+词典：只装了CDICT5英汉辞典 , wordcount 57510
+
+(1) 键入&quot;a&quot; , 或者&quot;bu&quot;, 错误如下：
+
+Loading...
+bookname: CDICT5英汉辞典 , wordcount 57510
+Segmentation fault
+
+(2) 键入&quot;yel&quot;, &quot;pr&quot;, 或者&quot;cont&quot;，错误如下：
+
+Loading...
+bookname: CDICT5英汉辞典 , wordcount 57510
+stardict: dictziplib.cpp:473: void dictData::read(char*, long unsigned int, long unsigned int): Assertion `count == this-&#062;chunkLength&#039; failed.
+Aborted
+
+(3) 键入&quot;pla&quot;， 有个warning (程序此时不自动退出，但是由pla起头的单词已经找不着了)
+
+Loading...
+bookname: CDICT5英汉辞典 , wordcount 57510
+stardict[1397]: GLIB WARNING ** default - Invalid markup string: Error on line 8 char 9: Invalid UTF-8 encoded text
+
+
+我自己也玩编程的，如果可以，请加我到develop group里，这样我可以帮忙debug一下造福770友。。。 ^_^]]></description>
+		<content:encoded><![CDATA[<p>Hi wolfg,</p>
+<p>我一直很想能在770上用到stardict，无奈我遇到如下的bug。 之前在51nb上发过的，现在这里自己顶一下。。。</p>
+<p>Device: 770<br />
+OS版本:  2007 hacker<br />
+软件版本：2.4.8-1-maemo1</p>
+<p>可以查到一些词，但是对于大部分的词有无故退出的问题。</p>
+<p>我收集到的错误信息如下 (三类):</p>
+<p>词典：只装了CDICT5英汉辞典 , wordcount 57510</p>
+<p>(1) 键入"a" , 或者"bu", 错误如下：</p>
+<p>Loading...<br />
+bookname: CDICT5英汉辞典 , wordcount 57510<br />
+Segmentation fault</p>
+<p>(2) 键入"yel", "pr", 或者"cont"，错误如下：</p>
+<p>Loading...<br />
+bookname: CDICT5英汉辞典 , wordcount 57510<br />
+stardict: dictziplib.cpp:473: void dictData::read(char*, long unsigned int, long unsigned int): Assertion `count == this-&gt;chunkLength' failed.<br />
+Aborted</p>
+<p>(3) 键入"pla"， 有个warning (程序此时不自动退出，但是由pla起头的单词已经找不着了)</p>
+<p>Loading...<br />
+bookname: CDICT5英汉辞典 , wordcount 57510<br />
+stardict[1397]: GLIB WARNING ** default - Invalid markup string: Error on line 8 char 9: Invalid UTF-8 encoded text</p>
+<p>我自己也玩编程的，如果可以，请加我到develop group里，这样我可以帮忙debug一下造福770友。。。 ^_^</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-20666</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 16 Oct 2007 02:19:19 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-20666</guid>
+		<description><![CDATA[如果对linux不熟悉的话，你可以在windows下用7-zip解压缩字典包，复制到你的存储卡上。存储卡上事先建好目录 stardict\dic\]]></description>
+		<content:encoded><![CDATA[<p>如果对linux不熟悉的话，你可以在windows下用7-zip解压缩字典包，复制到你的存储卡上。存储卡上事先建好目录 stardict\dic\</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：cccdna</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-20632</link>
+		<dc:creator><![CDATA[cccdna]]></dc:creator>
+		<pubDate>Mon, 15 Oct 2007 06:17:17 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-20632</guid>
+		<description><![CDATA[楼主您好，本人刚买了一个N800, 安装了STARDICT  也下载了一些字典，但是根本不知道如何安装字典， 也不是很理解大家讨论的一些目录 比如\MMC1\SHARE...什么的， 我根本在N800里面找不到这样的命令输入。请问怎么才能解决字典安装的问题。。谢谢， 希望得到您的帮会组和提示， 您可以用邮件形式发给我，我可以打电话咨询 。 takarahua@hotmail.com    hua-shen@uiowa.edu]]></description>
+		<content:encoded><![CDATA[<p>楼主您好，本人刚买了一个N800, 安装了STARDICT  也下载了一些字典，但是根本不知道如何安装字典， 也不是很理解大家讨论的一些目录 比如\MMC1\SHARE...什么的， 我根本在N800里面找不到这样的命令输入。请问怎么才能解决字典安装的问题。。谢谢， 希望得到您的帮会组和提示， 您可以用邮件形式发给我，我可以打电话咨询 。 <a href="mailto:takarahua@hotmail.com">takarahua@hotmail.com</a>    <a href="mailto:hua-shen@uiowa.edu">hua-shen@uiowa.edu</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Millek zhang</title>
+		<link>/linux/maemo-linux/stardict-for-maemo-040-is-out/#comment-19209</link>
+		<dc:creator><![CDATA[Millek zhang]]></dc:creator>
+		<pubDate>Sun, 23 Sep 2007 17:36:20 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/09/09/343#comment-19209</guid>
+		<description><![CDATA[没有字典时可以运行程序，我吧字典文件放到/media/mmc1/stardict/dic/目录下后，再运行就会出错。在命令行运行出现如下错误：
+Nokia-N800-26:~# stardict
+Loading...
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_label_set_text: assertion `GTK_IS_LAB                                                                             EL (label)&#039; failed
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_progress_bar_pulse: assertion `GTK_IS                                                                             _PROGRESS_BAR (pbar)&#039; failed
+Sorting, please wait...
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_label_set_text: assertion `GTK_IS_LAB                                                                             EL (label)&#039; failed
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_progress_bar_pulse: assertion `GTK_IS                                                                             _PROGRESS_BAR (pbar)&#039; failed]]></description>
+		<content:encoded><![CDATA[<p>没有字典时可以运行程序，我吧字典文件放到/media/mmc1/stardict/dic/目录下后，再运行就会出错。在命令行运行出现如下错误：<br />
+Nokia-N800-26:~# stardict<br />
+Loading...<br />
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_label_set_text: assertion `GTK_IS_LAB                                                                             EL (label)' failed<br />
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_progress_bar_pulse: assertion `GTK_IS                                                                             _PROGRESS_BAR (pbar)' failed<br />
+Sorting, please wait...<br />
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_label_set_text: assertion `GTK_IS_LAB                                                                             EL (label)' failed<br />
+stardict[2176]: GLIB CRITICAL ** Gtk - gtk_progress_bar_pulse: assertion `GTK_IS                                                                             _PROGRESS_BAR (pbar)' failed</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.092 seconds -->

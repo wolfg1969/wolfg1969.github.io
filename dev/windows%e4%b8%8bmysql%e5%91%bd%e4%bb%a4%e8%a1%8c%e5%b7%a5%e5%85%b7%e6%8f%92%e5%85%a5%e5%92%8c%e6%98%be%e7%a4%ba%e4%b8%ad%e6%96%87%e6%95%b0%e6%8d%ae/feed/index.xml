@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《Windows下mysql命令行工具插入和显示中文数据》的评论</title>
+	<atom:link href="/dev/windows%E4%B8%8Bmysql%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E6%8F%92%E5%85%A5%E5%92%8C%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE/feed/" rel="self" type="application/rss+xml" />
+	<link>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：ox0spy</title>
+		<link>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/#comment-43349</link>
+		<dc:creator><![CDATA[ox0spy]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2008 11:43:55 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/18/322#comment-43349</guid>
+		<description><![CDATA[对了，刚才开了下表也是utf8的
+用 show create table tablename; 看的
+显示 DEFAULT CHARSET=utf8]]></description>
+		<content:encoded><![CDATA[<p>对了，刚才开了下表也是utf8的<br />
+用 show create table tablename; 看的<br />
+显示 DEFAULT CHARSET=utf8</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ox0spy</title>
+		<link>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/#comment-43347</link>
+		<dc:creator><![CDATA[ox0spy]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2008 11:37:18 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/18/322#comment-43347</guid>
+		<description><![CDATA[我的也是一样的
+windows xp sp3
+mysql 字符集设的是 utf8， 命令行查询乱码
+表是django创建的，其他都照你说的做了。。。
+
+pS：在 Ubuntu下把没问题的]]></description>
+		<content:encoded><![CDATA[<p>我的也是一样的<br />
+windows xp sp3<br />
+mysql 字符集设的是 utf8， 命令行查询乱码<br />
+表是django创建的，其他都照你说的做了。。。</p>
+<p>pS：在 Ubuntu下把没问题的</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/#comment-16623</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sat, 04 Aug 2007 12:04:08 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/18/322#comment-16623</guid>
+		<description><![CDATA[你用什么操作系统？]]></description>
+		<content:encoded><![CDATA[<p>你用什么操作系统？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：lanleaf</title>
+		<link>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/#comment-15986</link>
+		<dc:creator><![CDATA[lanleaf]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2007 04:28:19 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/05/18/322#comment-15986</guid>
+		<description><![CDATA[楼主说的“执行查询前，set names gbk;”在我这边由乱码变成了问号，不知咋回事？]]></description>
+		<content:encoded><![CDATA[<p>楼主说的“执行查询前，set names gbk;”在我这边由乱码变成了问号，不知咋回事？</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.082 seconds -->

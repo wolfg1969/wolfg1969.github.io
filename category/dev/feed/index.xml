@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dev &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/dev/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>&#37325;&#24314;Octopress&#29615;&#22659;</title>
+		<link>/dev/octopress/</link>
+		<pubDate>Sun, 11 Nov 2012 20:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[octopress]]></category>
+
+		<guid isPermaLink="false">http://blog.guoyong.me/blog/2012/11/11/re-setup-octopress</guid>
+		<description><![CDATA[
+<p>&#22312;&#21478;&#19968;&#21488;&#26426;&#22120;&#19978;&#37325;&#26032;&#35774;&#32622;Octopress&#29615;&#22659;&#30340;&#27493;&#39588;&#22914;&#19979;&#65306;</p>
+
+<h2>&#23433;&#35013;octopress</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+<span>4</span>
+<span>5</span>
+</pre></td>
+<td><pre><code><span># &#23433;&#35013;rvm, ruby, bundler &#30053;
+</span><span># &#20811;&#38534;octopress
+</span><span>$ git clone git://github.com/imathis/octopress.git octopress
+</span><span># &#23433;&#35013;&#20027;&#39064;
+</span><span>$ rake install</span></code></pre></td>
+</tr></table></div></figure><h2>&#35774;&#32622;github&#24080;&#21495;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+</pre></td>
+<td><pre><code><span>$ rake setup_github_pages</span></code></pre></td>
+</tr></table></div></figure><h2>&#21516;&#27493;Github&#19978;&#24050;&#21457;&#24067;&#30340;&#21338;&#23458;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+<span>4</span>
+<span>5</span>
+<span>6</span>
+</pre></td>
+<td><pre><code><span># &#35206;&#30422;&#26412;&#22320;&#20462;&#25913;
+</span><span>$ git checkout .
+</span><span>$ rm -rf saas source
+</span><span>$ git fetch origin
+</span><span>$ git merge origin/source
+</span><span># &#21487;&#33021;&#38656;&#35201;&#25163;&#21160;merge</span></code></pre></td>
+</tr></table></div></figure><h2>&#24320;&#22987;&#20889;&#20316;&#65281;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+</pre></td>
+<td><pre><code><span>$ rake new_post[new_post]
+</span><span>$ rake generate
+</span><span>$ rake deploy</span></code></pre></td>
+</tr></table></div></figure>
+]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1356</post-id>	</item>
+		<item>
+		<title>使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障</title>
+		<link>/dev/solve-jvm-oom-problem-with-mat/</link>
+		<pubDate>Sun, 11 Mar 2012 14:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[heap dump]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jvm]]></category>
+		<category><![CDATA[mat]]></category>
+
+		<guid isPermaLink="false">/?p=928</guid>
+		<description><![CDATA[这周一我负责维护的一个系统突然出现故障，用户反映系统很慢，浏览器加载半天最后进了错误页面。登录到系统查看，发现 &#8230; <p class="link-more"><a href="/dev/solve-jvm-oom-problem-with-mat/" class="more-link">继续阅读<span class="screen-reader-text">“使用Eclipse Memory Analyzer(MAT)解决Java Web应用故障”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">928</post-id>	</item>
+		<item>
+		<title>Using Postgresql</title>
+		<link>/linux/sysadm/using-postgresql/</link>
+		<pubDate>Tue, 24 Aug 2010 05:56:45 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[centos]]></category>
+		<category><![CDATA[postgis]]></category>
+		<category><![CDATA[postgresql]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=595</guid>
+		<description><![CDATA[1. create tablespace $ mkdir -p /home/postgresql/data $ &#8230; <p class="link-more"><a href="/linux/sysadm/using-postgresql/" class="more-link">继续阅读<span class="screen-reader-text">“Using Postgresql”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">595</post-id>	</item>
+		<item>
+		<title>再谈使用Commons HttpClient产生大量CLOSE_WAIT</title>
+		<link>/dev/%e5%86%8d%e8%b0%88%e4%bd%bf%e7%94%a8commons-httpclient%e4%ba%a7%e7%94%9f%e5%a4%a7%e9%87%8fclose_wait/</link>
+		<pubDate>Tue, 02 Feb 2010 07:16:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[CLOSE_WAIT]]></category>
+		<category><![CDATA[HttpClient]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[tcp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=572</guid>
+		<description><![CDATA[默认情况下(即用默认构造方法建立HttpClient对象)，httpMethod.releaseConnect &#8230; <p class="link-more"><a href="/dev/%e5%86%8d%e8%b0%88%e4%bd%bf%e7%94%a8commons-httpclient%e4%ba%a7%e7%94%9f%e5%a4%a7%e9%87%8fclose_wait/" class="more-link">继续阅读<span class="screen-reader-text">“再谈使用Commons HttpClient产生大量CLOSE_WAIT”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">572</post-id>	</item>
+		<item>
+		<title>再次遭遇大量CLOSE_WAIT</title>
+		<link>/linux/sysadm/%e5%86%8d%e6%ac%a1%e9%81%ad%e9%81%87%e5%a4%a7%e9%87%8fclose_wait/</link>
+		<pubDate>Fri, 22 Jan 2010 12:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[CLOSE_WAIT]]></category>
+		<category><![CDATA[HttpClient]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[tcp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=543</guid>
+		<description><![CDATA[今天下午线上的Jetty服务又停止响应了。不过与上次不同的是，日志里没有Too many open files &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%86%8d%e6%ac%a1%e9%81%ad%e9%81%87%e5%a4%a7%e9%87%8fclose_wait/" class="more-link">继续阅读<span class="screen-reader-text">“再次遭遇大量CLOSE_WAIT”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+		<item>
+		<title>maven-eclipse-plugin v2.6与aspectj</title>
+		<link>/dev/maven-eclipse-plugin-v26-with-aspectj/</link>
+		<pubDate>Fri, 24 Apr 2009 06:17:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[maven-eclipse-plugin]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=365</guid>
+		<description><![CDATA[最近一段时间以来，项目中使用maven-eclipse-plugin的eclipse:eclipse目标时比较 &#8230; <p class="link-more"><a href="/dev/maven-eclipse-plugin-v26-with-aspectj/" class="more-link">继续阅读<span class="screen-reader-text">“maven-eclipse-plugin v2.6与aspectj”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">365</post-id>	</item>
+		<item>
+		<title>BugFree与SVN整合脚本修改</title>
+		<link>/dev/bugfree-with-the-svn-integration-script-modifications/</link>
+		<comments>/dev/bugfree-with-the-svn-integration-script-modifications/#comments</comments>
+		<pubDate>Wed, 11 Mar 2009 07:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[bugfree]]></category>
+		<category><![CDATA[scm]]></category>
+		<category><![CDATA[svn]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=364</guid>
+		<description><![CDATA[目前团队里使用subversion做版本控制，bugfree做缺陷管理。参照官方的做法实现了bugfree和s &#8230; <p class="link-more"><a href="/dev/bugfree-with-the-svn-integration-script-modifications/" class="more-link">继续阅读<span class="screen-reader-text">“BugFree与SVN整合脚本修改”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/bugfree-with-the-svn-integration-script-modifications/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">364</post-id>	</item>
+		<item>
+		<title>解决Maven Jetty Plugin在Windows下的“文件锁定”问题</title>
+		<link>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/</link>
+		<comments>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/#comments</comments>
+		<pubDate>Mon, 23 Jun 2008 05:31:04 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[maven]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=360</guid>
+		<description><![CDATA[使用Maven进行Java的web开发，Jetty Plugin是必不可缺的插件，可以极大的提到开发效率。但在 &#8230; <p class="link-more"><a href="/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/" class="more-link">继续阅读<span class="screen-reader-text">“解决Maven Jetty Plugin在Windows下的“文件锁定”问题”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/jie-jue-maven-jetty-plugin-zai-windows-xia-di-wen-jian-suo-ding-wen-ti/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">360</post-id>	</item>
+		<item>
+		<title>Web页面自动打印PDF文件的实现</title>
+		<link>/dev/web-e9-a1-b5-e9-9d-a2-e8-87-aa-e5-8a-a8-e6-89-93-e5-8d-b0pdf-e6-96-87-e4-bb-b6-e7-9a-84-e5-ae-9e-e7-8e-b0/</link>
+		<pubDate>Fri, 29 Feb 2008 15:01:55 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[iText]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[pdf]]></category>
+		<category><![CDATA[print]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2008/02/29/350</guid>
+		<description><![CDATA[借助iText和Adobe Acrobat的Javascript支持，可以实现PDF文档的自动打印（可以做到不 &#8230; <p class="link-more"><a href="/dev/web-e9-a1-b5-e9-9d-a2-e8-87-aa-e5-8a-a8-e6-89-93-e5-8d-b0pdf-e6-96-87-e4-bb-b6-e7-9a-84-e5-ae-9e-e7-8e-b0/" class="more-link">继续阅读<span class="screen-reader-text">“Web页面自动打印PDF文件的实现”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">350</post-id>	</item>
+		<item>
+		<title>发布jar包到自己设立的Maven Repository</title>
+		<link>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/</link>
+		<comments>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/#comments</comments>
+		<pubDate>Sat, 08 Dec 2007 07:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[maven]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/12/08/348</guid>
+		<description><![CDATA[使用Artifactiry为自己的开发团队设立了repository镜像。有时需要把本地的一些第三方的jar包 &#8230; <p class="link-more"><a href="/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/" class="more-link">继续阅读<span class="screen-reader-text">“发布jar包到自己设立的Maven Repository”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/%e5%8f%91%e5%b8%83jar%e5%8c%85%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84repository/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">348</post-id>	</item>
+		<item>
+		<title>TurboGears开发笔记 (1)</title>
+		<link>/dev/turbogear%e5%bc%80%e5%8f%91%e7%ac%94%e8%ae%b0-1/</link>
+		<pubDate>Thu, 04 Oct 2007 05:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[turbogears]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/10/04/344</guid>
+		<description><![CDATA[1. 使用MySQL数据库 1.1 使用UTF-8字符集 sqlobject.dburi="mysql://r &#8230; <p class="link-more"><a href="/dev/turbogear%e5%bc%80%e5%8f%91%e7%ac%94%e8%ae%b0-1/" class="more-link">继续阅读<span class="screen-reader-text">“TurboGears开发笔记 (1)”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">344</post-id>	</item>
+		<item>
+		<title>Windows下mysql命令行工具插入和显示中文数据</title>
+		<link>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/</link>
+		<comments>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/#comments</comments>
+		<pubDate>Thu, 17 May 2007 17:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[mysql]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/18/322</guid>
+		<description><![CDATA[my.ini里client和mysqld都设置了default-character-set=utf8 数据库和 &#8230; <p class="link-more"><a href="/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/" class="more-link">继续阅读<span class="screen-reader-text">“Windows下mysql命令行工具插入和显示中文数据”</span></a></p>]]></description>
+		<wfw:commentRss>/dev/windows%e4%b8%8bmysql%e5%91%bd%e4%bb%a4%e8%a1%8c%e5%b7%a5%e5%85%b7%e6%8f%92%e5%85%a5%e5%92%8c%e6%98%be%e7%a4%ba%e4%b8%ad%e6%96%87%e6%95%b0%e6%8d%ae/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">322</post-id>	</item>
+		<item>
+		<title>EasyEclipse的console中文乱码问题的解决</title>
+		<link>/dev/easyeclipse%e7%9a%84console%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/</link>
+		<pubDate>Mon, 14 May 2007 16:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/15/321</guid>
+		<description><![CDATA[EasyEclipse的console中输出中文是乱码，原因是它自带的jre不是多语言版本，从多语言版本的JD &#8230; <p class="link-more"><a href="/dev/easyeclipse%e7%9a%84console%e4%b8%ad%e6%96%87%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/" class="more-link">继续阅读<span class="screen-reader-text">“EasyEclipse的console中文乱码问题的解决”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">321</post-id>	</item>
+		<item>
+		<title>Windows XP下安装MySQL遇到的两个问题</title>
+		<link>/dev/windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85mysql%e9%81%87%e5%88%b0%e7%9a%84%e4%b8%a4%e4%b8%aa%e9%97%ae%e9%a2%98/</link>
+		<pubDate>Mon, 14 May 2007 16:39:50 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[mysql]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/15/320</guid>
+		<description><![CDATA[原来的安装用的是直接解压zip包的方式，安装情况如下： 1. 安装目录为C:\mysql-4.1.22-win &#8230; <p class="link-more"><a href="/dev/windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85mysql%e9%81%87%e5%88%b0%e7%9a%84%e4%b8%a4%e4%b8%aa%e9%97%ae%e9%a2%98/" class="more-link">继续阅读<span class="screen-reader-text">“Windows XP下安装MySQL遇到的两个问题”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">320</post-id>	</item>
+		<item>
+		<title>PyGTK里取得一个xpm图标的灰度图</title>
+		<link>/python/pygtk%e9%87%8c%e5%8f%96%e5%be%97%e4%b8%80%e4%b8%aaxpm%e5%9b%be%e6%a0%87%e7%9a%84%e7%81%b0%e5%ba%a6%e5%9b%be/</link>
+		<pubDate>Wed, 18 Apr 2007 13:47:14 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[pygtk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/18/313</guid>
+		<description><![CDATA[最近用PyMaemo写一个N800上跑的程序时用到的： self.mote_pixbuf = gtk.gdk. &#8230; <p class="link-more"><a href="/python/pygtk%e9%87%8c%e5%8f%96%e5%be%97%e4%b8%80%e4%b8%aaxpm%e5%9b%be%e6%a0%87%e7%9a%84%e7%81%b0%e5%ba%a6%e5%9b%be/" class="more-link">继续阅读<span class="screen-reader-text">“PyGTK里取得一个xpm图标的灰度图”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">313</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.100 seconds -->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《ubuntu下添加新的磁盘》的评论</title>
+	<atom:link href="/linux/using-ubuntu-desktop/ubuntu%E4%B8%8B%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E7%A3%81%E7%9B%98/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e6%b7%bb%e5%8a%a0%e6%96%b0%e7%9a%84%e7%a3%81%e7%9b%98/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e6%b7%bb%e5%8a%a0%e6%96%b0%e7%9a%84%e7%a3%81%e7%9b%98/#comment-61</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2006 07:11:31 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/07/27/245#comment-61</guid>
+		<description><![CDATA[Thanks for your comment. Hope this article can help you. :)]]></description>
+		<content:encoded><![CDATA[<p>Thanks for your comment. Hope this article can help you. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Studio2 free</title>
+		<link>/linux/using-ubuntu-desktop/ubuntu%e4%b8%8b%e6%b7%bb%e5%8a%a0%e6%96%b0%e7%9a%84%e7%a3%81%e7%9b%98/#comment-56</link>
+		<dc:creator><![CDATA[Studio2 free]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2006 06:33:41 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/07/27/245#comment-56</guid>
+		<description><![CDATA[&lt;strong&gt;Studio2 free...&lt;/strong&gt;
+
+I am Karin, very interesting article that contained the information I was searching for in Google, thanks....]]></description>
+		<content:encoded><![CDATA[<p><strong>Studio2 free...</strong></p>
+<p>I am Karin, very interesting article that contained the information I was searching for in Google, thanks....</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.086 seconds -->

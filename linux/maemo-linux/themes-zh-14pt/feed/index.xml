@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《themes-zh-14pt》的评论</title>
+	<atom:link href="/linux/maemo-linux/themes-zh-14pt/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/themes-zh-14pt/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：robobby</title>
+		<link>/linux/maemo-linux/themes-zh-14pt/#comment-13947</link>
+		<dc:creator><![CDATA[robobby]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2007 20:13:56 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/18/303#comment-13947</guid>
+		<description><![CDATA[can not install, because the simsun font is missing in package.. :)]]></description>
+		<content:encoded><![CDATA[<p>can not install, because the simsun font is missing in package.. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：robobby</title>
+		<link>/linux/maemo-linux/themes-zh-14pt/#comment-13923</link>
+		<dc:creator><![CDATA[robobby]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2007 06:07:00 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2007/03/18/303#comment-13923</guid>
+		<description><![CDATA[thank you so much! but the 14 pt can&#039;t be installed, prompted for missing components]]></description>
+		<content:encoded><![CDATA[<p>thank you so much! but the 14 pt can't be installed, prompted for missing components</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

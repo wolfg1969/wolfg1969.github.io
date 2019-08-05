@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>maemocjk &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/maemocjk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能</title>
+		<link>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/</link>
+		<comments>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/#comments</comments>
+		<pubDate>Tue, 05 Jun 2007 06:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/06/05/329</guid>
+		<description><![CDATA[终于找到这个合影了。 收到Makoto的邮件，MaemoCJK新增了两个功能： 1. IM switch at &#8230; <p class="link-more"><a href="/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/" class="more-link">继续阅读<span class="screen-reader-text">“补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">329</post-id>	</item>
+		<item>
+		<title>MaemoCJK Chinese support version 0.3.3 released!</title>
+		<link>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/</link>
+		<comments>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/#comments</comments>
+		<pubDate>Mon, 16 Apr 2007 01:23:28 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[770]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+		<category><![CDATA[n800]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/04/16/312</guid>
+		<description><![CDATA[See https://garage.maemo.org/forum/forum.php?forum_id=9 &#8230; <p class="link-more"><a href="/linux/maemo-linux/maemocjk-chinese-support-version-033-released/" class="more-link">继续阅读<span class="screen-reader-text">“MaemoCJK Chinese support version 0.3.3 released!”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/maemocjk-chinese-support-version-033-released/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">312</post-id>	</item>
+		<item>
+		<title>Maemo CJK Support</title>
+		<link>/linux/maemo-linux/maemo-cjk-support/</link>
+		<comments>/linux/maemo-linux/maemo-cjk-support/#comments</comments>
+		<pubDate>Thu, 15 Mar 2007 13:44:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Maemo]]></category>
+		<category><![CDATA[input method]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/03/15/302</guid>
+		<description><![CDATA[今天搜索到了这个项目( http://maemocjk.garage.maemo.org/get_involv &#8230; <p class="link-more"><a href="/linux/maemo-linux/maemo-cjk-support/" class="more-link">继续阅读<span class="screen-reader-text">“Maemo CJK Support”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/maemo-linux/maemo-cjk-support/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">302</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.151 seconds -->

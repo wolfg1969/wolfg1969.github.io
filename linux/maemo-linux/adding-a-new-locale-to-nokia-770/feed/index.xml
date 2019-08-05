@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《How to add a new locale to Nokia 770》的评论</title>
+	<atom:link href="/linux/maemo-linux/adding-a-new-locale-to-nokia-770/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：Blog of Roy Chan &#187; Blog Archive &#187; 在 Maemo 設定中文 locale</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-45296</link>
+		<dc:creator><![CDATA[Blog of Roy Chan &#187; Blog Archive &#187; 在 Maemo 設定中文 locale]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2009 11:28:50 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-45296</guid>
+		<description><![CDATA[[...] How to add a new locale to Nokia 770 at wolfg’s Weblog [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] How to add a new locale to Nokia 770 at wolfg’s Weblog [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：smilingart</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-18664</link>
+		<dc:creator><![CDATA[smilingart]]></dc:creator>
+		<pubDate>Sat, 15 Sep 2007 05:35:04 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-18664</guid>
+		<description><![CDATA[Hi all 
+
+  I wondering Is anybody has sucessfully installed Thai font in Nokia N800? if do so, please share . 
+
+
+Thanks in advance.]]></description>
+		<content:encoded><![CDATA[<p>Hi all </p>
+<p>  I wondering Is anybody has sucessfully installed Thai font in Nokia N800? if do so, please share . </p>
+<p>Thanks in advance.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Jim</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-14385</link>
+		<dc:creator><![CDATA[Jim]]></dc:creator>
+		<pubDate>Thu, 05 Jul 2007 02:19:30 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-14385</guid>
+		<description><![CDATA[Hi Wolfg, I have installed your chinese font and theme into my 770. However when I go to news.163.com and try to subscribe RSS, 770 told me it&#039;s invalid address and cannot add RSS. I can read chinese without problem. Could you tell me what can I do in order to add 163&#039;s RSS? Thanks,]]></description>
+		<content:encoded><![CDATA[<p>Hi Wolfg, I have installed your chinese font and theme into my 770. However when I go to news.163.com and try to subscribe RSS, 770 told me it's invalid address and cannot add RSS. I can read chinese without problem. Could you tell me what can I do in order to add 163's RSS? Thanks,</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：Momcilo Majic</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-2633</link>
+		<dc:creator><![CDATA[Momcilo Majic]]></dc:creator>
+		<pubDate>Sat, 17 Feb 2007 13:17:25 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-2633</guid>
+		<description><![CDATA[Hi,
+
+I&#039;ve found out about this post from people in INdT. I wanted to add Serbian translation to Canola, and was unable since Serbian locales were missing on the device. I&#039;ve installed the SDK and followed your instructions on the PC side.
+
+However on nokia device, I didn&#039;t install locales package (its 4Mb packged   10MB of space on a root system). Instead I&#039;ve continued to follow instruction and still got my locales installed (skipped font parts since, fonts are OK for Serbian). I would appreciate if you can explain why did you choose to perform apt-get install locales? 
+
+Best regards,
+
+Momcilo Majic]]></description>
+		<content:encoded><![CDATA[<p>Hi,</p>
+<p>I've found out about this post from people in INdT. I wanted to add Serbian translation to Canola, and was unable since Serbian locales were missing on the device. I've installed the SDK and followed your instructions on the PC side.</p>
+<p>However on nokia device, I didn't install locales package (its 4Mb packged   10MB of space on a root system). Instead I've continued to follow instruction and still got my locales installed (skipped font parts since, fonts are OK for Serbian). I would appreciate if you can explain why did you choose to perform apt-get install locales? </p>
+<p>Best regards,</p>
+<p>Momcilo Majic</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-404</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Mon, 04 Dec 2006 02:33:58 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-404</guid>
+		<description><![CDATA[I&#039;m using 2006os v2, but I haven&#039;t try to extend the root file system into mmc card. If I have time, I will give a try. :)]]></description>
+		<content:encoded><![CDATA[<p>I'm using 2006os v2, but I haven't try to extend the root file system into mmc card. If I have time, I will give a try. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hower</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-402</link>
+		<dc:creator><![CDATA[hower]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 19:29:33 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-402</guid>
+		<description><![CDATA[My Nokia 770 internal memory is getting less and less.  I am thinking to extend the root file system into mmc card.
+I like wolfram&#039;s extrootfs.deb very much.  It was working very well in 2005os.  Now I am using 2006osv2.  It was not ported into 2006osv2.
+I am thinking to modify the extrootfs scripts and copy it to /usr/bin/, so I can run it in 2006osv2.
+
+Here is what I am thinking to try:
+
+A.  insert &quot;insmod /mnt/initfs/lib/modules/current/ext2.ko&quot; near the top of /etc/init.d/minircS just after the PATH= line
+B.  modify extrootfs scripts as below:
+
+1.  replace &quot;/var/lib/install&quot; with &quot;/usr/bin /usr/share/fonts&quot; in line 2
+2.  replace &quot;ext3&quot; with &quot;ext2&quot; in line 25
+
+C.  copy he file to /usr/bin/extrootfs
+D.  make it exectuable, chmod a x /user/bin/extrootfs
+
+Do you think it is workable?
+
+Do you have an updated version for 200osv2?  Would you like to share it with us, if you have something likt this?
+
+Thaks for your help.
+
+hower,]]></description>
+		<content:encoded><![CDATA[<p>My Nokia 770 internal memory is getting less and less.  I am thinking to extend the root file system into mmc card.<br />
+I like wolfram's extrootfs.deb very much.  It was working very well in 2005os.  Now I am using 2006osv2.  It was not ported into 2006osv2.<br />
+I am thinking to modify the extrootfs scripts and copy it to /usr/bin/, so I can run it in 2006osv2.</p>
+<p>Here is what I am thinking to try:</p>
+<p>A.  insert "insmod /mnt/initfs/lib/modules/current/ext2.ko" near the top of /etc/init.d/minircS just after the PATH= line<br />
+B.  modify extrootfs scripts as below:</p>
+<p>1.  replace "/var/lib/install" with "/usr/bin /usr/share/fonts" in line 2<br />
+2.  replace "ext3" with "ext2" in line 25</p>
+<p>C.  copy he file to /usr/bin/extrootfs<br />
+D.  make it exectuable, chmod a x /user/bin/extrootfs</p>
+<p>Do you think it is workable?</p>
+<p>Do you have an updated version for 200osv2?  Would you like to share it with us, if you have something likt this?</p>
+<p>Thaks for your help.</p>
+<p>hower,</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hower</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-401</link>
+		<dc:creator><![CDATA[hower]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 17:25:51 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-401</guid>
+		<description><![CDATA[Thanks.  You were wright.  The problem was due to encoding.  
+If I stay with vi editor then it is working.]]></description>
+		<content:encoded><![CDATA[<p>Thanks.  You were wright.  The problem was due to encoding.<br />
+If I stay with vi editor then it is working.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-393</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 05:03:55 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-393</guid>
+		<description><![CDATA[maybe the encoding of your script cause the problem.]]></description>
+		<content:encoded><![CDATA[<p>maybe the encoding of your script cause the problem.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hower</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-392</link>
+		<dc:creator><![CDATA[hower]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 04:56:39 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-392</guid>
+		<description><![CDATA[I ran the command one by one manually.  It was ok.]]></description>
+		<content:encoded><![CDATA[<p>I ran the command one by one manually.  It was ok.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-391</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 03:31:46 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-391</guid>
+		<description><![CDATA[&quot;1&quot; means some commands in your script run failed.
+What about run the commands in your script one by one manually.]]></description>
+		<content:encoded><![CDATA[<p>"1" means some commands in your script run failed.<br />
+What about run the commands in your script one by one manually.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hower</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-390</link>
+		<dc:creator><![CDATA[hower]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 03:13:26 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-390</guid>
+		<description><![CDATA[This is the result:
+
+/usr/bin # chmod a x /usr/bin/test
+/usr/bin # ls -l /usr/bin/test
+-rwxr-xr-x    1 root     root           38 Dec  2 18:58 /usr/bin/test
+/usr/bin #
+
+
+/usr/bin # test
+/usr/bin # echo $?
+1
+/usr/bin #
+
+hower]]></description>
+		<content:encoded><![CDATA[<p>This is the result:</p>
+<p>/usr/bin # chmod a x /usr/bin/test<br />
+/usr/bin # ls -l /usr/bin/test<br />
+-rwxr-xr-x    1 root     root           38 Dec  2 18:58 /usr/bin/test<br />
+/usr/bin #</p>
+<p>/usr/bin # test<br />
+/usr/bin # echo $?<br />
+1<br />
+/usr/bin #</p>
+<p>hower</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-389</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 02:27:33 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-389</guid>
+		<description><![CDATA[Can you give me the result of &quot;ls -l /usr/bin/test&quot;?
+Also after run the script, type &quot; echo $?&quot; to what output will be given? 0 or 1?]]></description>
+		<content:encoded><![CDATA[<p>Can you give me the result of "ls -l /usr/bin/test"?<br />
+Also after run the script, type " echo $?" to what output will be given? 0 or 1?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：hower</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-384</link>
+		<dc:creator><![CDATA[hower]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2006 18:35:32 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-384</guid>
+		<description><![CDATA[Hi wolfg,
+
+I made a script file called test (without any extension) in /usr/bin/test in nokia 770
+containing the following lines and saved in utf-8 encoding
+
+#!/bin/sh
+
+ls /media/mmc1/books
+cd /
+
+I also made it exectuable by typing the following after enable root
+
+chmod a x /usr/bin/test
+
+But when I run the script by typing test, it did not work.
+
+Could you please advise what is the problem?
+
+Thanks
+
+hower]]></description>
+		<content:encoded><![CDATA[<p>Hi wolfg,</p>
+<p>I made a script file called test (without any extension) in /usr/bin/test in nokia 770<br />
+containing the following lines and saved in utf-8 encoding</p>
+<p>#!/bin/sh</p>
+<p>ls /media/mmc1/books<br />
+cd /</p>
+<p>I also made it exectuable by typing the following after enable root</p>
+<p>chmod a x /usr/bin/test</p>
+<p>But when I run the script by typing test, it did not work.</p>
+<p>Could you please advise what is the problem?</p>
+<p>Thanks</p>
+<p>hower</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：rck</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-365</link>
+		<dc:creator><![CDATA[rck]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2006 06:49:07 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-365</guid>
+		<description><![CDATA[sorry, typo. I tried again following what you suggested, but I still got 
+
+cp: /media/mmc1/thaimono.ttf: No such file or directory
+
+-could it be file problem, I got other ttf files too, about 0.2MB each, tried them all and didn&#039;t work?
+-could it be something in the commmand that does not allow me to access the card?]]></description>
+		<content:encoded><![CDATA[<p>sorry, typo. I tried again following what you suggested, but I still got </p>
+<p>cp: /media/mmc1/thaimono.ttf: No such file or directory</p>
+<p>-could it be file problem, I got other ttf files too, about 0.2MB each, tried them all and didn't work?<br />
+-could it be something in the commmand that does not allow me to access the card?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/linux/maemo-linux/adding-a-new-locale-to-nokia-770/#comment-363</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2006 04:52:05 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/08/03/247#comment-363</guid>
+		<description><![CDATA[You should run the command like this:
+# cp -i /media/mmc1/thaimono.ttf /usr/share/fonts/thaimono.ttf]]></description>
+		<content:encoded><![CDATA[<p>You should run the command like this:<br />
+# cp -i /media/mmc1/thaimono.ttf /usr/share/fonts/thaimono.ttf</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.086 seconds -->

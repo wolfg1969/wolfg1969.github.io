@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OSS &#8211; 郭勇的技术博客</title>
+	<atom:link href="/category/oss/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>树莓派串口配置</title>
+		<link>/oss/raspberry-pi-serial-port-setup/</link>
+		<pubDate>Fri, 15 Feb 2013 09:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[minicom]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+		<category><![CDATA[serial port]]></category>
+		<category><![CDATA[wajig]]></category>
+
+		<guid isPermaLink="false">/?p=1272</guid>
+		<description><![CDATA[树莓派的串口接口是P1接口上面一排（靠近板子边缘的一排）左数第4针（TX）和第五针（RX） 系统中对应的串口设 &#8230; <p class="link-more"><a href="/oss/raspberry-pi-serial-port-setup/" class="more-link">继续阅读<span class="screen-reader-text">“树莓派串口配置”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1272</post-id>	</item>
+		<item>
+		<title>我的Fluxbox配置</title>
+		<link>/oss/my-fluxbox-config/</link>
+		<pubDate>Mon, 05 Mar 2012 06:43:51 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[bitbucket]]></category>
+		<category><![CDATA[fluxbox]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=898</guid>
+		<description><![CDATA[https://bitbucket.org/wolfg/myfluxbox]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
+		<item>
+		<title>补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能</title>
+		<link>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/</link>
+		<comments>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/#comments</comments>
+		<pubDate>Tue, 05 Jun 2007 06:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[maemo]]></category>
+		<category><![CDATA[maemocjk]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/06/05/329</guid>
+		<description><![CDATA[终于找到这个合影了。 收到Makoto的邮件，MaemoCJK新增了两个功能： 1. IM switch at &#8230; <p class="link-more"><a href="/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/" class="more-link">继续阅读<span class="screen-reader-text">“补一张在GoogleDeveloperDay上的合影，顺便预报一下MaemoCJK的新功能”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e8%a1%a5%e4%b8%80%e5%bc%a0%e5%9c%a8googledeveloperday%e4%b8%8a%e7%9a%84%e5%90%88%e5%bd%b1%ef%bc%8c%e9%a1%ba%e4%be%bf%e9%a2%84%e6%8a%a5%e4%b8%80%e4%b8%8bmaemocjk%e7%9a%84%e6%96%b0%e5%8a%9f%e8%83%bd/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">329</post-id>	</item>
+		<item>
+		<title>Google Developer Day 2007 in Beijing</title>
+		<link>/oss/google-developer-day-2007-beijing/</link>
+		<pubDate>Thu, 31 May 2007 14:12:33 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[cpug]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[scim]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/05/31/328</guid>
+		<description><![CDATA[挺着牙痛去参加了Google Developer Day，有机会跟CPUG的老朋友见面，结识新朋友，有幸和Py &#8230; <p class="link-more"><a href="/oss/google-developer-day-2007-beijing/" class="more-link">继续阅读<span class="screen-reader-text">“Google Developer Day 2007 in Beijing”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">328</post-id>	</item>
+		<item>
+		<title>我使用的WordPress plugins</title>
+		<link>/oss/wordpress-plugins-im-using/</link>
+		<comments>/oss/wordpress-plugins-im-using/#comments</comments>
+		<pubDate>Thu, 22 Mar 2007 06:49:58 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2007/03/22/305</guid>
+		<description><![CDATA[这两天把Wordpress升级到2.1.2版本，K2也升级到了0.95 RC1。调整Sidebar，加入一些新 &#8230; <p class="link-more"><a href="/oss/wordpress-plugins-im-using/" class="more-link">继续阅读<span class="screen-reader-text">“我使用的WordPress plugins”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/wordpress-plugins-im-using/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">305</post-id>	</item>
+		<item>
+		<title>Ubuntu Edgy Eft Release Party In Beijing</title>
+		<link>/oss/ubuntu-edgy-eft-release-party-in-beijing/</link>
+		<comments>/oss/ubuntu-edgy-eft-release-party-in-beijing/#comments</comments>
+		<pubDate>Thu, 02 Nov 2006 15:44:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/11/02/284</guid>
+		<description><![CDATA[参加的人真不少，感觉大部分是附近高校的学生朋友。幸好我也有学生朋友帮我占座 :) Mark的演讲里提到下一个版 &#8230; <p class="link-more"><a href="/oss/ubuntu-edgy-eft-release-party-in-beijing/" class="more-link">继续阅读<span class="screen-reader-text">“Ubuntu Edgy Eft Release Party In Beijing”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/ubuntu-edgy-eft-release-party-in-beijing/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
+		<item>
+		<title>Planet Finder</title>
+		<link>/oss/planet-finder/</link>
+		<pubDate>Mon, 18 Sep 2006 15:52:34 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/09/18/272</guid>
+		<description><![CDATA[一个显示天空中行星位置的applet，中文页面是我翻译的。 http://www.lightandmatter/ &#8230; <p class="link-more"><a href="/oss/planet-finder/" class="more-link">继续阅读<span class="screen-reader-text">“Planet Finder”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">272</post-id>	</item>
+		<item>
+		<title>Google Scholar Bibtex Parser &#8211; gsbibtex.py</title>
+		<link>/oss/google-scholar-bibtex-parser-gsbibtexpy/</link>
+		<comments>/oss/google-scholar-bibtex-parser-gsbibtexpy/#comments</comments>
+		<pubDate>Thu, 13 Jul 2006 03:03:09 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/13/234</guid>
+		<description><![CDATA[与bibtex.py类似，区别： 只针对从Google Scholar中导出的BibTex 不依赖第三方软件( &#8230; <p class="link-more"><a href="/oss/google-scholar-bibtex-parser-gsbibtexpy/" class="more-link">继续阅读<span class="screen-reader-text">“Google Scholar Bibtex Parser &#8211; gsbibtex.py”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/google-scholar-bibtex-parser-gsbibtexpy/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">234</post-id>	</item>
+		<item>
+		<title>我用MoinMoin做PIM</title>
+		<link>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/</link>
+		<comments>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/#comments</comments>
+		<pubDate>Fri, 07 Jul 2006 12:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/07/228</guid>
+		<description><![CDATA[1. 个人日志 Macro: MonthCalendar, Include 2. 文献管理 Parser: B &#8230; <p class="link-more"><a href="/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/" class="more-link">继续阅读<span class="screen-reader-text">“我用MoinMoin做PIM”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e6%88%91%e7%94%a8moinmoin%e5%81%9a%e4%b8%aa%e4%ba%bapim/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">228</post-id>	</item>
+		<item>
+		<title>在MoinMoin里浏览mind-mapping图</title>
+		<link>/oss/%e5%9c%a8moinmoin%e9%87%8c%e6%b5%8f%e8%a7%88mindmap%e5%9b%be/</link>
+		<pubDate>Wed, 05 Jul 2006 06:31:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/07/05/224</guid>
+		<description><![CDATA[需要安装FreeMindBrowser这个宏。 使用方法： [[FreeMindBrowser( mindma &#8230; <p class="link-more"><a href="/oss/%e5%9c%a8moinmoin%e9%87%8c%e6%b5%8f%e8%a7%88mindmap%e5%9b%be/" class="more-link">继续阅读<span class="screen-reader-text">“在MoinMoin里浏览mind-mapping图”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">224</post-id>	</item>
+		<item>
+		<title>使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser</title>
+		<link>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/</link>
+		<comments>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/#comments</comments>
+		<pubDate>Thu, 29 Jun 2006 14:56:05 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/06/29/220</guid>
+		<description><![CDATA[BibTex Parser需要bibtex2html的支持。 先下载bibtex2html。我是在Window &#8230; <p class="link-more"><a href="/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/" class="more-link">继续阅读<span class="screen-reader-text">“使用MoinMoin Wiki进行文献管理 － 安装BibTex Parser”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e4%bd%bf%e7%94%a8moinmoin-wiki%e8%bf%9b%e8%a1%8c%e6%96%87%e7%8c%ae%e7%ae%a1%e7%90%86-%ef%bc%8d-%e5%ae%89%e8%a3%85bibtex-parser/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">220</post-id>	</item>
+		<item>
+		<title>poedit</title>
+		<link>/oss/poedit/</link>
+		<pubDate>Mon, 26 Jun 2006 07:06:46 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2006/06/26/207</guid>
+		<description><![CDATA[poEdit (http://www.poedit.org/) - An open source progra &#8230; <p class="link-more"><a href="/oss/poedit/" class="more-link">继续阅读<span class="screen-reader-text">“poedit”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">207</post-id>	</item>
+		<item>
+		<title>OpenOffice2.0</title>
+		<link>/oss/openoffice20/</link>
+		<pubDate>Wed, 29 Mar 2006 06:16:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/29/161</guid>
+		<description><![CDATA[下面是搜到的两篇不错的文章，呵呵。 如何在Windows下流畅的使用OpenOffice2.0 让你受益终身的 &#8230; <p class="link-more"><a href="/oss/openoffice20/" class="more-link">继续阅读<span class="screen-reader-text">“OpenOffice2.0”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">161</post-id>	</item>
+		<item>
+		<title>安装MoinMoin Wiki后的简单配置</title>
+		<link>/oss/%e5%ae%89%e8%a3%85moinmoin-wiki%e5%90%8e%e7%9a%84%e7%ae%80%e5%8d%95%e9%85%8d%e7%bd%ae/</link>
+		<pubDate>Tue, 28 Mar 2006 07:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/162</guid>
+		<description><![CDATA[访问已运行的Wiki，http://localhost/mywiki 注册一个新的用户，比如admin。 wi &#8230; <p class="link-more"><a href="/oss/%e5%ae%89%e8%a3%85moinmoin-wiki%e5%90%8e%e7%9a%84%e7%ae%80%e5%8d%95%e9%85%8d%e7%bd%ae/" class="more-link">继续阅读<span class="screen-reader-text">“安装MoinMoin Wiki后的简单配置”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+		<item>
+		<title>在Windows XP下安装MoinMoin Wiki</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/</link>
+		<comments>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comments</comments>
+		<pubDate>Tue, 28 Mar 2006 03:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163</guid>
+		<description><![CDATA[需要的文件： apache_2.0.55-win32-x86-no_ssl.msi mod_python-3. &#8230; <p class="link-more"><a href="/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/" class="more-link">继续阅读<span class="screen-reader-text">“在Windows XP下安装MoinMoin Wiki”</span></a></p>]]></description>
+		<wfw:commentRss>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/feed/</wfw:commentRss>
+		<slash:comments>57</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">163</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.104 seconds -->

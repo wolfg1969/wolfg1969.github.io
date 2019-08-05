@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>郭勇的技术博客</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Domoticz + NodeMCU 监控 家庭电能消耗</title>
+		<link>/programing/domoticz-nodemcu-power-meter-for-home/</link>
+		<pubDate>Sat, 31 Mar 2018 12:28:03 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[domoticz]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[esp8266]]></category>
+		<category><![CDATA[home automation]]></category>
+		<category><![CDATA[iot]]></category>
+		<category><![CDATA[lua]]></category>
+		<category><![CDATA[nodemcu]]></category>
+		<category><![CDATA[power]]></category>
+
+		<guid isPermaLink="false">/?p=1499</guid>
+		<description><![CDATA[最近用 NodeMCU 实现了家庭电能消耗的监控，数据上报到 Domoticz 服务器，可直观地查看当前的家庭 &#8230; <p class="link-more"><a href="/programing/domoticz-nodemcu-power-meter-for-home/" class="more-link">继续阅读<span class="screen-reader-text">“Domoticz + NodeMCU 监控 家庭电能消耗”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1499</post-id>	</item>
+		<item>
+		<title>Sifteo 折腾之编译 SDK</title>
+		<link>/programing/compile-sifteo-sdk/</link>
+		<pubDate>Wed, 10 Jan 2018 02:17:57 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[sdk]]></category>
+		<category><![CDATA[sifteo]]></category>
+
+		<guid isPermaLink="false">/?p=1492</guid>
+		<description><![CDATA[Solidot 上看到这条消息 昔日的 sifteo 重现中国 sifteo 智能积木源自 2009年，来自  &#8230; <p class="link-more"><a href="/programing/compile-sifteo-sdk/" class="more-link">继续阅读<span class="screen-reader-text">“Sifteo 折腾之编译 SDK”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1492</post-id>	</item>
+		<item>
+		<title>《 Python 计算机视觉编程》学习笔记（一）</title>
+		<link>/python/programming-computer-vision-with-python-note-1/</link>
+		<pubDate>Wed, 27 Dec 2017 12:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[Histogram]]></category>
+
+		<guid isPermaLink="false">/?p=1480</guid>
+		<description><![CDATA[练习代码仓库 https://github.com/wolfg1969/Programming-Compute &#8230; <p class="link-more"><a href="/python/programming-computer-vision-with-python-note-1/" class="more-link">继续阅读<span class="screen-reader-text">“《 Python 计算机视觉编程》学习笔记（一）”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1480</post-id>	</item>
+		<item>
+		<title>[翻译] Pipenv – 官方推荐的 Python 包管理工具</title>
+		<link>/python/pipenv-the-officially-recommended-python-packaging-tool/</link>
+		<pubDate>Mon, 25 Dec 2017 05:34:36 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[package managr]]></category>
+		<category><![CDATA[pip]]></category>
+		<category><![CDATA[pipenv]]></category>
+		<category><![CDATA[virtualenv]]></category>
+
+		<guid isPermaLink="false">/?p=1446</guid>
+		<description><![CDATA[更新 [20180109] pipenv 可以生成 requirements.txt $ pipenv loc &#8230; <p class="link-more"><a href="/python/pipenv-the-officially-recommended-python-packaging-tool/" class="more-link">继续阅读<span class="screen-reader-text">“[翻译] Pipenv – 官方推荐的 Python 包管理工具”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>2017 年度总结</title>
+		<link>/uncategorized/2017-%e5%b9%b4%e5%ba%a6%e6%80%bb%e7%bb%93/</link>
+		<pubDate>Thu, 21 Dec 2017 08:26:33 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=1444</guid>
+		<description><![CDATA[工作： RD 网站，后端 Django REST Framework，前端 AngularJS v1 + We &#8230; <p class="link-more"><a href="/uncategorized/2017-%e5%b9%b4%e5%ba%a6%e6%80%bb%e7%bb%93/" class="more-link">继续阅读<span class="screen-reader-text">“2017 年度总结”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1444</post-id>	</item>
+		<item>
+		<title>Django 日志过滤器实战</title>
+		<link>/programing/django-logging-filter-in-action/</link>
+		<pubDate>Sat, 23 Apr 2016 12:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Logging]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1417</guid>
+		<description><![CDATA[Django 的日志配置采用标准的 Python 日志配置方式，默认采用 dictConfig 的格式。Pyt &#8230; <p class="link-more"><a href="/programing/django-logging-filter-in-action/" class="more-link">继续阅读<span class="screen-reader-text">“Django 日志过滤器实战”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1417</post-id>	</item>
+		<item>
+		<title>定制 Django REST Framework 的异常处理</title>
+		<link>/programing/django-rest-framework-custom-exception-handling/</link>
+		<pubDate>Wed, 20 Apr 2016 12:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[编程]]></category>
+		<category><![CDATA[Django]]></category>
+		<category><![CDATA[Django REST Framework]]></category>
+		<category><![CDATA[Python]]></category>
+
+		<guid isPermaLink="false">/?p=1415</guid>
+		<description><![CDATA[今天借助修复其它 Bug 的机会，对项目中 REST API 的异常处理机制进行了优化。 项目的 REST A &#8230; <p class="link-more"><a href="/programing/django-rest-framework-custom-exception-handling/" class="more-link">继续阅读<span class="screen-reader-text">“定制 Django REST Framework 的异常处理”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1415</post-id>	</item>
+		<item>
+		<title>树莓派串口配置</title>
+		<link>/oss/raspberry-pi-serial-port-setup/</link>
+		<pubDate>Fri, 15 Feb 2013 09:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[minicom]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+		<category><![CDATA[serial port]]></category>
+		<category><![CDATA[wajig]]></category>
+
+		<guid isPermaLink="false">/?p=1272</guid>
+		<description><![CDATA[树莓派的串口接口是P1接口上面一排（靠近板子边缘的一排）左数第4针（TX）和第五针（RX） 系统中对应的串口设 &#8230; <p class="link-more"><a href="/oss/raspberry-pi-serial-port-setup/" class="more-link">继续阅读<span class="screen-reader-text">“树莓派串口配置”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1272</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第五天</title>
+		<link>/linux/play-raspberry-pi-day5/</link>
+		<pubDate>Sat, 12 Jan 2013 09:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1205</guid>
+		<description><![CDATA[受国外玩家的启发，用乐高积木搭了个“机箱”。 假期结束，Raspberry Pi的跨年之旅也完美结束了。 下一 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day5/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第五天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1205</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第四天</title>
+		<link>/linux/play-raspberry-pi-day4/</link>
+		<pubDate>Sat, 12 Jan 2013 09:23:34 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1202</guid>
+		<description><![CDATA[今天先安装了一些自己常用的工具和软件：oh-my-zsh, gitflow, geany, vim, gimp &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day4/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第四天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1202</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第三天</title>
+		<link>/linux/play-raspberry-pi-day3/</link>
+		<pubDate>Sat, 12 Jan 2013 08:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1197</guid>
+		<description><![CDATA[树莓派装好后，系统默认设置的源地址是http://mirrordirector.raspbian.org/ra &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day3/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第三天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1197</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 &#8211; 第二天</title>
+		<link>/linux/play-raspberry-pi-day2/</link>
+		<pubDate>Fri, 04 Jan 2013 14:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1159</guid>
+		<description><![CDATA[2012年12月30日 傍晚，京东上订购的转接线到货了，接上显示器，一切正常。 反复测试发现USB无线网卡不能 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day2/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 &#8211; 第二天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1159</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 &#8211; 第一天</title>
+		<link>/linux/play-raspberry-pi-day1/</link>
+		<comments>/linux/play-raspberry-pi-day1/#comments</comments>
+		<pubDate>Thu, 03 Jan 2013 13:02:27 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1139</guid>
+		<description><![CDATA[2012年12月30日，元旦5天假期开始。公司是文艺公司，所以连放五天假。天气寒冷，不想到户外活动。想起了买来 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day1/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 &#8211; 第一天”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/play-raspberry-pi-day1/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1139</post-id>	</item>
+		<item>
+		<title>&#37325;&#24314;Octopress&#29615;&#22659;</title>
+		<link>/dev/octopress/</link>
+		<pubDate>Sun, 11 Nov 2012 20:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[octopress]]></category>
+
+		<guid isPermaLink="false">http://blog.guoyong.me/blog/2012/11/11/re-setup-octopress</guid>
+		<description><![CDATA[
+<p>&#22312;&#21478;&#19968;&#21488;&#26426;&#22120;&#19978;&#37325;&#26032;&#35774;&#32622;Octopress&#29615;&#22659;&#30340;&#27493;&#39588;&#22914;&#19979;&#65306;</p>
+
+<h2>&#23433;&#35013;octopress</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+<span>4</span>
+<span>5</span>
+</pre></td>
+<td><pre><code><span># &#23433;&#35013;rvm, ruby, bundler &#30053;
+</span><span># &#20811;&#38534;octopress
+</span><span>$ git clone git://github.com/imathis/octopress.git octopress
+</span><span># &#23433;&#35013;&#20027;&#39064;
+</span><span>$ rake install</span></code></pre></td>
+</tr></table></div></figure><h2>&#35774;&#32622;github&#24080;&#21495;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+</pre></td>
+<td><pre><code><span>$ rake setup_github_pages</span></code></pre></td>
+</tr></table></div></figure><h2>&#21516;&#27493;Github&#19978;&#24050;&#21457;&#24067;&#30340;&#21338;&#23458;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+<span>4</span>
+<span>5</span>
+<span>6</span>
+</pre></td>
+<td><pre><code><span># &#35206;&#30422;&#26412;&#22320;&#20462;&#25913;
+</span><span>$ git checkout .
+</span><span>$ rm -rf saas source
+</span><span>$ git fetch origin
+</span><span>$ git merge origin/source
+</span><span># &#21487;&#33021;&#38656;&#35201;&#25163;&#21160;merge</span></code></pre></td>
+</tr></table></div></figure><h2>&#24320;&#22987;&#20889;&#20316;&#65281;</h2>
+
+<figure><div><table><tr>
+<td><pre><span>1</span>
+<span>2</span>
+<span>3</span>
+</pre></td>
+<td><pre><code><span>$ rake new_post[new_post]
+</span><span>$ rake generate
+</span><span>$ rake deploy</span></code></pre></td>
+</tr></table></div></figure>
+]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1356</post-id>	</item>
+		<item>
+		<title>今晚拍的月亮</title>
+		<link>/hobbies/tonight-moon/</link>
+		<pubDate>Wed, 04 Apr 2012 12:42:25 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Hobbies]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[astrophotography]]></category>
+		<category><![CDATA[gimp]]></category>
+		<category><![CDATA[moon]]></category>
+
+		<guid isPermaLink="false">/?p=963</guid>
+		<description><![CDATA[用Gimp做了锐化处理： 转为灰度图 Unsharp Mask滤镜处理 Color Curve调整]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">963</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.110 seconds -->

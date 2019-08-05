@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《frogger》的评论</title>
+	<atom:link href="/uncategorized/frogger/feed/" rel="self" type="application/rss+xml" />
+	<link>/uncategorized/frogger/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：wolfg</title>
+		<link>/uncategorized/frogger/#comment-89</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 10 Sep 2006 13:40:18 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2006/09/08/270#comment-89</guid>
+		<description><![CDATA[这个是在emame街机模拟器下的。也有纯Symbian的，F-ROGGER
+http://static.flickr.com/86/239245294_50f248d483_m.jpg
+http://static.flickr.com/98/239245295_54ef5e054c_m.jpg]]></description>
+		<content:encoded><![CDATA[<p>这个是在emame街机模拟器下的。也有纯Symbian的，F-ROGGER<br />
+<a href="http://static.flickr.com/86/239245294_50f248d483_m.jpg" rel="nofollow">http://static.flickr.com/86/239245294_50f248d483_m.jpg</a><br />
+<a href="http://static.flickr.com/98/239245295_54ef5e054c_m.jpg" rel="nofollow">http://static.flickr.com/98/239245295_54ef5e054c_m.jpg</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.076 seconds -->

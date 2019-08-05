@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lego &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/lego/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Raspberry Pi 跨年之旅 – 第五天</title>
+		<link>/linux/play-raspberry-pi-day5/</link>
+		<pubDate>Sat, 12 Jan 2013 09:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1205</guid>
+		<description><![CDATA[受国外玩家的启发，用乐高积木搭了个“机箱”。 假期结束，Raspberry Pi的跨年之旅也完美结束了。 下一 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day5/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第五天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1205</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iText &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/itext/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Web页面自动打印PDF文件的实现</title>
+		<link>/dev/web-e9-a1-b5-e9-9d-a2-e8-87-aa-e5-8a-a8-e6-89-93-e5-8d-b0pdf-e6-96-87-e4-bb-b6-e7-9a-84-e5-ae-9e-e7-8e-b0/</link>
+		<pubDate>Fri, 29 Feb 2008 15:01:55 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[iText]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[pdf]]></category>
+		<category><![CDATA[print]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2008/02/29/350</guid>
+		<description><![CDATA[借助iText和Adobe Acrobat的Javascript支持，可以实现PDF文档的自动打印（可以做到不 &#8230; <p class="link-more"><a href="/dev/web-e9-a1-b5-e9-9d-a2-e8-87-aa-e5-8a-a8-e6-89-93-e5-8d-b0pdf-e6-96-87-e4-bb-b6-e7-9a-84-e5-ae-9e-e7-8e-b0/" class="more-link">继续阅读<span class="screen-reader-text">“Web页面自动打印PDF文件的实现”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">350</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.077 seconds -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《笔记本Gentoo系统升级》的评论</title>
+	<atom:link href="/linux/upgrade-gentoo-on-my-notebook/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/upgrade-gentoo-on-my-notebook/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：guoyong</title>
+		<link>/linux/upgrade-gentoo-on-my-notebook/#comment-103584</link>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+		<pubDate>Tue, 03 Apr 2012 11:52:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=955#comment-103584</guid>
+		<description><![CDATA[&lt;p&gt;update:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;3G上网卡也需要重新设置 参考 http://www.blah-blah.ch/it/how-to-s/install-a-huawei-e1762-on-gentoo/&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;升级后wacom驱动好用了！&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+		<content:encoded><![CDATA[<p>update:</p>
+<ul>
+<li>
+<p>3G上网卡也需要重新设置 参考 <a href="http://www.blah-blah.ch/it/how-to-s/install-a-huawei-e1762-on-gentoo/" rel="nofollow">http://www.blah-blah.ch/it/how-to-s/install-a-huawei-e1762-on-gentoo/</a></p>
+</li>
+<li>
+<p>升级后wacom驱动好用了！</p>
+</li>
+</ul>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.080 seconds -->

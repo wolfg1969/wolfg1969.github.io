@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Linux &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>Raspberry Pi 跨年之旅 – 第五天</title>
+		<link>/linux/play-raspberry-pi-day5/</link>
+		<pubDate>Sat, 12 Jan 2013 09:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1205</guid>
+		<description><![CDATA[受国外玩家的启发，用乐高积木搭了个“机箱”。 假期结束，Raspberry Pi的跨年之旅也完美结束了。 下一 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day5/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第五天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1205</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第四天</title>
+		<link>/linux/play-raspberry-pi-day4/</link>
+		<pubDate>Sat, 12 Jan 2013 09:23:34 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1202</guid>
+		<description><![CDATA[今天先安装了一些自己常用的工具和软件：oh-my-zsh, gitflow, geany, vim, gimp &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day4/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第四天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1202</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 – 第三天</title>
+		<link>/linux/play-raspberry-pi-day3/</link>
+		<pubDate>Sat, 12 Jan 2013 08:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1197</guid>
+		<description><![CDATA[树莓派装好后，系统默认设置的源地址是http://mirrordirector.raspbian.org/ra &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day3/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 – 第三天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1197</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 &#8211; 第二天</title>
+		<link>/linux/play-raspberry-pi-day2/</link>
+		<pubDate>Fri, 04 Jan 2013 14:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1159</guid>
+		<description><![CDATA[2012年12月30日 傍晚，京东上订购的转接线到货了，接上显示器，一切正常。 反复测试发现USB无线网卡不能 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day2/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 &#8211; 第二天”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">1159</post-id>	</item>
+		<item>
+		<title>Raspberry Pi 跨年之旅 &#8211; 第一天</title>
+		<link>/linux/play-raspberry-pi-day1/</link>
+		<comments>/linux/play-raspberry-pi-day1/#comments</comments>
+		<pubDate>Thu, 03 Jan 2013 13:02:27 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+
+		<guid isPermaLink="false">/?p=1139</guid>
+		<description><![CDATA[2012年12月30日，元旦5天假期开始。公司是文艺公司，所以连放五天假。天气寒冷，不想到户外活动。想起了买来 &#8230; <p class="link-more"><a href="/linux/play-raspberry-pi-day1/" class="more-link">继续阅读<span class="screen-reader-text">“Raspberry Pi 跨年之旅 &#8211; 第一天”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/play-raspberry-pi-day1/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1139</post-id>	</item>
+		<item>
+		<title>笔记本Gentoo系统升级</title>
+		<link>/linux/upgrade-gentoo-on-my-notebook/</link>
+		<comments>/linux/upgrade-gentoo-on-my-notebook/#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 03:41:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fluxbox]]></category>
+		<category><![CDATA[gentoo]]></category>
+
+		<guid isPermaLink="false">/?p=955</guid>
+		<description><![CDATA[利用假期把笔记本上的Gentoo系统升级到了最新版，改动的地方记录如下： urxvt无法运行 urxvt: u &#8230; <p class="link-more"><a href="/linux/upgrade-gentoo-on-my-notebook/" class="more-link">继续阅读<span class="screen-reader-text">“笔记本Gentoo系统升级”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/upgrade-gentoo-on-my-notebook/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">955</post-id>	</item>
+		<item>
+		<title>知道了关于Linux进程的一点事儿</title>
+		<link>/linux/know-something-about-the-process/</link>
+		<pubDate>Tue, 03 Apr 2012 03:05:37 +0000</pubDate>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[orphant process]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[zombie process]]></category>
+
+		<guid isPermaLink="false">/?p=950</guid>
+		<description><![CDATA[昨天在乐维参与这两个问题的回答： Unix-like OS是如何有效的查杀orphan process？ Li &#8230; <p class="link-more"><a href="/linux/know-something-about-the-process/" class="more-link">继续阅读<span class="screen-reader-text">“知道了关于Linux进程的一点事儿”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">950</post-id>	</item>
+		<item>
+		<title>我的Fluxbox配置</title>
+		<link>/oss/my-fluxbox-config/</link>
+		<pubDate>Mon, 05 Mar 2012 06:43:51 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[bitbucket]]></category>
+		<category><![CDATA[fluxbox]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=898</guid>
+		<description><![CDATA[https://bitbucket.org/wolfg/myfluxbox]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
+		<item>
+		<title>A screenshot of my desktop</title>
+		<link>/linux/a-screenshot-of-my-desktop/</link>
+		<pubDate>Sun, 04 Mar 2012 05:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fluxbox]]></category>
+		<category><![CDATA[gentoo]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2012/03/04/a-screenshot-of-my-desktop/</guid>
+		<description><![CDATA[]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">867</post-id>	</item>
+		<item>
+		<title>RHEL5下编译MongoDB</title>
+		<link>/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/</link>
+		<pubDate>Wed, 01 Jun 2011 06:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[运维]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[mongodb]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=630</guid>
+		<description><![CDATA[很多人都说自己编译的稳定好用，我也来试试： 1. 参考官方文档，手工编译Spider Monkey # cur &#8230; <p class="link-more"><a href="/linux/sysadm/rhel5%e4%b8%8b%e7%bc%96%e8%af%91mongodb/" class="more-link">继续阅读<span class="screen-reader-text">“RHEL5下编译MongoDB”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">630</post-id>	</item>
+		<item>
+		<title>再次遭遇大量CLOSE_WAIT</title>
+		<link>/linux/sysadm/%e5%86%8d%e6%ac%a1%e9%81%ad%e9%81%87%e5%a4%a7%e9%87%8fclose_wait/</link>
+		<pubDate>Fri, 22 Jan 2010 12:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[CLOSE_WAIT]]></category>
+		<category><![CDATA[HttpClient]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[tcp]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=543</guid>
+		<description><![CDATA[今天下午线上的Jetty服务又停止响应了。不过与上次不同的是，日志里没有Too many open files &#8230; <p class="link-more"><a href="/linux/sysadm/%e5%86%8d%e6%ac%a1%e9%81%ad%e9%81%87%e5%a4%a7%e9%87%8fclose_wait/" class="more-link">继续阅读<span class="screen-reader-text">“再次遭遇大量CLOSE_WAIT”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+		<item>
+		<title>遭遇&#8221;java.io.IOException: Too many open files&#8221;</title>
+		<link>/linux/sysadm/%e9%81%ad%e9%81%87java-io-ioexception-too-many-open-files/</link>
+		<pubDate>Wed, 20 Jan 2010 08:47:21 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[SysAdmin]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[lsof]]></category>
+		<category><![CDATA[ulimit]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=520</guid>
+		<description><![CDATA[今天下午，线上的Jetty服务宕机了，日志里大量的"java.io.IOException: Too many &#8230; <p class="link-more"><a href="/linux/sysadm/%e9%81%ad%e9%81%87java-io-ioexception-too-many-open-files/" class="more-link">继续阅读<span class="screen-reader-text">“遭遇&#8221;java.io.IOException: Too many open files&#8221;”</span></a></p>]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">520</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.103 seconds -->

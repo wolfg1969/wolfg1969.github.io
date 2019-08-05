@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>“郭勇的技术博客”的评论</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>elaine对《关于》的评论</title>
+		<link>/about/#comment-397206</link>
+		<dc:creator><![CDATA[elaine]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2017 03:39:44 +0000</pubDate>
+		<guid isPermaLink="false">#comment-397206</guid>
+		<description><![CDATA[你好，githuber上了解到相关信息~
+
+我是猎头elaine，幸会~
+
+最近在帮探探寻觅 ios开发 ，如若方便，]]></description>
+		<content:encoded><![CDATA[<p>你好，githuber上了解到相关信息~</p>
+<p>我是猎头elaine，幸会~</p>
+<p>最近在帮探探寻觅 ios开发 ，如若方便，</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Roland对《关于》的评论</title>
+		<link>/about/#comment-321448</link>
+		<dc:creator><![CDATA[Roland]]></dc:creator>
+		<pubDate>Thu, 21 May 2015 17:38:24 +0000</pubDate>
+		<guid isPermaLink="false">#comment-321448</guid>
+		<description><![CDATA[Hi wolfg,
+
+How do you get into Jenkins CI github org?
+
+Best,
+Roland]]></description>
+		<content:encoded><![CDATA[<p>Hi wolfg,</p>
+<p>How do you get into Jenkins CI github org?</p>
+<p>Best,<br />
+Roland</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>harry对《Raspberry Pi 跨年之旅 &#8211; 第一天》的评论</title>
+		<link>/linux/play-raspberry-pi-day1/#comment-133588</link>
+		<dc:creator><![CDATA[harry]]></dc:creator>
+		<pubDate>Thu, 03 Jan 2013 15:15:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1139#comment-133588</guid>
+		<description><![CDATA[总结的不错！期待后续更新。
+]]></description>
+		<content:encoded><![CDATA[<p>总结的不错！期待后续更新。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>guoyong对《笔记本Gentoo系统升级》的评论</title>
+		<link>/linux/upgrade-gentoo-on-my-notebook/#comment-103584</link>
+		<dc:creator><![CDATA[guoyong]]></dc:creator>
+		<pubDate>Tue, 03 Apr 2012 11:52:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=955#comment-103584</guid>
+		<description><![CDATA[&lt;p&gt;update:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;3G上网卡也需要重新设置 参考 http://www.blah-blah.ch/it/how-to-s/install-a-huawei-e1762-on-gentoo/&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;升级后wacom驱动好用了！&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+		<content:encoded><![CDATA[<p>update:</p>
+<ul>
+<li>
+<p>3G上网卡也需要重新设置 参考 <a href="http://www.blah-blah.ch/it/how-to-s/install-a-huawei-e1762-on-gentoo/" rel="nofollow">http://www.blah-blah.ch/it/how-to-s/install-a-huawei-e1762-on-gentoo/</a></p>
+</li>
+<li>
+<p>升级后wacom驱动好用了！</p>
+</li>
+</ul>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>wolfg对《》的评论</title>
+		<link>/hobbies/photography/912/#comment-102313</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Sun, 11 Mar 2012 06:09:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=912#comment-102313</guid>
+		<description><![CDATA[Wordpress for iOS 测试]]></description>
+		<content:encoded><![CDATA[<p>WordPress for iOS 测试</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>ziv cheung对《使用Cacti监控JVM》的评论</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comment-77503</link>
+		<dc:creator><![CDATA[ziv cheung]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2011 08:12:04 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=512#comment-77503</guid>
+		<description><![CDATA[请问我做完后，图片显示不出来，然后/cacti-0.8.7g/rra/localhost_jvmmempoolcommitted_11.rrd&#039;: No such file or directory呢？请问]]></description>
+		<content:encoded><![CDATA[<p>请问我做完后，图片显示不出来，然后/cacti-0.8.7g/rra/localhost_jvmmempoolcommitted_11.rrd': No such file or directory呢？请问</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>wolfg对《关于》的评论</title>
+		<link>/about/#comment-69880</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Wed, 16 Mar 2011 01:33:31 +0000</pubDate>
+		<guid isPermaLink="false">#comment-69880</guid>
+		<description><![CDATA[hi, there is no update on it. :)]]></description>
+		<content:encoded><![CDATA[<p>hi, there is no update on it. :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>chris对《关于》的评论</title>
+		<link>/about/#comment-69853</link>
+		<dc:creator><![CDATA[chris]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2011 19:41:15 +0000</pubDate>
+		<guid isPermaLink="false">#comment-69853</guid>
+		<description><![CDATA[Hello,
+
+i am interresting in your autopräfix program for symbian, i have an nokia x6 and it doesnt work, caus its the 5. edition, not the 2nd.
+Do you working on any update?
+with best regards,
+chris]]></description>
+		<content:encoded><![CDATA[<p>Hello,</p>
+<p>i am interresting in your autopräfix program for symbian, i have an nokia x6 and it doesnt work, caus its the 5. edition, not the 2nd.<br />
+Do you working on any update?<br />
+with best regards,<br />
+chris</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Zachary对《SSH:不用密码登录》的评论</title>
+		<link>/linux/sysadm/%e4%b8%8d%e7%94%a8%e5%af%86%e7%a0%81%e6%9d%a5ssh%e7%99%bb%e5%bd%95/#comment-65104</link>
+		<dc:creator><![CDATA[Zachary]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2011 08:18:51 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=569#comment-65104</guid>
+		<description><![CDATA[谢谢您的这篇博文，对我很有帮助！]]></description>
+		<content:encoded><![CDATA[<p>谢谢您的这篇博文，对我很有帮助！</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Frank对《使用Cacti监控JVM》的评论</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comment-61236</link>
+		<dc:creator><![CDATA[Frank]]></dc:creator>
+		<pubDate>Fri, 12 Nov 2010 01:45:53 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=512#comment-61236</guid>
+		<description><![CDATA[就是下面的命令：java  -Dcom.sun.management.snmp.port=9998]]></description>
+		<content:encoded><![CDATA[<p>就是下面的命令：java  -Dcom.sun.management.snmp.port=9998</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>wolfg对《使用Cacti监控JVM》的评论</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comment-61235</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Fri, 12 Nov 2010 01:41:35 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=512#comment-61235</guid>
+		<description><![CDATA[能说说你的启动jvm的命令具体是什么样的吗？]]></description>
+		<content:encoded><![CDATA[<p>能说说你的启动jvm的命令具体是什么样的吗？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Frank对《使用Cacti监控JVM》的评论</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comment-61173</link>
+		<dc:creator><![CDATA[Frank]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2010 04:41:37 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=512#comment-61173</guid>
+		<description><![CDATA[就是在执行命令java  -Dcom.sun.management.snmp.port=9998 时不行
+但是我在在把端口改成161 报错说是该端口已经被占用了，安装官方的配置但是配置managment的配置问和acl 时，好像是不能正常读取配置文件？]]></description>
+		<content:encoded><![CDATA[<p>就是在执行命令java  -Dcom.sun.management.snmp.port=9998 时不行<br />
+但是我在在把端口改成161 报错说是该端口已经被占用了，安装官方的配置但是配置managment的配置问和acl 时，好像是不能正常读取配置文件？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>wolfg对《使用Cacti监控JVM》的评论</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comment-61168</link>
+		<dc:creator><![CDATA[wolfg]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2010 01:18:36 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=512#comment-61168</guid>
+		<description><![CDATA[启动JVM的命令里加上-Dcom.sun.management.snmp.port=9998，注意-D这个]]></description>
+		<content:encoded><![CDATA[<p>启动JVM的命令里加上-Dcom.sun.management.snmp.port=9998，注意-D这个</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Frank对《使用Cacti监控JVM》的评论</title>
+		<link>/linux/sysadm/%e4%bd%bf%e7%94%a8cacti%e7%9b%91%e6%8e%a7jvm/#comment-61119</link>
+		<dc:creator><![CDATA[Frank]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2010 03:49:55 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/?p=512#comment-61119</guid>
+		<description><![CDATA[在配置完后但是设置的JVM 响应端口com.sun.management.snmp.port=9998 是总是报下面的错误
+Exception in thread &quot;main&quot; java.lang.NoClassDefFoundError: com/sun/management/snmp/port=9998
+Caused by: java.lang.ClassNotFoundException: com.sun.management.snmp.port=9998
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+Could not find the main class: com.sun.management.snmp.port=9998.  Program will exit.
+但是我在其配置文件中/usr/java/jre/lib/management/management.properties 和snmp.acl 也做了配置后再试重启JVM 但是snmp agent port 还是不能正常启动，在查看器官方的配置时，和气官方的配置是一样的，不过在其官方提供了一个文件就是JVM-MANAGEMENT-MIB.mib 不知道是在什么地方定义的，还请指点一下
+thanks]]></description>
+		<content:encoded><![CDATA[<p>在配置完后但是设置的JVM 响应端口com.sun.management.snmp.port=9998 是总是报下面的错误<br />
+Exception in thread "main" java.lang.NoClassDefFoundError: com/sun/management/snmp/port=9998<br />
+Caused by: java.lang.ClassNotFoundException: com.sun.management.snmp.port=9998<br />
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)<br />
+	at java.security.AccessController.doPrivileged(Native Method)<br />
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)<br />
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)<br />
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)<br />
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)<br />
+Could not find the main class: com.sun.management.snmp.port=9998.  Program will exit.<br />
+但是我在其配置文件中/usr/java/jre/lib/management/management.properties 和snmp.acl 也做了配置后再试重启JVM 但是snmp agent port 还是不能正常启动，在查看器官方的配置时，和气官方的配置是一样的，不过在其官方提供了一个文件就是JVM-MANAGEMENT-MIB.mib 不知道是在什么地方定义的，还请指点一下<br />
+thanks</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>杨涛对《在Windows XP下安装MoinMoin Wiki》的评论</title>
+		<link>/oss/%e5%9c%a8windows-xp%e4%b8%8b%e5%ae%89%e8%a3%85moinmoin-wiki/#comment-55635</link>
+		<dc:creator><![CDATA[杨涛]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 11:10:05 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/blog/2006/03/28/163#comment-55635</guid>
+		<description><![CDATA[博主，你好，我按照你的配置，访问http://127.0.0.1/mywiki的时候（用ie访问），出现以下的提示
+：Forbidden
+You don&#039;t have permission to access /mywiki on this server.
+请问知道怎么解决吗？
+yft809@163.com  不胜感激]]></description>
+		<content:encoded><![CDATA[<p>博主，你好，我按照你的配置，访问http://127.0.0.1/mywiki的时候（用ie访问），出现以下的提示<br />
+：Forbidden<br />
+You don't have permission to access /mywiki on this server.<br />
+请问知道怎么解决吗？<br />
+<a href="mailto:yft809@163.com">yft809@163.com</a>  不胜感激</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.175 seconds -->

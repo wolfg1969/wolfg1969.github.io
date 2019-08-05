@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fluxbox &#8211; 郭勇的技术博客</title>
+	<atom:link href="/tag/fluxbox/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2018 12:28:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">33683156</site>	<item>
+		<title>笔记本Gentoo系统升级</title>
+		<link>/linux/upgrade-gentoo-on-my-notebook/</link>
+		<comments>/linux/upgrade-gentoo-on-my-notebook/#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 03:41:17 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fluxbox]]></category>
+		<category><![CDATA[gentoo]]></category>
+
+		<guid isPermaLink="false">/?p=955</guid>
+		<description><![CDATA[利用假期把笔记本上的Gentoo系统升级到了最新版，改动的地方记录如下： urxvt无法运行 urxvt: u &#8230; <p class="link-more"><a href="/linux/upgrade-gentoo-on-my-notebook/" class="more-link">继续阅读<span class="screen-reader-text">“笔记本Gentoo系统升级”</span></a></p>]]></description>
+		<wfw:commentRss>/linux/upgrade-gentoo-on-my-notebook/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">955</post-id>	</item>
+		<item>
+		<title>我的Fluxbox配置</title>
+		<link>/oss/my-fluxbox-config/</link>
+		<pubDate>Mon, 05 Mar 2012 06:43:51 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[bitbucket]]></category>
+		<category><![CDATA[fluxbox]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/?p=898</guid>
+		<description><![CDATA[https://bitbucket.org/wolfg/myfluxbox]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
+		<item>
+		<title>A screenshot of my desktop</title>
+		<link>/linux/a-screenshot-of-my-desktop/</link>
+		<pubDate>Sun, 04 Mar 2012 05:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[wolfg1969]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Using Desktop]]></category>
+		<category><![CDATA[fluxbox]]></category>
+		<category><![CDATA[gentoo]]></category>
+
+		<guid isPermaLink="false">http://guoyong.org/2012/03/04/a-screenshot-of-my-desktop/</guid>
+		<description><![CDATA[]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">867</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.093 seconds -->

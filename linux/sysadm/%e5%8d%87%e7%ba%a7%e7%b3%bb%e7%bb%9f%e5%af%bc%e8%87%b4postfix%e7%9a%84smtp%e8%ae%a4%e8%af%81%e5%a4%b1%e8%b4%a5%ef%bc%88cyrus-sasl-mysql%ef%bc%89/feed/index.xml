@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《升级系统导致Postfix的SMTP认证失败（Cyrus-SASL + MySQL）》的评论</title>
+	<atom:link href="/linux/sysadm/%E5%8D%87%E7%BA%A7%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%87%B4postfix%E7%9A%84smtp%E8%AE%A4%E8%AF%81%E5%A4%B1%E8%B4%A5%EF%BC%88cyrus-sasl-mysql%EF%BC%89/feed/" rel="self" type="application/rss+xml" />
+	<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 03:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>作者：zhangfengsh</title>
+		<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/#comment-40293</link>
+		<dc:creator><![CDATA[zhangfengsh]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2008 03:04:34 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2008/01/29/351#comment-40293</guid>
+		<description><![CDATA[根据您06年12月帖子已解决。]]></description>
+		<content:encoded><![CDATA[<p>根据您06年12月帖子已解决。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：zhangfengsh</title>
+		<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/#comment-40294</link>
+		<dc:creator><![CDATA[zhangfengsh]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2008 03:04:34 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2008/01/29/351#comment-40294</guid>
+		<description><![CDATA[根据您06年12月帖子已解决。]]></description>
+		<content:encoded><![CDATA[<p>根据您06年12月帖子已解决。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：zhangfengsh</title>
+		<link>/linux/sysadm/%e5%8d%87%e7%ba%a7%e7%b3%bb%e7%bb%9f%e5%af%bc%e8%87%b4postfix%e7%9a%84smtp%e8%ae%a4%e8%af%81%e5%a4%b1%e8%b4%a5%ef%bc%88cyrus-sasl-mysql%ef%bc%89/#comment-40175</link>
+		<dc:creator><![CDATA[zhangfengsh]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2008 03:09:30 +0000</pubDate>
+		<guid isPermaLink="false">http://guoyong.org/2008/01/29/351#comment-40175</guid>
+		<description><![CDATA[初装邮件系统后也出现warning: SASL authentication problem: unable to open Berkeley db /etc/sasldb2: No such file or directory
+
+根据您的文章，改为smtpd_sasl_path=smtpd后，倒是没有出现上面的错误提示。但是客户端仍然登录不了。
+mysql已经根据sql_select查询数据库了。
+能否给些提示呢？
+我在ubuntu中文论坛的帖子：
+http://forum.ubuntu.org.cn/viewtopic.php?p=835389#835389]]></description>
+		<content:encoded><![CDATA[<p>初装邮件系统后也出现warning: SASL authentication problem: unable to open Berkeley db /etc/sasldb2: No such file or directory</p>
+<p>根据您的文章，改为smtpd_sasl_path=smtpd后，倒是没有出现上面的错误提示。但是客户端仍然登录不了。<br />
+mysql已经根据sql_select查询数据库了。<br />
+能否给些提示呢？<br />
+我在ubuntu中文论坛的帖子：<br />
+<a href="http://forum.ubuntu.org.cn/viewtopic.php?p=835389#835389" rel="nofollow">http://forum.ubuntu.org.cn/viewtopic.php?p=835389#835389</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.079 seconds -->
